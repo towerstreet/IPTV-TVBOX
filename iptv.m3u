@@ -331,19 +331,15 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="https://live.fanmingming.com/tv/东森戏剧台.png" group-title="港台频道",东森戏剧台
-http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspjcophjfvjtycxjpjjmendsxd.flv
-#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="https://live.fanmingming.com/tv/东森戏剧台.png" group-title="港台频道",东森戏剧台
-http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspjcophjfvjtycxjpjjmendsxd.flv
-#EXTINF:-1 tvg-name="东森电影台" tvg-logo="https://live.fanmingming.com/tv/东森电影台.png" group-title="港台频道",东森电影台
+#EXTINF:-1 tvg-name="东森电影台" tvg-logo=" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC3.png" group-title="港台频道",东森电影台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejowdxnjltdjhecvxcjjejjejyhjdyduojuomdfjhjjjdjsjy.flv
-#EXTINF:-1 tvg-name="东森洋片台" tvg-logo="https://live.fanmingming.com/tv/东森洋片台.png" group-title="港台频道",东森洋片台
+#EXTINF:-1 tvg-name="东森洋片台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC4.png" group-title="港台频道",东森洋片台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejmjptdjjxfjwetjvbjstjjjsutyhdjhfljjfhfhyjwjsyp.flv
-#EXTINF:-1 tvg-name="龙祥电影台" tvg-logo="https://live.fanmingming.com/tv/龙祥电影台.png" group-title="港台频道",龙祥电影台
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://live.fanmingming.com/tv/龙祥电影.png" group-title="港台频道",龙祥电影
 http://ali.hlspull.yximgs.com/live/huanqiuhklivemjloehjbjjjpvboydetjewsjhthjyujfjwetyjjjhflxsj.flv
-#EXTINF:-1 tvg-name="龙华戏剧台" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧台.png" group-title="港台频道",龙华戏剧台
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧.png" group-title="港台频道",龙华戏剧
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhslcfvxcvjsjbcvjfdvjsfcbjbnjtyjd.flv
-#EXTINF:-1 tvg-name="龙华洋片台" tvg-logo="https://live.fanmingming.com/tv/龙华洋片台.png" group-title="港台频道",龙华洋片台
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://live.fanmingming.com/tv/龙华洋片.png" group-title="港台频道",龙华洋片
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfvxcvxsjbcvjfdvsfcbjbnjtyxty.flv
 #EXTINF:-1 tvg-name="好莱坞电影台" tvg-logo="https://live.fanmingming.com/tv/好莱坞电影台.png" group-title="港台频道",好莱坞电影台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejmpjjwdeyjsjjcjvsjfjljvjfhjuejdfjhjwjljcmbhlwjy.flv
@@ -363,7 +359,7 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfybjssx
 http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcbeywejweefshjfhhjsjjcxhbo.flv
 #EXTINF:-1 tvg-name="HBO 家庭台" tvg-logo="https://live.fanmingming.com/tv/HBO 家庭台.png" group-title="港台频道",HBO 家庭台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxclmvhjogdjbodbsjhlelevendhbosignature.flv
-#EXTINF:-1 tvg-name="探索频道" tvg-logo="https://live.fanmingming.com/tv/探索频道.png" group-title="港台频道",探索频道
+#EXTINF:-1 tvg-name="探索频道" tvg-logo="https://live.fanmingming.com/tv/DiscoveryHD.png" group-title="港台频道",探索频道
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvbcvjfdvbnjcjjsjjjejjtspj.flv
 #EXTINF:-1 tvg-name="国家野生" tvg-logo="https://live.fanmingming.com/tv/国家野生.png" group-title="港台频道",国家野生
 http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjbvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjlys.flv
@@ -399,7 +395,7 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivephxehmffjuxcxjvejejyhmnjjxjjhjdh
 http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
 #EXTINF:-1 tvg-name="年代新闻台" tvg-logo="https://live.fanmingming.com/tv/年代新闻台.png" group-title="港台频道",年代新闻台
 http://ali.hlspull.yximgs.com/live/huanqiuhkliveojevdyscvbudlojlnsfjewtjudvbbjxfjnjlvcjdjdnjxw.flv
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视高清",CCTV-4K 超高清
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png" group-title="港台频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
