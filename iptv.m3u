@@ -349,8 +349,17 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdv
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
 
 #网络直播
+#EXTINF:-1 tvg-name="直播中国-玉龙雪山" tvg-logo="" group-title="网络直播",直播中国-玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8?contentid=2820180516001
+
+#EXTINF:-1 tvg-name="直播中国-珠穆朗玛峰" tvg-logo="" group-title="网络直播",直播中国-珠穆朗玛峰
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
+
 #EXTINF:-1 tvg-name="抖音-央视新闻" tvg-logo="" group-title="网络直播",抖音-央视新闻
 https://240e_95d_100b_10_8000_0_b00_18.bytefcdnrd.com/media/stream-114819207762805426.flv?302_type=cold_aggr&_session_id=037-20240320211351389016E1C5C2B82F826F.1710940432761.76245&abr_pts=-800&cb_retry=0&domain=pull-hs-f5.flive.douyincdn.com&fp_user_url=https%3A%2F%2Fpull-hs-f5.flive.douyincdn.com%2Fmedia%2Fstream-114819207762805426.flv%3Fabr_pts%3D-800%26_session_id%3D037-20240320211351389016E1C5C2B82F826F.1710940432761.76245&manage_ip=&node_id=&pro_type=http2&redirect_from=pod.cn-gnsa4p.pb3c.nss&vhost=push-rtmp-hs-f5.douyincdn.com
+
+#EXTINF:-1 tvg-name="B站-Panda_Live" tvg-logo="" group-title="网络直播",B站-Panda_Live
+https://cn-jsyz-ct-03-74.bilivideo.com/live-bvc/758161/live_359182670_10305970/index.m3u8?expires=1710948022&len=0&oi=0x240e03830620f70050929f9d2e489626&pt=web&qn=0&trid=10072ebe35f5fb574055a5d1a2caf48f4c42&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=ba64e029ff966a3e72cbdea112da5ad9&sk=c9de3322be88790f1384e1a459f09aa7&flvsk=412208ebe545421df61126fb4bf0c8de&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-jsyz-ct-03-74&chash=1&bmt=1&sche=ban&bvchls=1&score=3&pp=rtmp&source=onetier&trace=1099&site=1fcd05e53e8a3211d760fcbf41eb1140&qp=de_0&zoneid_l=151388161&sid_l=stream_name_cold&order=1
 
 #EXTINF:-1 tvg-name="B站-王者荣耀赛事" tvg-logo="" group-title="网络直播",B站-王者荣耀赛事
 https://xy180x97x236x10xy.mcdn.bilivideo.cn:486/live-bvc/951854/live_392836434_52698792_minihevc/index.m3u8?expires=1710944788&len=0&oi=0x240e03830620f70050929f9d2e489626&pt=web&qn=0&trid=10073277544887334ec0a53206d21b73ceb4&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=6d7b6f054eff0f2884934c31e1616cdd&sk=18039916feca0358cd499ade8e1e5c24&flvsk=e1fac8f0e324c8e2711c8cc1c0ba304b&p2p_type=1&sl=10&free_type=0&mid=39747201&sid=mcdn-jd-jsnt-ct-50000803&chash=0&bmt=1&sche=ban&bvchls=1&score=18&pp=rtmp&source=onetier&trace=111&site=2b64741ff5a7c2d28c48cbee484eb37c&qp=de_0&zoneid_l=151388161&sid_l=live_392836434_52698792_minihevc&order=1
@@ -367,8 +376,6 @@ https://cn-jsyz-ct-03-72.bilivideo.com/live-bvc/865114/live_621892042_51969009/i
 #EXTINF:-1 tvg-name="B站-道德经诵读24H" tvg-logo="" group-title="网络直播",B站-道德经诵读24H
 https://cn-hnld-ct-01-51.bilivideo.com/live-bvc/963652/live_3546632637384843_77494461.flv?expires=1710947301&pt=web&deadline=1710947301&len=0&oi=1910149384&platform=web&qn=0&trid=1000ad185c0c3bd04c658a95ae4b3e4a6c33&uipk=100&uipv=100&nbs=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs&cdn=cn-gotcha01&upsig=8cbf36289f7b6c14b05fa90e6029994a&sk=d597a7b910d29e735bca2b81660319a5&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-hnld-ct-01-51&chash=1&bmt=1&sche=ban&score=1&pp=rtmp&source=onetier&trace=1099&site=d5382e1bd0f9556562e6ecbee0703664&qp=de_0&zoneid_l=151388161&sid_l=stream_name_cold&order=1
 
-#EXTINF:-1 tvg-name="B站-Panda_Live" tvg-logo="" group-title="网络直播",B站-Panda_Live
-https://cn-jsyz-ct-03-74.bilivideo.com/live-bvc/758161/live_359182670_10305970/index.m3u8?expires=1710948022&len=0&oi=0x240e03830620f70050929f9d2e489626&pt=web&qn=0&trid=10072ebe35f5fb574055a5d1a2caf48f4c42&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=ba64e029ff966a3e72cbdea112da5ad9&sk=c9de3322be88790f1384e1a459f09aa7&flvsk=412208ebe545421df61126fb4bf0c8de&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-jsyz-ct-03-74&chash=1&bmt=1&sche=ban&bvchls=1&score=3&pp=rtmp&source=onetier&trace=1099&site=1fcd05e53e8a3211d760fcbf41eb1140&qp=de_0&zoneid_l=151388161&sid_l=stream_name_cold&order=1
 
 
 
