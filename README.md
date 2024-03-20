@@ -10,9 +10,9 @@
 >
 >🔗[[EPG]](https://github.com/fanmingming/live/blob/main/e.xml)
 
->[Potato-66/SimpleTV](https://github.com/Potato-66/SimpleTV)
+>[YueChan/Live](https://github.com/YueChan/Live)
 >
->🎞️[[M3U]](https://github.com/Potato-66/SimpleTV/blob/main/m3u/ipv6/IPTV.m3u)    IPV6
+>🎞️[[M3U]](https://github.com/YueChan/Live/main/Global.m3u)    IPV6
 
 >[ClodQiu/LIVE](https://github.com/ClodQiu/LIVE)
 >
