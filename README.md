@@ -2,7 +2,7 @@
 
 >[fanmingming/live](https://github.com/fanmingming/live)
 >
->🎞️[[M3U]](https://github.com/fanmingming/live/main/tv/m3u/ipv6.m3u)    IPV6
+>🎞️[[M3U]](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)    IPV6
 >
 >🔗[[EPG]](https://github.com/fanmingming/live/blob/main/e.xml)
 
