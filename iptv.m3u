@@ -355,12 +355,6 @@ https://240e_95d_100b_10_8000_0_b00_18.bytefcdnrd.com/media/stream-1148192077628
 #EXTINF:-1 tvg-name="B站-王者荣耀赛事" tvg-logo="" group-title="网络直播",B站-王者荣耀赛事
 https://xy180x97x236x10xy.mcdn.bilivideo.cn:486/live-bvc/951854/live_392836434_52698792_minihevc/index.m3u8?expires=1710944788&len=0&oi=0x240e03830620f70050929f9d2e489626&pt=web&qn=0&trid=10073277544887334ec0a53206d21b73ceb4&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=6d7b6f054eff0f2884934c31e1616cdd&sk=18039916feca0358cd499ade8e1e5c24&flvsk=e1fac8f0e324c8e2711c8cc1c0ba304b&p2p_type=1&sl=10&free_type=0&mid=39747201&sid=mcdn-jd-jsnt-ct-50000803&chash=0&bmt=1&sche=ban&bvchls=1&score=18&pp=rtmp&source=onetier&trace=111&site=2b64741ff5a7c2d28c48cbee484eb37c&qp=de_0&zoneid_l=151388161&sid_l=live_392836434_52698792_minihevc&order=1
 
-#EXTINF:-1 tvg-name="快手-七哥本尊" tvg-logo="" group-title="网络直播",快手-七哥本尊
-https://zw0jyixu52sxirkeemrulqhb1rjbflup1cxm3opjn0jocpvq.mobgslb.tbcache.com/ali-origin.pull.yximgs.com/gifshow/5bV0QsZYLfI_ma1500.flv?kabr_spts=-5000&tsc=origin&pullDomain=ali-origin.pull.yximgs.com&sidc=205842&oidc=watchmen&fd=1&highTraffic=1&ss=s20&auth_key=1711026692-0-0-637aa74666f96d73c7c1a48703d9ac5f&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666300&ali_stream_type=00&ali_stream_type_ring=&ali_orig_station=cn6885&ali_302c=700&ali_st=cn6837&ali_ts=1710940294
-
-#EXTINF:-1 tvg-name="抖音-老饭骨" tvg-logo="" group-title="网络直播",抖音-老饭骨
-https://pull-flv-f26.douyincdn.com/gamereplay/stream-403049491509281456_or4.flv?abr_pts=-800&_session_id=037-202403202131377F7E1B43CF228B3D9649.1710941497075.97627
-
 #EXTINF:-1 tvg-name="B站-SpaceX基地24H" tvg-logo="" group-title="网络直播",B站-SpaceX基地24H
 https://d1--cn-gotcha204-4.bilivideo.com/live-bvc/508265/live_261152306_44811934/index.m3u8?expires=1710945946&len=0&oi=0x240e03830620f70050929f9d2e489626&pt=web&qn=0&trid=100715a01a64f7ca4565a8227ddd1d0d1622&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=2d03ccd0bb99ca8b51d3b986e03a3784&sk=1b22c385179d393965c9fda8a8305ac5&p2p_type=1&sl=1&free_type=0&mid=39747201&pp=rtmp&source=onetier&trace=10&site=f6158e81715736393f748dddaaf81250&qp=de_0&order=1
 
@@ -372,6 +366,15 @@ https://cn-jsyz-ct-03-72.bilivideo.com/live-bvc/865114/live_621892042_51969009/i
 
 #EXTINF:-1 tvg-name="B站-道德经诵读24H" tvg-logo="" group-title="网络直播",B站-道德经诵读24H
 https://cn-hnld-ct-01-51.bilivideo.com/live-bvc/963652/live_3546632637384843_77494461.flv?expires=1710947301&pt=web&deadline=1710947301&len=0&oi=1910149384&platform=web&qn=0&trid=1000ad185c0c3bd04c658a95ae4b3e4a6c33&uipk=100&uipv=100&nbs=1&uparams=cdn,deadline,len,oi,platform,qn,trid,uipk,uipv,nbs&cdn=cn-gotcha01&upsig=8cbf36289f7b6c14b05fa90e6029994a&sk=d597a7b910d29e735bca2b81660319a5&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-hnld-ct-01-51&chash=1&bmt=1&sche=ban&score=1&pp=rtmp&source=onetier&trace=1099&site=d5382e1bd0f9556562e6ecbee0703664&qp=de_0&zoneid_l=151388161&sid_l=stream_name_cold&order=1
+
+
+
+
+
+
+
+
+
 
 
 
