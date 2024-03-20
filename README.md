@@ -1,8 +1,6 @@
 🏠我的加速链接：
 
 >🎞️[[M3U]](https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/iptv.m3u)    IPV6
->
->🔗[[EPG]](https://epg.112114.xyz/?ch={name}&date={date})
 
 🎈大佬们的链接：
 
