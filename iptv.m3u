@@ -348,13 +348,3 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdv
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="国际频道",TVBS新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
 
-#喜欢看的主播
-#EXTINF:-1 tvg-name="七哥本尊" tvg-logo="https://live.fanmingming.com/tv/七哥本尊.png" group-title="网络直播",七哥本尊
-https://ali-origin.pull.yximgs.com/gifshow/5bV0QsZYLfI_ma1500.flv?auth_key=1711024119-0-0-150a21eefbfe1d8a6b0b7b3f45595403&tsc=origin&highTraffic=1&oidc=watchmen&sidc=205842&fd=1&ss=s20&kabr_spts=-5000
-#EXTINF:-1 tvg-name="虎牙王者荣耀赛事" tvg-logo="https://live.fanmingming.com/tv/虎牙王者荣耀赛事.png" group-title="网络直播",虎牙王者荣耀赛事
-http://al-game.flv.huya.com/src/78941969-2558924260-10990496009641000960-3143878788-10057-A-0-1-imgplus.flv?wsSecret=e8525fbf4d5480aeafe76af565fde49a&wsTime=65fad89f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,264_8000,264_10000,264_15000,264_20000,&ratio=14000
-#EXTINF:-1 tvg-name="张大仙" tvg-logo="https://live.fanmingming.com/tv/张大仙.png" group-title="网络直播",张大仙
-https://al-vod.cdn.huya.com/leaf/1048585/59a91b252545dcc3e53b1e831b45d090/58949591/11377635_1b7ebb6464018a0c6ba15a25944fe175_264_720_1.m3u8?hyvid=895720801&hyauid=1259515661837&hyroomid=1259515661837&hyratio=1300&hyscence=vod&appid=66&domainid=25&srckey=NjZfMjVfODk1NzIwODAx&&bitrate=1214&client=14&definition=1300&pid=1259515661837&scene=vod&vid=895720801&u=1260188205889&t=100&sv=2403121128&dMod=wcs-153
-#EXTINF:-1 tvg-name="吕德华" tvg-logo="https://live.fanmingming.com/tv/吕德华.png" group-title="网络直播",吕德华
-http://al.flv.huya.com/src/1354740567-1354740567-5818566429829496832-2709604590-10057-A-0-1-imgplus.flv?wsSecret=368955238b6fd54aa653dce9ef53e17a&wsTime=65fad836&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,
-
