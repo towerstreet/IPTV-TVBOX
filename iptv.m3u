@@ -294,6 +294,10 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+#Potato-66/SimpleTV
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+
 #YueChan/Live
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNN.png" group-title="国际频道",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
@@ -313,10 +317,6 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 tvg-id="TRT World" tvg-name="TRT World" tvg-logo="https://live.fanmingming.com/tv/TRT-World.png" group-title="国际频道",TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-
-#Potato-66/SimpleTV
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 #ClodQiu/LIVE
 #EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://live.fanmingming.com/tv/HBOHD.png" group-title="国际频道",HBO HD
