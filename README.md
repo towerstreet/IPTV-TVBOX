@@ -12,7 +12,7 @@
 
 >[YueChan/Live](https://github.com/YueChan/Live)
 >
->🎞️[[M3U]](https://github.com/YueChan/Live/main/Global.m3u)    IPV6
+>🎞️[[M3U]](https://github.com/YueChan/Live/blob/main/Global.m3u)    IPV6
 
 >[ClodQiu/LIVE](https://github.com/ClodQiu/LIVE)
 >
