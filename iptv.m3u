@@ -355,6 +355,9 @@ https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-name="直播中国-珠穆朗玛峰" tvg-logo="" group-title="网络直播",直播中国-珠穆朗玛峰
 https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
 
+#EXTINF:-1 tvg-name="B站-PandaLive" tvg-logo="" group-title="网络直播",B站-PandaLive
+https://cn-jsyz-ct-03-74.bilivideo.com/live-bvc/228382/live_359182670_10305970/index.m3u8?expires=1710985639&len=0&oi=0x240e038306020800744213d665f58bd5&pt=web&qn=0&trid=1007678886e63fa4431991cf622ebfbe6a22&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=5dcfcd74de284e3e9db9d629df2d1218&sk=2a969af3869c7718b90cc4b9a4e7ca54&flvsk=ffb32fce6b439c86e9c1a17f792fa2e7&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-jsyz-ct-03-74&chash=1&bmt=1&sche=ban&bvchls=1&score=3&pp=rtmp&source=onetier&trace=1099&site=1c123494797c4fafc721b1d51b2e106f&qp=de_0&zoneid_l=151388161&sid_l=stream_name_cold&order=1
+
 #EXTINF:-1 tvg-name="B站-王者荣耀赛事" tvg-logo="" group-title="网络直播",B站-王者荣耀赛事
 https://xy180x97x236x10xy.mcdn.bilivideo.cn:486/live-bvc/951854/live_392836434_52698792_minihevc/index.m3u8?expires=1710944788&len=0&oi=0x240e03830620f70050929f9d2e489626&pt=web&qn=0&trid=10073277544887334ec0a53206d21b73ceb4&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=6d7b6f054eff0f2884934c31e1616cdd&sk=18039916feca0358cd499ade8e1e5c24&flvsk=e1fac8f0e324c8e2711c8cc1c0ba304b&p2p_type=1&sl=10&free_type=0&mid=39747201&sid=mcdn-jd-jsnt-ct-50000803&chash=0&bmt=1&sche=ban&bvchls=1&score=18&pp=rtmp&source=onetier&trace=111&site=2b64741ff5a7c2d28c48cbee484eb37c&qp=de_0&zoneid_l=151388161&sid_l=live_392836434_52698792_minihevc&order=1
 
