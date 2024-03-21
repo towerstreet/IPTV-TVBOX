@@ -358,10 +358,10 @@ https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-name="云南丽江天文台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/直播中国.png" group-title="网络直播",云南丽江天文台
 https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
 
-#EXTINF:-1 tvg-name="法治在线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/法治在线.png" group-title="央视频道",法治在线
+#EXTINF:-1 tvg-name="法治在线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/法治在线.png" group-title="网络直播",法治在线
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12163686871_strL.flv?auth_key=1711085736-0-0-02fadb017f12858e074db4b301480d86&oidc=watchmen&sidc=203562&srcStrm=SX15MH40leg&fd=1&ss=s20&kabr_spts=-5000
 
-#EXTINF:-1 tvg-name="央视新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/央视新闻.png" group-title="央视频道",央视新闻
+#EXTINF:-1 tvg-name="央视新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/央视新闻.png" group-title="网络直播",央视新闻
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12163892300_strL.flv?auth_key=1711090665-0-0-fbf5adf0795242a5a9b267473f80fc58&highTraffic=2&oidc=alihb&srcStrm=juEzQrBrrZM&fd=1&ss=s20&kabr_spts=-5000
 
 #EXTINF:-1 tvg-name="PandaLive" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",PandaLive
