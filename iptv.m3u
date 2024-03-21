@@ -358,6 +358,9 @@ https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-name="云南丽江天文台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/直播中国.png" group-title="网络直播",云南丽江天文台
 https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
 
+#EXTINF:-1 tvg-name="法治在线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/法治在线.png" group-title="网络直播",法治在线
+https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12163686871_strL.flv?auth_key=1711085736-0-0-02fadb017f12858e074db4b301480d86&oidc=watchmen&sidc=203562&srcStrm=SX15MH40leg&fd=1&ss=s20&kabr_spts=-5000
+
 #EXTINF:-1 tvg-name="PandaLive" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",PandaLive
 https://cn-jsyz-ct-03-74.bilivideo.com/live-bvc/228382/live_359182670_10305970/index.m3u8?expires=1710985639&len=0&oi=0x240e038306020800744213d665f58bd5&pt=web&qn=0&trid=1007678886e63fa4431991cf622ebfbe6a22&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=5dcfcd74de284e3e9db9d629df2d1218&sk=2a969af3869c7718b90cc4b9a4e7ca54&flvsk=ffb32fce6b439c86e9c1a17f792fa2e7&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-jsyz-ct-03-74&chash=1&bmt=1&sche=ban&bvchls=1&score=3&pp=rtmp&source=onetier&trace=1099&site=1c123494797c4fafc721b1d51b2e106f&qp=de_0&zoneid_l=151388161&sid_l=stream_name_cold&order=1
 
@@ -378,9 +381,6 @@ https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240217192502_1jU_st
 
 #EXTINF:-1 tvg-name="网易第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="网络直播",网易第五人格
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240124140755_qJ0_strL.flv?auth_key=1711081795-0-0-54ed2c5ddf535b8f8100a16545530faa&oidc=alihb&srcStrm=ZcXe2LSC4Bo&fd=1&ss=s20&kabr_spts=-5000
-
-#EXTINF:-1 tvg-name="法治在线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/法治在线.png" group-title="网络直播",法治在线
-https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12163686871_strL.flv?auth_key=1711085736-0-0-02fadb017f12858e074db4b301480d86&oidc=watchmen&sidc=203562&srcStrm=SX15MH40leg&fd=1&ss=s20&kabr_spts=-5000
 
 ##EXTINF:-1 tvg-name="七哥本尊" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",七哥本尊
 #
