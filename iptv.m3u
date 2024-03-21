@@ -374,6 +374,9 @@ https://d1--cn-gotcha204.bilivideo.com/live-bvc/447024/live_290515513_3522421_15
 #EXTINF:-1 tvg-name="太空宇宙背景冥想" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",太空宇宙背景冥想
 https://cn-jsyz-ct-03-72.bilivideo.com/live-bvc/865114/live_621892042_51969009/index.m3u8?expires=1710947061&len=0&oi=1910149384&pt=web&qn=0&trid=10073140b83dafa6450faa97e9d107622eb9&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=d1177f25017c3084a8133e249e0b1942&sk=26a72e33fc32cdb821edde2f9e2d35ab&flvsk=e7cd103a71cab338051f417e516f0a68&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-jsyz-ct-03-72&chash=1&bmt=1&sche=ban&bvchls=1&score=2&pp=rtmp&source=onetier&trace=1099&site=89a437cee63bbef59f001c1360d163e8&qp=de_0&zoneid_l=151388161&sid_l=stream_name_cold&order=1
 
+#EXTINF:-1 tvg-name="直播地球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",直播地球
+https://d1--cn-gotcha101.bilivideo.com/live-bvc/448798/live_91650842_55105212.m3u8?expires=1711039549&len=0&oi=0x240e038306020800c5b6f036a6b5ab5&pt=h5&qn=0&trid=1003660c291be20b44a5821cda87acd6bbb7&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=ce0f10c041fe7ae25ad055f58214285f&sk=6602d1551ff4a9e00e0f6ed94c6c1dda&p2p_type=4294967295&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=10&site=1df24fe7615887017efb418a56c35d82&zoneid_l=151388161&sid_l=stream_name_cold&order=1"
+
 #EXTINF:-1 tvg-name="5EPlay CSGO" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/5EPlay.png" group-title="网络直播",5EPlay CSGO
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240226151130_nMs_strL.flv?auth_key=1711116463-0-0-c0472a82c8b77190957f3ab999ce2279&oidc=alihb&srcStrm=bwO3HdbIGGE&fd=1&ss=s20&kabr_spts=-5000
 
@@ -397,9 +400,6 @@ https://e9cba0fe28f7ecdafde254f92a873ddb.h2.smtcdns.net/d1--cn-gotcha204.bilivid
 
 #EXTINF:-1 tvg-name="七哥本尊" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",七哥本尊
 https://ali-origin.pull.yximgs.com/gifshow/lT2nQ70jP7A_ma1500.flv?auth_key=1711109183-0-0-4bada05b7123d4601c9f1d1ffe8bc5d0&tsc=origin&highTraffic=1&oidc=watchmen&sidc=206077&fd=1&ss=s20&kabr_spts=-5000
-
-
-
 
 
 
