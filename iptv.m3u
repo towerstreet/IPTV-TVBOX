@@ -395,6 +395,9 @@ https://hw.pull.yximgs.com/gifshow/JZmncyEj2gE.flv?hwTime=65fdade3&hwSecret=3d0e
 #EXTINF:-1 tvg-name="德云社相声 3" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声 3
 https://aldirect.flv.huya.com/huyalive/1199641321485-1199641321485-5778646143332253696-2399282766426-10057-A-0-1.flv?wsSecret=2b7a51c61371f832939d1fa076997fdb&wsTime=65fc6407&seqid=2970562316998&ctype=huya_live&ver=1&fs=bgct&dMod=wcs-25&sdkPcdn=1_1&u=1260188205889&t=100&sv=2403190858&sdk_sid=1711039494313&a_block=1&sf=1
 
+#EXTINF:-1 tvg-name="德云社相声 4" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声 4
+https://txdirect.flv.huya.com/huyalive/1199607078181-1199607078181-5631572272545267712-2399214279818-10057-A-0-1.flv?wsSecret=e7e60e3e6952eeca6e33fb86331029d3&wsTime=65fc6602&seqid=2970562823917&ctype=huya_live&ver=1&fs=bgct&dMod=wcs-25&sdkPcdn=1_1&u=1260188205889&t=100&sv=2403190858&sdk_sid=1711040001232&a_block=1&sf=1
+
 #EXTINF:-1 tvg-name="德云社相声 24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声 24H
 https://d1--cn-gotcha204-4.bilivideo.com/live-bvc/854668/live_1293600324_32368208_1500/index.m3u8?expires=1711041139&len=0&oi=0x240e038306020800c5b6f036a6b5ab5&pt=h5&qn=0&trid=10072aae67c1728848cda6656ca8405ce7b2&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=9f5833297bb03b3122f933006d7b6a3c&sk=323b16106320e17953e3a2ef7f53a1d6&p2p_type=4294967295&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=10&site=09a3c62d7d064270713b615c4ad906a5&order=2
 
