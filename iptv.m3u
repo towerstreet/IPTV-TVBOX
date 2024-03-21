@@ -373,6 +373,9 @@ https://cn-jsyz-ct-03-72.bilivideo.com/live-bvc/865114/live_621892042_51969009/i
 #EXTINF:-1 tvg-name="B站-德云社最新相声" tvg-logo="" group-title="网络直播",B站-德云社最新相声
 https://cn-jsnt-ct-01-24.bilivideo.com/live-bvc/337422/live_1293600324_32368208_1500/index.m3u8?expires=1710986430&len=0&oi=0x240e038306020800744213d665f58bd5&pt=web&qn=0&trid=100731feb7a884f54c418ad0ec1dce1526e4&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=597634093cb25e5d79658cd9d32c8297&sk=323b16106320e17953e3a2ef7f53a1d6&flvsk=bb3f47221a2e19300a405bdbeed34028&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-jsnt-ct-01-24&chash=1&bmt=1&sche=ban&bvchls=1&score=6&pp=rtmp&source=onetier&trace=911&site=d8cbf9ae2db510c6741cbbed8ba40deb&qp=de_0&zoneid_l=151388161&sid_l=live_1293600324_32368208_1500&order=1
 
+#EXTINF:-1 tvg-name="虎牙-郭德纲于谦精选相声" tvg-logo="" group-title="网络直播",虎牙-郭德纲于谦精选相声
+http://al.flv.huya.com/src/1199621835392-1199621835392-5694954011170439168-2399243794240-10057-A-0-1.flv?wsSecret=e82291f610a49170abec310f76940b23&wsTime=65fb87d9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_live&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,
+
 #EXTINF:-1 tvg-name="快手-七哥本尊" tvg-logo="" group-title="网络直播",快手-七哥本尊
 https://alivod.a.yximgs.com/livedvr/flv2ts/gifshow/5bV0QsZYLfI_avc1000m.1710936017753-9006564.0-16.m3u8?auth_key=1711584785-62631222-0-79539b16a7a5a9be2d94bafe0a0e4121
 
