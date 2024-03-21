@@ -389,10 +389,10 @@ https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240124140755_qJ0_s
 https://txvod.a.yximgs.com/livedvr/flv2ts/gifshow/5bV0QsZYLfI_avc1000m.1710936017753-9006564.0-16.m3u8?sign=1711605554-8301064851474181680-0-f05ba4059c00e44a7b91512c6cd83109
 
 #EXTINF:-1 tvg-name="德云社相声高清" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声高清
-https://hw.pull.yximgs.com/gifshow/hFFHRh2E7Co.flv?hwTime=65fd43ac&hwSecret=36e3c3747dc5b879a34e9f499fd90d6d&fd=1&ss=s1&kabr_spts=-5000
+https://ali-adaptive.pull.yximgs.com/gifshow/OyAyNDeaaFA_ShowAvcHdL1.flv?auth_key=1711096829-0-0-02e0310a33831b1bd453bc8e29f8cc9d&tsc=origin&highTraffic=1&oidc=watchmen&sidc=2012&fd=1&ss=s20&kabr_spts=-5000
 
-
-
+#EXTINF:-1 tvg-name="德云社相声24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声24H
+https://cn-jsyz-ct-03-49.bilivideo.com/live-bvc/344370/live_1293600324_32368208_1500/index.m3u8?expires=1711014164&len=0&oi=0x240e038306020800c082f3fb986d2904&pt=web&qn=0&trid=10078863e77eda2d43a690157f823efa167e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=6ef08c9e0e0ffa4162946d5ccd9d593b&sk=323b16106320e17953e3a2ef7f53a1d6&flvsk=bb3f47221a2e19300a405bdbeed34028&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-jsyz-ct-03-49&chash=1&bmt=1&sche=ban&bvchls=1&score=2&pp=rtmp&source=onetier&trace=1099&site=4286a72a7e631b7aefa23a68c14fcb6c&qp=de_0&zoneid_l=151388161&sid_l=stream_name_cold&order=1
 
 
 
