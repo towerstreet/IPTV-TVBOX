@@ -349,37 +349,37 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdv
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
 
 #网络直播
-#EXTINF:-1 tvg-name="直播中国-玉龙雪山" tvg-logo="" group-title="网络直播",直播中国-玉龙雪山
+#EXTINF:-1 tvg-name="直播中国-玉龙雪山" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/%E7%9B%B4%E6%92%AD%E4%B8%AD%E5%9B%BD.png" group-title="网络直播",直播中国-玉龙雪山
 https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8?contentid=2820180516001
 
-#EXTINF:-1 tvg-name="直播中国-珠穆朗玛峰" tvg-logo="" group-title="网络直播",直播中国-珠穆朗玛峰
+#EXTINF:-1 tvg-name="直播中国-珠穆朗玛峰" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/%E7%9B%B4%E6%92%AD%E4%B8%AD%E5%9B%BD.png" group-title="网络直播",直播中国-珠穆朗玛峰
 https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
 
-#EXTINF:-1 tvg-name="直播中国-云南丽江天文台" tvg-logo="" group-title="网络直播",直播中国-云南丽江天文台
+#EXTINF:-1 tvg-name="直播中国-云南丽江天文台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/%E7%9B%B4%E6%92%AD%E4%B8%AD%E5%9B%BD.png" group-title="网络直播",直播中国-云南丽江天文台
 https://gcalic.v.myalicdn.com/gc/tyhjrys_1/index.m3u8?contentid=2820180516001
 
-#EXTINF:-1 tvg-name="B站-PandaLive" tvg-logo="" group-title="网络直播",B站-PandaLive
+#EXTINF:-1 tvg-name="B站-PandaLive" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",B站-PandaLive
 https://cn-jsyz-ct-03-74.bilivideo.com/live-bvc/228382/live_359182670_10305970/index.m3u8?expires=1710985639&len=0&oi=0x240e038306020800744213d665f58bd5&pt=web&qn=0&trid=1007678886e63fa4431991cf622ebfbe6a22&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=5dcfcd74de284e3e9db9d629df2d1218&sk=2a969af3869c7718b90cc4b9a4e7ca54&flvsk=ffb32fce6b439c86e9c1a17f792fa2e7&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-jsyz-ct-03-74&chash=1&bmt=1&sche=ban&bvchls=1&score=3&pp=rtmp&source=onetier&trace=1099&site=1c123494797c4fafc721b1d51b2e106f&qp=de_0&zoneid_l=151388161&sid_l=stream_name_cold&order=1
 
-#EXTINF:-1 tvg-name="B站-王者荣耀赛事" tvg-logo="" group-title="网络直播",B站-王者荣耀赛事
+#EXTINF:-1 tvg-name="B站-王者荣耀赛事" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",B站-王者荣耀赛事
 https://xy180x97x236x10xy.mcdn.bilivideo.cn:486/live-bvc/951854/live_392836434_52698792_minihevc/index.m3u8?expires=1710944788&len=0&oi=0x240e03830620f70050929f9d2e489626&pt=web&qn=0&trid=10073277544887334ec0a53206d21b73ceb4&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=6d7b6f054eff0f2884934c31e1616cdd&sk=18039916feca0358cd499ade8e1e5c24&flvsk=e1fac8f0e324c8e2711c8cc1c0ba304b&p2p_type=1&sl=10&free_type=0&mid=39747201&sid=mcdn-jd-jsnt-ct-50000803&chash=0&bmt=1&sche=ban&bvchls=1&score=18&pp=rtmp&source=onetier&trace=111&site=2b64741ff5a7c2d28c48cbee484eb37c&qp=de_0&zoneid_l=151388161&sid_l=live_392836434_52698792_minihevc&order=1
 
-#EXTINF:-1 tvg-name="B站-SpaceX基地24H" tvg-logo="" group-title="网络直播",B站-SpaceX基地24H
+#EXTINF:-1 tvg-name="B站-SpaceX基地24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",B站-SpaceX基地24H
 https://d1--cn-gotcha204-4.bilivideo.com/live-bvc/508265/live_261152306_44811934/index.m3u8?expires=1710945946&len=0&oi=0x240e03830620f70050929f9d2e489626&pt=web&qn=0&trid=100715a01a64f7ca4565a8227ddd1d0d1622&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=2d03ccd0bb99ca8b51d3b986e03a3784&sk=1b22c385179d393965c9fda8a8305ac5&p2p_type=1&sl=1&free_type=0&mid=39747201&pp=rtmp&source=onetier&trace=10&site=f6158e81715736393f748dddaaf81250&qp=de_0&order=1
 
-#EXTINF:-1 tvg-name="B站-从太空看地球" tvg-logo="" group-title="网络直播",B站-从太空看地球
+#EXTINF:-1 tvg-name="B站-从太空看地球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",B站-从太空看地球
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/447024/live_290515513_3522421_1500/index.m3u8?expires=1710946888&len=0&oi=1910149384&pt=web&qn=0&trid=100784048e2bfc2846c0ac19de7fc47a33bf&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=893f2133ec068a662f5ec2f27437b1ef&sk=abd899906f241e8c24106d90b71e63c1&p2p_type=1&sl=1&free_type=0&mid=39747201&pp=rtmp&source=onetier&trace=10&site=6283615d686b632386779001d1c146b6&qp=de_0&order=1
 
-#EXTINF:-1 tvg-name="B站-太空宇宙背景冥想" tvg-logo="" group-title="网络直播",B站-太空宇宙背景冥想
+#EXTINF:-1 tvg-name="B站-太空宇宙背景冥想" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",B站-太空宇宙背景冥想
 https://cn-jsyz-ct-03-72.bilivideo.com/live-bvc/865114/live_621892042_51969009/index.m3u8?expires=1710947061&len=0&oi=1910149384&pt=web&qn=0&trid=10073140b83dafa6450faa97e9d107622eb9&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=d1177f25017c3084a8133e249e0b1942&sk=26a72e33fc32cdb821edde2f9e2d35ab&flvsk=e7cd103a71cab338051f417e516f0a68&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-jsyz-ct-03-72&chash=1&bmt=1&sche=ban&bvchls=1&score=2&pp=rtmp&source=onetier&trace=1099&site=89a437cee63bbef59f001c1360d163e8&qp=de_0&zoneid_l=151388161&sid_l=stream_name_cold&order=1
 
-#EXTINF:-1 tvg-name="B站-德云社相声24H" tvg-logo="" group-title="网络直播",B站-德云社相声24H
+#EXTINF:-1 tvg-name="B站-德云社相声24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/%E5%BE%B7%E4%BA%91%E7%A4%BE.png" group-title="网络直播",B站-德云社相声24H
 https://cn-jsnt-ct-01-24.bilivideo.com/live-bvc/337422/live_1293600324_32368208_1500/index.m3u8?expires=1710986430&len=0&oi=0x240e038306020800744213d665f58bd5&pt=web&qn=0&trid=100731feb7a884f54c418ad0ec1dce1526e4&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=597634093cb25e5d79658cd9d32c8297&sk=323b16106320e17953e3a2ef7f53a1d6&flvsk=bb3f47221a2e19300a405bdbeed34028&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-jsnt-ct-01-24&chash=1&bmt=1&sche=ban&bvchls=1&score=6&pp=rtmp&source=onetier&trace=911&site=d8cbf9ae2db510c6741cbbed8ba40deb&qp=de_0&zoneid_l=151388161&sid_l=live_1293600324_32368208_1500&order=1
 
-#EXTINF:-1 tvg-name="虎牙-德云社相声高清" tvg-logo="" group-title="网络直播",虎牙-德云社相声高清
+#EXTINF:-1 tvg-name="虎牙-德云社相声高清" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/%E5%BE%B7%E4%BA%91%E7%A4%BE.png" group-title="网络直播",虎牙-德云社相声高清
 https://zw071hv4r4cjdizsql24lrd3rrsdn7w2lexz4uhao6ub03jj.mobgslb.tbcache.com/aldirect.flv.huya.com/huyalive/1199641321485-1199641321485-5778646143332253696-2399282766426-10057-A-0-1.flv?ver=1&sdkPcdn=1_1&u=1260188205889&sf=1&a_block=1&wsTime=65fb924e&seqid=2970508626993&dMod=wcs-25&sdk_sid=1710985804313&t=100&sv=2403190858&fs=bgct&ctype=huya_live&wsSecret=823b482d7b81f2b994e03069fc43d1e3&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666301&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn4300&ali_302c=701&ali_st=cn4820&ali_ts=1710985806
 
-#EXTINF:-1 tvg-name="快手-七哥本尊" tvg-logo="" group-title="网络直播",快手-七哥本尊
+#EXTINF:-1 tvg-name="快手-七哥本尊" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/%E5%BF%AB%E6%89%8B.png" group-title="网络直播",快手-七哥本尊
 https://alivod.a.yximgs.com/livedvr/flv2ts/gifshow/5bV0QsZYLfI_avc1000m.1710936017753-9006564.0-16.m3u8?auth_key=1711584785-62631222-0-79539b16a7a5a9be2d94bafe0a0e4121
 
 
