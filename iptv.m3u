@@ -383,13 +383,13 @@ https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240217192502_1jU_st
 #EXTINF:-1 tvg-name="网易第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="网络直播",网易第五人格
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240124140755_qJ0_strL.flv?auth_key=1711081795-0-0-54ed2c5ddf535b8f8100a16545530faa&oidc=alihb&srcStrm=ZcXe2LSC4Bo&fd=1&ss=s20&kabr_spts=-5000
 
-#EXTINF:-1 tvg-name="德云社相声1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声1
+#EXTINF:-1 tvg-name="德云社相声 1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声 1
 https://hw.pull.yximgs.com/gifshow/hFFHRh2E7Co.flv?hwTime=65fd757d&hwSecret=f7f66af7c002fb79388928d7629a98c0&fd=1&ss=s1&kabr_spts=-5000
 
-#EXTINF:-1 tvg-name="德云社相声2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声2
+#EXTINF:-1 tvg-name="德云社相声 2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声 2
 https://bd.pull.yximgs.com/gifshow/ah6Sm0fwAq4.flv?wsTime=1711101567&wsSecret=ae52fa72b7ab0d0872a22d4645e76cf7&fd=1&ss=s1&kabr_spts=-5000
 
-#EXTINF:-1 tvg-name="德云社相声24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声24H
+#EXTINF:-1 tvg-name="德云社相声 24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声 24H
 https://e9cba0fe28f7ecdafde254f92a873ddb.h2.smtcdns.net/d1--cn-gotcha204.bilivideo.com/live-bvc/126535/live_1293600324_32368208_1500/index.m3u8?expires=1711026971&len=0&oi=0x240e03830602080071379be00ec98ebb&pt=web&qn=0&trid=1007116491e80e2141d5ac42821449fe3f29&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=9bf155bf89347f6b4062970b5b7ff315&sk=323b16106320e17953e3a2ef7f53a1d6&p2p_type=1&sl=1&free_type=0&mid=39747201&pp=rtmp&source=onetier&trace=10&site=16613a03129087abb00710e3dafb8059&qp=de_0&order=1&TxLiveCode=cold_stream&TxDispType=0&svr_type=live_oc&tencent_test_client_ip=113.218.146.12&dispatch_from=OC_MGR124.232.162.204&utime=1711023312551
 
 #EXTINF:-1 tvg-name="七哥本尊" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",七哥本尊
