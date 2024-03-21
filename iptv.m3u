@@ -379,6 +379,9 @@ https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240318110103_iJP_s
 #EXTINF:-1 tvg-name="网易第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",网易第五人格
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240124140755_qJ0_strL.flv?auth_key=1711081795-0-0-54ed2c5ddf535b8f8100a16545530faa&oidc=alihb&srcStrm=ZcXe2LSC4Bo&fd=1&ss=s20&kabr_spts=-5000
 
+#EXTINF:-1 tvg-name="网易电竞NeXT" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",网易电竞NeXT
+https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240217192502_1jU_strL.flv?hwTime=65fd10b9&hwSecret=2c73adfe2dbc2997ed59d29885a71dd4&oidc=alihb&srcStrm=w6fVfb3MISs&fd=1&ss=s20&kabr_spts=-5000
+
 #EXTINF:-1 tvg-name="七哥本尊" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",七哥本尊
 https://alivod.a.yximgs.com/livedvr/flv2ts/gifshow/5bV0QsZYLfI_avc1000m.1710936017753-9006564.0-16.m3u8?auth_key=1711595984-1054877157-0-7b7848883735790260a36b304d7b9add
 
