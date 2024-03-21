@@ -373,23 +373,23 @@ https://cn-jsyz-ct-03-72.bilivideo.com/live-bvc/865114/live_621892042_51969009/i
 #EXTINF:-1 tvg-name="德云社相声高清" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声高清
 https://zw071hv4r4cjdizsql24lrd3rrsdn7w2lexz4uhao6ub03jj.mobgslb.tbcache.com/aldirect.flv.huya.com/huyalive/1199641321485-1199641321485-5778646143332253696-2399282766426-10057-A-0-1.flv?ver=1&sdkPcdn=1_1&u=1260188205889&sf=1&a_block=1&wsTime=65fb924e&seqid=2970508626993&dMod=wcs-25&sdk_sid=1710985804313&t=100&sv=2403190858&fs=bgct&ctype=huya_live&wsSecret=823b482d7b81f2b994e03069fc43d1e3&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666301&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn4300&ali_302c=701&ali_st=cn4820&ali_ts=1710985806
 
-#EXTINF:-1 tvg-name="王者荣耀赛事" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",王者荣耀赛事
+#EXTINF:-1 tvg-name="王者荣耀赛事" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/KPL.png" group-title="网络直播",王者荣耀赛事
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240318110103_iJP_strL.flv?auth_key=1711079774-0-0-a04dbcce5a4aeac358eb1745c06a5c62&highTraffic=2&oidc=alihb&srcStrm=YJeaOjiqeWg&fd=1&ss=s3&kabr_spts=-5000
 
-#EXTINF:-1 tvg-name="网易第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",网易第五人格
-https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240124140755_qJ0_strL.flv?auth_key=1711081795-0-0-54ed2c5ddf535b8f8100a16545530faa&oidc=alihb&srcStrm=ZcXe2LSC4Bo&fd=1&ss=s20&kabr_spts=-5000
-
-#EXTINF:-1 tvg-name="网易电竞NeXT" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",网易电竞NeXT
+#EXTINF:-1 tvg-name="网易电竞NeXT" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易电竞NeXT.png" group-title="网络直播",网易电竞NeXT
 https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240217192502_1jU_strL.flv?hwTime=65fd10b9&hwSecret=2c73adfe2dbc2997ed59d29885a71dd4&oidc=alihb&srcStrm=w6fVfb3MISs&fd=1&ss=s20&kabr_spts=-5000
 
-#EXTINF:-1 tvg-name="七哥本尊" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",七哥本尊
-https://alivod.a.yximgs.com/livedvr/flv2ts/gifshow/5bV0QsZYLfI_avc1000m.1710936017753-9006564.0-16.m3u8?auth_key=1711595984-1054877157-0-7b7848883735790260a36b304d7b9add
+#EXTINF:-1 tvg-name="网易第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="网络直播",网易第五人格
+https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240124140755_qJ0_strL.flv?auth_key=1711081795-0-0-54ed2c5ddf535b8f8100a16545530faa&oidc=alihb&srcStrm=ZcXe2LSC4Bo&fd=1&ss=s20&kabr_spts=-5000
 
 #EXTINF:-1 tvg-name="法治在线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/法治在线.png" group-title="网络直播",法治在线
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12163686871_strL.flv?auth_key=1711085736-0-0-02fadb017f12858e074db4b301480d86&oidc=watchmen&sidc=203562&srcStrm=SX15MH40leg&fd=1&ss=s20&kabr_spts=-5000
 
 #EXTINF:-1 tvg-name="央视新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/央视新闻.png" group-title="网络直播",央视新闻
 https://txvod.a.yximgs.com/livedvr/flv2ts/gifshow/kwai_actL_ol_act_12162114007_strL.1710939641693-4025199.0-16.m3u8?sign=1711601076-4094267594678508297-0-68692ad4ec640c80c857aa8122267ba5
+
+#EXTINF:-1 tvg-name="七哥本尊" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",七哥本尊
+https://alivod.a.yximgs.com/livedvr/flv2ts/gifshow/5bV0QsZYLfI_avc1000m.1710936017753-9006564.0-16.m3u8?auth_key=1711595984-1054877157-0-7b7848883735790260a36b304d7b9add
 
 
 
