@@ -368,10 +368,10 @@ https://d1--cn-gotcha101.bilivideo.com/live-bvc/129891/live_384721743_44450640.m
 #EXTINF:-1 tvg-name="SpaceX基地24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",SpaceX基地24H
 https://d1--cn-gotcha204-4.bilivideo.com/live-bvc/508265/live_261152306_44811934/index.m3u8?expires=1710945946&len=0&oi=0x240e03830620f70050929f9d2e489626&pt=web&qn=0&trid=100715a01a64f7ca4565a8227ddd1d0d1622&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=2d03ccd0bb99ca8b51d3b986e03a3784&sk=1b22c385179d393965c9fda8a8305ac5&p2p_type=1&sl=1&free_type=0&mid=39747201&pp=rtmp&source=onetier&trace=10&site=f6158e81715736393f748dddaaf81250&qp=de_0&order=1
 
-#EXTINF:-1 tvg-name="从太空看地球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",从太空看地球
+#EXTINF:-1 tvg-name="空间站直播地球24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",空间站直播地球24H
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/447024/live_290515513_3522421_1500/index.m3u8?expires=1710946888&len=0&oi=1910149384&pt=web&qn=0&trid=100784048e2bfc2846c0ac19de7fc47a33bf&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=893f2133ec068a662f5ec2f27437b1ef&sk=abd899906f241e8c24106d90b71e63c1&p2p_type=1&sl=1&free_type=0&mid=39747201&pp=rtmp&source=onetier&trace=10&site=6283615d686b632386779001d1c146b6&qp=de_0&order=1
 
-#EXTINF:-1 tvg-name="直播地球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",直播地球
+#EXTINF:-1 tvg-name="从太空看地球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",从太空看地球
 https://d1--cn-gotcha101.bilivideo.com/live-bvc/499106/live_91650842_55105212.m3u8?expires=1711072446&len=0&oi=0x240e0383061213002c48f4a42b102f34&pt=h5&qn=0&trid=1003b6271c135c294e35aaa5e9a249aa3e3b&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=447342defba89ee4068acb09ef629e5c&sk=6602d1551ff4a9e00e0f6ed94c6c1dda&p2p_type=4294967295&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=10&site=072652ebc5967018c6f000415e24916f&zoneid_l=151388161&sid_l=stream_name_cold&order=1
 
 #EXTINF:-1 tvg-name="5EPlay CSGO" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/5EPlay.png" group-title="网络直播",5EPlay CSGO
@@ -386,14 +386,14 @@ https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240217192502_1jU_st
 #EXTINF:-1 tvg-name="网易第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="网络直播",网易第五人格
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240124140755_qJ0_strL.flv?auth_key=1711124183-0-0-59085a262412ba6f918f73e83c4a00f2&oidc=alihb&srcStrm=OmNgJge-DgM&fd=1&ss=s20&kabr_spts=-5000
 
-#EXTINF:-1 tvg-name="德云社相声 1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声 1
-https://aldirect.flv.huya.com/huyalive/1199641321485-1199641321485-5778646143332253696-2399282766426-10057-A-0-1.flv?wsSecret=24fc5a957275bf4d3d3a9bb0801c64b6&wsTime=65fcd71e&seqid=2970591779195&ctype=huya_live&ver=1&fs=bgct&dMod=wcs-25&sdkPcdn=1_1&u=1260188205889&t=100&sv=2403190858&sdk_sid=1711068956514&a_block=1&sf=1
+#EXTINF:-1 tvg-name="德云社相声 1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",德云社相声 1
+https://hw.pull.yximgs.com/gifshow/JZmncyEj2gE.flv?hwTime=65fe29bd&hwSecret=bfa458c51396f6b207d10d73fe685db5&fd=1&ss=s1&kabr_spts=-5000
 
-#EXTINF:-1 tvg-name="德云社相声 2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声 2
-https://hw.pull.yximgs.com/gifshow/JZmncyEj2gE.flv?hwTime=65fdade3&hwSecret=3d0e94d491125e4e47765ae617a72325&fd=1&ss=s1&kabr_spts=-5000
-
-#EXTINF:-1 tvg-name="德云社相声 3" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声 3
+#EXTINF:-1 tvg-name="德云社相声 2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",德云社相声 2
 https://ali-adaptive.pull.yximgs.com/gifshow/ZzuAKV6iO-k_ShowAvcHdL1.flv?auth_key=1711155490-0-0-c82d082ff580bb5d9dabd8a75611c515&tsc=origin&highTraffic=1&oidc=watchmen&sidc=2012&fd=1&ss=s20&kabr_spts=-5000
+
+#EXTINF:-1 tvg-name="德云社相声 3" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/虎牙.png" group-title="网络直播",德云社相声 3
+https://aldirect.flv.huya.com/huyalive/1199641321485-1199641321485-5778646143332253696-2399282766426-10057-A-0-1.flv?wsSecret=24fc5a957275bf4d3d3a9bb0801c64b6&wsTime=65fcd71e&seqid=2970591779195&ctype=huya_live&ver=1&fs=bgct&dMod=wcs-25&sdkPcdn=1_1&u=1260188205889&t=100&sv=2403190858&sdk_sid=1711068956514&a_block=1&sf=1
 
 #EXTINF:-1 tvg-name="七哥本尊" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/快手.png" group-title="网络直播",七哥本尊
 https://ali-origin.pull.yximgs.com/gifshow/lT2nQ70jP7A_ma1500.flv?auth_key=1711109183-0-0-4bada05b7123d4601c9f1d1ffe8bc5d0&tsc=origin&highTraffic=1&oidc=watchmen&sidc=206077&fd=1&ss=s20&kabr_spts=-5000
