@@ -371,6 +371,7 @@ https://d1--cn-gotcha101.bilivideo.com/live-bvc/404434/live_91650842_55105212.m3
 
 #EXTINF:-1 tvg-name="王者荣耀赛事" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/KPL.png" group-title="网络直播",王者荣耀赛事
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240318110103_iJP_strL.flv?auth_key=1711438119-0-0-a5d5010fc897295ac8d2a732451b12a4&highTraffic=2&oidc=alihb&srcStrm=WmHD4qV6VD8&fd=1&ss=s3&kabr_spts=-5000
+https://cn-gddg-ct-01-24.bilivideo.com/live-bvc/611564/live_392836434_52698792_prohevc/index.m3u8?expires=1711355584&len=0&oi=1910149268&pt=web&qn=10000&trid=1007a0b8efecc8f44a1db3911ae4364a9fbc&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=f46b24aaa735fc38a2d205928d71753a&sk=18039916feca0358cd499ade8e1e5c24&flvsk=4207df3de646838b084f14f252be3aff8c5635bc800677899b9668203d2d6c0d&p2p_type=1&sl=3&free_type=0&mid=39747201&sid=cn-gddg-ct-01-24&chash=0&bmt=1&sche=ban&bvchls=1&score=18&pp=rtmp&source=onetier&trace=911&site=48e676e5dc30e6b77d79db61a3addc1c&zoneid_l=151388161&sid_l=live_392836434_52698792_prohevc&order=2
 
 #EXTINF:-1 tvg-name="网易电竞NeXT" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易电竞NeXT.png" group-title="网络直播",网易电竞NeXT
 https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240217192502_1jU_strL.flv?hwTime=66027940&hwSecret=b3d648da5cd622dc805032c3987a93d1&oidc=alihb&srcStrm=o-d9Dp4YPxU&fd=1&ss=s20&kabr_spts=-5000
