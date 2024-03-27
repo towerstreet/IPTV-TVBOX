@@ -16,9 +16,6 @@ https://cn-jsyz-ct-03-68.bilivideo.com/live-bvc/696279/live_261152306_44811934/i
 #EXTINF:-1 tvg-name="空间站直播地球24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",空间站直播地球24H
 https://cn-jsyz-ct-03-33.bilivideo.com/live-bvc/356642/live_290515513_3522421/index.m3u8?expires=1711546029&len=0&oi=0x240e03830618bf00d02052bfb7a20fc2&pt=web&qn=10000&trid=10074e63dd3b89fa4431aa5d2ea5eba86f19&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=f41ba3c86c81cc08fbfc5a7b5b19a651&sk=0550fa5c8a5cda55f4d92003628ee124&flvsk=5a768695583610af27c63304d2b72850&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-jsyz-ct-03-33&chash=1&bmt=1&sche=ban&bvchls=1&score=14&pp=rtmp&source=onetier&trace=119&site=f4f280947c28206bbbe1b9b512a0b884&zoneid_l=151388161&sid_l=live_290515513_3522421&order=1
 
-#EXTINF:-1 tvg-name="从太空看地球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",从太空看地球
-https://d1--cn-gotcha101.bilivideo.com/live-bvc/554527/live_91650842_55105212.m3u8?expires=1711546218&len=0&oi=0x240e03830618bf00d02052bfb7a20fc2&pt=h5&qn=0&trid=10034fcfbd35dfa24ad0967b074564227048&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=1e6a5bc38fa54c21bcc8f5316635d522&sk=6602d1551ff4a9e00e0f6ed94c6c1dda&p2p_type=4294967295&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=10&site=332757b00ab4c042ad95e20340068f25&zoneid_l=151388161&sid_l=stream_name_cold&order=1
-
 #EXTINF:-1 tvg-name="王者荣耀赛事" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/KPL.png" group-title="网络直播",王者荣耀赛事
 https://xy180x97x222x11xy.mcdn.bilivideo.cn:486/live-bvc/289262/live_21144080_bs_4998535_prohevc/index.m3u8?expires=1711546171&len=0&oi=0x240e03830618bf00d02052bfb7a20fc2&pt=web&qn=10000&trid=10072d433fa15be943a099fae9d2194148d4&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=4016c7a9bbd41d7b77a0a37ac95ba056&sk=dde90198925e26ab4c15381391261cf6&flvsk=8c31135c64f6571812fd611fb4f71794&p2p_type=1&sl=10&free_type=0&mid=39747201&sid=mcdn-qny-jszj-ct-14002459&chash=0&bmt=1&sche=ban&bvchls=1&score=18&pp=rtmp&source=onetier&trace=111&site=e0b075c56b24de0c895052cd4a30e4cf&zoneid_l=151388161&sid_l=live_21144080_bs_4998535_prohevc&order=1
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240318110103_iJP_strL.flv?auth_key=1711629009-0-0-1e248df85ea4da8f748759b2b0f03634&highTraffic=2&oidc=alihb&srcStrm=v79ZtbRB9CQ&fd=1&ss=s3&kabr_spts=-5000
@@ -34,7 +31,7 @@ https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240217192502_1jU_st
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240226151130_nMs_strL.flv?auth_key=1711629017-0-0-9351875d4e860230bb50214a6ade54e4&oidc=alihb&srcStrm=ztHfRWoQhqE&fd=1&ss=s20&kabr_spts=-5000
 
 #EXTINF:-1 tvg-name="德云社相声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声
-https://bd.pull.yximgs.com/gifshow/FyOK8zgqlxc.flv?wsTime=1711629019&wsSecret=05fddc01413856da19fc138bd6283bbf&fd=1&ss=s1&kabr_spts=-5000
+https://bd.pull.yximgs.com/gifshow/xIBjkqMqbME.flv?wsTime=1711630260&wsSecret=18955cbb354d521d3aba089d39eb1400&fd=1&ss=s1&kabr_spts=-5000
 
 #EXTINF:-1 tvg-name="法治在线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/法治在线.png" group-title="网络直播",法治在线
 https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12187377884_strL.flv?auth_key=1711629087-0-0-ecfa3ae1abfe9043d1410c39267ea6c7&oidc=watchmen&sidc=204180&srcStrm=eBD-RXZkD7Q&fd=1&ss=s20&kabr_spts=-5000
