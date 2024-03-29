@@ -1,8 +1,8 @@
 #EXTM3U
 
 #网络直播
-#EXTINF:-1 tvg-name="玉龙雪山" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/直播中国.png" group-title="网络直播",玉龙雪山
-https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-name="乌镇" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/直播中国.png" group-title="网络直播",乌镇
+https://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
 
 #EXTINF:-1 tvg-name="珠穆朗玛峰" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/直播中国.png" group-title="网络直播",珠穆朗玛峰
 https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
@@ -32,6 +32,3 @@ https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240226151130_nMs_s
 
 #EXTINF:-1 tvg-name="德云社相声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声
 https://hw.pull.yximgs.com/gifshow/P1D8KQwIyak.flv?hwTime=66079b5c&hwSecret=e4acb01cc8b287630fa0fcbde9779800&fd=1&ss=s1&kabr_spts=-5000
-
-#EXTINF:-1 tvg-name="法治在线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/法治在线.png" group-title="网络直播",法治在线
-https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12194519489_strL.flv?auth_key=1711774568-0-0-aaa4030e202967d14ad434ddab3a606c&oidc=watchmen&sidc=206077&srcStrm=OBg_LCMoQ00&fd=1&ss=s20&kabr_spts=-5000
