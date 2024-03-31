@@ -24,17 +24,21 @@ https://live.metshop.top/huya/660002
 https://xy58x216x118x146xy.mcdn.bilivideo.cn:486/live-bvc/176548/live_6650029_bs_5950300_prohevc/index.m3u8?expires=1711884457&len=0&oi=0x240e0383060a0700dde7518ad58c6c5b&pt=web&qn=10000&trid=10078512d407ea8441a2bf2fea5c294de2b7&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=f218e8e9349871cf08612ff0782bed2f&sk=90a69db51e9a92af6a6f878cbc83d510&flvsk=c6dcb66152d64992ce1cf7f9404642a5&p2p_type=1&sl=10&free_type=0&mid=39747201&sid=mcdn-gl-jscz-ct-18000363&chash=0&bmt=1&sche=ban&bvchls=1&score=15&pp=rtmp&source=onetier&trace=113&site=e0ac48133ab62eafa575d2f14c62ebf9&zoneid_l=151388161&sid_l=live_6650029_bs_5950300_prohevc&order=1
 https://live.metshop.top/huya/461698
 
-#EXTINF:-1 tvg-name="网易第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="网络直播",网易第五人格
+#EXTINF:-1 tvg-name="5EPlay" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/5EPlay.png" group-title="网络直播",5EPlay
+https://live.metshop.top/huya/23414220
 
-
-#EXTINF:-1 tvg-name="网易第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="网络直播",网易第五人格
-
-
-#EXTINF:-1 tvg-name="德云社相声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声
-https://live.metshop.top/huya/28274529
+#EXTINF:-1 tvg-name="网易电竞NeXT" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易电竞NeXT.png" group-title="网络直播",网易电竞NeXT
+https://hw-adaptive.pull.yximgs.com/gifshow/kwai_actL_ksle_20240330200202_hPr_strL.flv?hwTime=660a8eaf&hwSecret=ec4474db88974f32fb8d9b1dbc80961e&oidc=alihb&srcStrm=OFCVBDJBazw&fd=1&ss=s20&kabr_spts=-5000
+https://live.metshop.top/huya/660149
 
 #EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/虎牙.png" group-title="网络直播",陈翔六点半
 https://live.metshop.top/huya/11274154
 
+#EXTINF:-1 tvg-name="德云社相声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声
+https://live.metshop.top/huya/28274529
+
 #EXTINF:-1 tvg-name="周星驰轮播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/虎牙.png" group-title="网络直播",周星驰轮播
 https://live.metshop.top/huya/11342412
+
+
+
