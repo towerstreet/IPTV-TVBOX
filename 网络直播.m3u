@@ -7,27 +7,24 @@ https://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
 #EXTINF:-1 tvg-name="珠穆朗玛峰" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/直播中国.png" group-title="网络直播",珠穆朗玛峰
 https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
 
-#EXTINF:-1 tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",iPanda
-https://live.metshop.top/bilibili/27358026
-
 #EXTINF:-1 tvg-name="Panda Live" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",Panda Live
-https://live.metshop.top/bilibili/27660197
+https://cn-jsyz-ct-03-74.bilivideo.com/live-bvc/552068/live_359182670_10305970/index.m3u8?expires=1711935288&len=0&oi=0x240e03830601cf00dd4656dc40d30c4a&pt=web&qn=0&trid=10070a98d955d5b4430bbab8c0c62f04c7a0&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=31923c68d866cda9c3e90c094d912eed&sk=15e4977fa9d2469ad42a61783e0c9a2b&flvsk=0d13a2ca6bfada2eb3b2145d5dd39d0d&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-jsyz-ct-03-74&chash=1&bmt=1&sche=ban&bvchls=1&score=2&pp=rtmp&source=onetier&trace=1099&site=9fb76c95166e9ee4674fa184b2812a13&qp=de_0&zoneid_l=151388161&sid_l=stream_name_cold&order=1
+
+#EXTINF:-1 tvg-name="SpaceX基地24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",SpaceX基地24H
+https://cn-gddg-ct-01-15.bilivideo.com/live-bvc/607628/live_261152306_44811934/index.m3u8?expires=1711935363&len=0&oi=0x240e03830601cf00dd4656dc40d30c4a&pt=web&qn=0&trid=1007fd00d04f7a014509986e6d451357d4ee&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=6d5468b439ed10026e9120395bbe49bb&sk=3feb089d534c5f7e856102a6c96a75a0&flvsk=fda2ea52ab75ed47389a512f46dfc851&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-gddg-ct-01-15&chash=1&bmt=1&sche=ban&bvchls=1&score=12&pp=rtmp&source=onetier&trace=911&site=0810b1b3609680298041b9f27b4cec0a&qp=de_0&zoneid_l=151388161&sid_l=live_261152306_44811934&order=1
+
+#EXTINF:-1 tvg-name="空间站直播地球24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",空间站直播地球24H
+https://cn-hbyc-ct-02-07.bilivideo.com/live-bvc/466244/live_290515513_3522421/index.m3u8?expires=1711935339&len=0&oi=0x240e03830601cf00dd4656dc40d30c4a&pt=web&qn=10000&trid=10071f3fca9fa1a747c2b0d2018304099379&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=2c8e648e6b945db01195e5ae1a364c4a&sk=0550fa5c8a5cda55f4d92003628ee124&flvsk=5a768695583610af27c63304d2b72850&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-hbyc-ct-02-07&chash=1&bmt=1&sche=ban&bvchls=1&score=14&pp=rtmp&source=onetier&trace=911&site=c7957af67fb5ac1ab3911afa1ba05c50&zoneid_l=151388161&sid_l=live_290515513_3522421&order=1
 
 #EXTINF:-1 tvg-name="太空看地球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",太空看地球
 https://live.metshop.top/bilibili/22973029
 
-#EXTINF:-1 tvg-name="SpaceX基地24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",SpaceX基地24H
-https://live.metshop.top/bilibili/26312855
-
-#EXTINF:-1 tvg-name="空间站直播地球24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",空间站直播地球24H
-https://live.metshop.top/bilibili/9196015
-
 #EXTINF:-1 tvg-name="王者荣耀赛事" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/KPL.png" group-title="网络直播",王者荣耀赛事
-https://live.metshop.top/bilibili/55
+https://xy58x216x118x141xy.mcdn.bilivideo.cn:486/live-bvc/976504/live_21144080_bs_4998535_prohevc/index.m3u8?expires=1711935446&len=0&oi=0x240e03830601cf00dd4656dc40d30c4a&pt=web&qn=10000&trid=1007763e7761cd174b989f001e7d46e167ad&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=43a6dacacbe8749122acaa7c9dd30915&sk=dde90198925e26ab4c15381391261cf6&flvsk=8c31135c64f6571812fd611fb4f71794&p2p_type=1&sl=3&free_type=0&mid=39747201&sid=mcdn-gl-jscz-ct-18000410&chash=0&bmt=1&sche=ban&bvchls=1&score=18&pp=rtmp&source=onetier&trace=111&site=860d6b161417dcf8f59a4978c48190f1&zoneid_l=151388161&sid_l=live_21144080_bs_4998535_prohevc&order=1
 https://live.metshop.top/huya/660002
 
 #EXTINF:-1 tvg-name="网易第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="网络直播",网易第五人格
-https://live.metshop.top/bilibili/5555
+https://xy180x97x236x9xy.mcdn.bilivideo.cn:486/live-bvc/455774/live_6650029_bs_5950300_prohevc/index.m3u8?expires=1711935481&len=0&oi=0x240e03830601cf00dd4656dc40d30c4a&pt=web&qn=10000&trid=100718bab2d2d4984dc9a6a697f130c4d5a1&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=0d0d47352e09eea4f00465c28a95afa9&sk=90a69db51e9a92af6a6f878cbc83d510&flvsk=c6dcb66152d64992ce1cf7f9404642a5&p2p_type=1&sl=2&free_type=0&mid=39747201&sid=mcdn-jd-jsnt-ct-50001127&chash=1&bmt=1&sche=ban&bvchls=1&score=16&pp=rtmp&source=onetier&trace=113&site=485f1141a402aa8e1f43aa7531d47b73&zoneid_l=151388161&sid_l=live_6650029_bs_5950300_prohevc&order=1
 https://live.metshop.top/huya/461698
 
 #EXTINF:-1 tvg-name="网易电竞NeXT" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易电竞NeXT.png" group-title="网络直播",网易电竞NeXT
@@ -44,6 +41,9 @@ https://live.metshop.top/huya/11274154
 
 #EXTINF:-1 tvg-name="周星驰轮播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/虎牙.png" group-title="网络直播",周星驰轮播
 https://live.metshop.top/huya/11342412
+
+
+
 
 
 
