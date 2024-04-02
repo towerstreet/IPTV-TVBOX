@@ -10,6 +10,6 @@
 >
 >🔗[[EPG]](https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml)
 
->[Dovakeyin/IPTV](https://github.com/Dovakeyin/IPTV)
+>[YueChan/Live](https://github.com/YueChan/Live)
 >
->🎞️[[TXT]](https://github.com/Dovakeyin/IPTV/blob/main/M1.txt)    IPV4
+>🎞️[[M3U]](https://github.com/YueChan/Live/blob/main/IPTV.m3u)    IPV4
