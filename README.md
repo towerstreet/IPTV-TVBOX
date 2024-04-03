@@ -10,8 +10,6 @@
 >
 >🔗[[EPG]](https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml)
 >
->🎞️[[RADIO]](https://github.com/fanmingming/live/blob/main/radio/m3u/fm.m3u)    IPV4
->
 >[YueChan/Live](https://github.com/YueChan/Live)
 >
 >🎞️[[M3U]](https://github.com/YueChan/Live/blob/main/IPTV.m3u)    IPV4
