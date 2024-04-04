@@ -496,10 +496,10 @@ https://apiurl.v1.mk/huya/461698
 #EXTINF:-1 tvg-name="PUBG" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/PUBG.png" group-title="网络直播",PUBG
 https://apiurl.v1.mk/huya/660004
 
-#EXTINF:-1 tvg-name="CS GO" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/5EPlay.png" group-title="网络直播",CS GO
+#EXTINF:-1 tvg-name="CS GO" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/ESL.png" group-title="网络直播",CS GO
 https://apiurl.v1.mk/huya/483917
 
-#EXTINF:-1 tvg-name="蛋仔派对" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易电竞NeXT.png" group-title="网络直播",蛋仔派对
+#EXTINF:-1 tvg-name="蛋仔派对" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/蛋仔派对.png" group-title="网络直播",蛋仔派对
 https://apiurl.v1.mk/huya/660149
 
 #EXTINF:-1 tvg-name="坦克世界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/坦克世界.png" group-title="网络直播",坦克世界
