@@ -8,7 +8,7 @@
 >
 >🎞️[[M3U]](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)    IPV6
 >
->🔗[[EPG]](https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml)
+>🔗[[EPG]](https://github.com/fanmingming/live/blob/main/e.xml)
 >
 >[YueChan/Live](https://github.com/YueChan/Live)
 >
