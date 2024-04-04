@@ -477,45 +477,36 @@ https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
 
 #EXTINF:-1 tvg-name="Panda Live" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",Panda Live
 https://cn-jsyz-ct-03-74.bilivideo.com/live-bvc/838763/live_359182670_10305970/index.m3u8?expires=1712218861&len=0&oi=0x240e03830618a8008d23fe3c3a7af37e&pt=web&qn=0&trid=100711c45add199f47f18c3d36c03a33481d&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=10683354f18168dafb6e6493c5354012&sk=ad80afd3ca9f3af76124456970cf54c9&flvsk=102469ec6bf69dbc95bdd7b54b94ccf8&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-jsyz-ct-03-74&chash=1&bmt=1&sche=ban&bvchls=1&score=4&pp=rtmp&source=onetier&trace=119&site=4470a79caf24fb3b0277e3da0c205283&qp=de_0&zoneid_l=151388161&sid_l=stream_name_cold&order=1
-https://apiurl.v1.mk/bilibili/27660197
 
 #EXTINF:-1 tvg-name="SpaceX基地24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",SpaceX基地24H
 https://cn-gddg-ct-01-15.bilivideo.com/live-bvc/442609/live_261152306_44811934/index.m3u8?expires=1712218891&len=0&oi=0x240e03830618a8008d23fe3c3a7af37e&pt=web&qn=0&trid=1007e680771ab96a438b8385e26561fbfbb1&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=865b964ad36c8d25f61744bdabf56c80&sk=3feb089d534c5f7e856102a6c96a75a0&flvsk=fda2ea52ab75ed47389a512f46dfc851&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-gddg-ct-01-15&chash=1&bmt=1&sche=ban&bvchls=1&score=12&pp=rtmp&source=onetier&trace=911&site=f0c919e6e589c8bd5822e92ff0939cf9&qp=de_0&zoneid_l=151388161&sid_l=live_261152306_44811934&order=1
-https://apiurl.v1.mk/bilibili/26312855
 
 #EXTINF:-1 tvg-name="空间站直播地球24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",空间站直播地球24H
 https://cn-hbyc-ct-02-07.bilivideo.com/live-bvc/660994/live_290515513_3522421/index.m3u8?expires=1712218934&len=0&oi=0x240e03830618a8008d23fe3c3a7af37e&pt=web&qn=10000&trid=100701ec90006bb84d6c83081a177d43f018&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=a108939a1db57202e7a3d32fe4ca56d3&sk=0550fa5c8a5cda55f4d92003628ee124&flvsk=5a768695583610af27c63304d2b72850&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-hbyc-ct-02-07&chash=1&bmt=1&sche=ban&bvchls=1&score=14&pp=rtmp&source=onetier&trace=111&site=988dcd42ddbc32b15a0770e2cfedcb4f&zoneid_l=151388161&sid_l=live_290515513_3522421&order=1
-https://apiurl.v1.mk/bilibili/9196015
 
 #EXTINF:-1 tvg-name="太空看地球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="网络直播",太空看地球
 https://apiurl.v1.mk/bilibili/22973029
 
 #EXTINF:-1 tvg-name="王者荣耀赛事" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/KPL.png" group-title="网络直播",王者荣耀赛事
-https://live.metshop.top/huya/660002
 https://apiurl.v1.mk/huya/660002
 
 #EXTINF:-1 tvg-name="网易第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="网络直播",网易第五人格
-https://live.metshop.top/huya/461698
 https://apiurl.v1.mk/huya/461698
 
 #EXTINF:-1 tvg-name="PUBG" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/PUBG.png" group-title="网络直播",PUBG
-https://live.metshop.top/huya/660004
-https://live.metshop.top/huya/660121
+https://apiurl.v1.mk/huya/660004
+https://apiurl.v1.mk/huya/660121
 
 #EXTINF:-1 tvg-name="坦克世界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/坦克世界.png" group-title="网络直播",坦克世界
-https://live.metshop.top/huya/22417545
 https://apiurl.v1.mk/huya/22417545
 
 #EXTINF:-1 tvg-name="德云社相声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="网络直播",德云社相声
-https://live.metshop.top/huya/28274529
 https://apiurl.v1.mk/huya/28274529
 
 #EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/虎牙.png" group-title="网络直播",陈翔六点半
-https://live.metshop.top/huya/11274154
 https://apiurl.v1.mk/huya/11274154
 
 #EXTINF:-1 tvg-name="周星驰轮播" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/虎牙.png" group-title="网络直播",周星驰轮播
-https://live.metshop.top/huya/11342412
 https://apiurl.v1.mk/huya/11342412
 
 
