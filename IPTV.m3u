@@ -485,57 +485,57 @@ https://cn-hbyc-ct-02-08.bilivideo.com/live-bvc/614848/live_261152306_44811934/i
 https://cn-hbyc-ct-02-07.bilivideo.com/live-bvc/551115/live_290515513_3522421/index.m3u8?expires=1712294787&len=0&oi=0x240e03830601c70040d6b6f78fec9d3a&pt=web&qn=10000&trid=1007960f890861874e9ca67206fc07a2e0fd&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=cabe8db40c3afacde64bd70053cf4e12&sk=0550fa5c8a5cda55f4d92003628ee124&flvsk=5a768695583610af27c63304d2b72850&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-hbyc-ct-02-07&chash=1&bmt=1&sche=ban&bvchls=1&score=14&pp=rtmp&source=onetier&trace=111&site=6a0040e7a69bf1a667a9095b61bdf63d&zoneid_l=151388161&sid_l=live_290515513_3522421&order=1
 
 #EXTINF:-1 tvg-name="地球频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/地球频道.png" group-title="🎞️网络直播",地球频道
-https://apiurl.v1.mk/douyu/9412365
+https://live.metshop.top/douyu/9412365
 
 #EXTINF:-1 tvg-name="云旅行" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/云旅行.png" group-title="🎞️网络直播",云旅行
-https://apiurl.v1.mk/douyu/1668562
+https://live.metshop.top/douyu/1668562
 
 #EXTINF:-1 tvg-name="日食记" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/日食记.png" group-title="🎞️网络直播",日食记
-https://apiurl.v1.mk/douyu/2206405
+https://live.metshop.top/douyu/2206405
 
 #EXTINF:-1 tvg-name="王者荣耀" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/KPL.png" group-title="🎞️网络直播",王者荣耀
-https://apiurl.v1.mk/huya/660002
-https://apiurl.v1.mk/douyu/998
+https://live.metshop.top/huya/660002
+https://live.metshop.top/douyu/998
 
 #EXTINF:-1 tvg-name="第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="🎞️网络直播",第五人格
-https://apiurl.v1.mk/huya/461698
-https://apiurl.v1.mk/douyu/3226194
+https://live.metshop.top/huya/461698
+https://live.metshop.top/douyu/3226194
 
 #EXTINF:-1 tvg-name="PUBG" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/PUBG.png" group-title="🎞️网络直播",PUBG
-https://apiurl.v1.mk/huya/660004
-https://apiurl.v1.mk/douyu/100
+https://live.metshop.top/huya/660004
+https://live.metshop.top/douyu/100
 
 #EXTINF:-1 tvg-name="CS GO" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/ESL.png" group-title="🎞️网络直播",CS GO
-https://apiurl.v1.mk/huya/483917
+https://live.metshop.top/huya/483917
 
 #EXTINF:-1 tvg-name="蛋仔派对" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易电竞NeXT.png" group-title="🎞️网络直播",蛋仔派对
-https://apiurl.v1.mk/douyu/5590267
+https://live.metshop.top/douyu/5590267
 
 #EXTINF:-1 tvg-name="德云社相声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="🎞️网络直播",德云社相声
-https://apiurl.v1.mk/huya/28274529
-https://apiurl.v1.mk/huya/29807256
+https://live.metshop.top/huya/28274529
+https://live.metshop.top/huya/29807256
 
 #EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/陈翔六点半.png" group-title="🎞️网络直播",陈翔六点半
-https://apiurl.v1.mk/huya/11274154
-https://apiurl.v1.mk/douyu/2132902
+https://live.metshop.top/huya/11274154
+https://live.metshop.top/douyu/2132902
 
 #EXTINF:-1 tvg-name="老高与小茉" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/老高与小茉.png" group-title="🎞️网络直播",老高与小茉
-https://apiurl.v1.mk/douyu/11265107
-https://apiurl.v1.mk/douyu/838632
+https://live.metshop.top/douyu/11265107
+https://live.metshop.top/douyu/838632
 
 #EXTINF:-1 tvg-name="所长林超" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/所长林超.png" group-title="🎞️网络直播",所长林超
-https://apiurl.v1.mk/douyu/9447974
+https://live.metshop.top/douyu/9447974
 
 #EXTINF:-1 tvg-name="海南军阀赶海" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/大漠叔叔.png" group-title="🎞️网络直播",海南军阀赶海
-https://apiurl.v1.mk/douyu/1109218
+https://live.metshop.top/douyu/1109218
 
 #EXTINF:-1 tvg-name="村霸普法" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/大漠叔叔.png" group-title="🎞️网络直播",村霸普法
-https://apiurl.v1.mk/douyu/10551378
+https://live.metshop.top/douyu/10551378
 
 #EXTINF:-1 tvg-name="老爸评测" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/老爸评测.png" group-title="🎞️网络直播",老爸评测
-https://apiurl.v1.mk/douyu/9642554
+https://live.metshop.top/douyu/9642554
 
 #EXTINF:-1 tvg-name="国学经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/国学经典.png" group-title="🎞️网络直播",国学经典
-https://apiurl.v1.mk/douyu/12031710
+https://live.metshop.top/douyu/12031710
 
 
