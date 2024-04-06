@@ -484,9 +484,11 @@ https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao04_2/index.m3u8
 
 #EXTINF:-1 tvg-name="星舰基地24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/SpaceX.png" group-title="🎞️网络直播",星舰基地24H
 https://cn-zjjh-ct-04-04.bilivideo.com/live-bvc/748751/live_261152306_44811934/index.m3u8?expires=1712390723&len=0&oi=0x240e03830615f700f193d52b331c99c3&pt=web&qn=0&trid=1007fb8f1a5aaa2642c7ab86a7481681b9af&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=7e21862f1ca0f0ce4831e188b34428f2&sk=3feb089d534c5f7e856102a6c96a75a0&flvsk=fda2ea52ab75ed47389a512f46dfc851&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-zjjh-ct-04-04&chash=1&bmt=1&sche=ban&bvchls=1&score=12&pp=rtmp&source=onetier&trace=911&site=eb5ec95f550abc0d748a265c49a8be57&qp=de_0&zoneid_l=151388161&sid_l=live_261152306_44811934&order=1
+https://live.metshop.top/bilibili/26312855
 
 #EXTINF:-1 tvg-name="空间站直播地球24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/NASA.png" group-title="🎞️网络直播",空间站直播地球24H
 https://cn-hbyc-ct-02-07.bilivideo.com/live-bvc/551115/live_290515513_3522421/index.m3u8?expires=1712294787&len=0&oi=0x240e03830601c70040d6b6f78fec9d3a&pt=web&qn=10000&trid=1007960f890861874e9ca67206fc07a2e0fd&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=cabe8db40c3afacde64bd70053cf4e12&sk=0550fa5c8a5cda55f4d92003628ee124&flvsk=5a768695583610af27c63304d2b72850&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-hbyc-ct-02-07&chash=1&bmt=1&sche=ban&bvchls=1&score=14&pp=rtmp&source=onetier&trace=111&site=6a0040e7a69bf1a667a9095b61bdf63d&zoneid_l=151388161&sid_l=live_290515513_3522421&order=1
+https://live.metshop.top/bilibili/9196015
 
 #EXTINF:-1 tvg-name="地球频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/地球频道.png" group-title="🎞️网络直播",地球频道
 https://live.metshop.top/douyu/9412365
