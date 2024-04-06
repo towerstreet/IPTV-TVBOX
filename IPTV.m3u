@@ -548,4 +548,12 @@ https://live.metshop.top/douyu/9642554
 #EXTINF:-1 tvg-name="国学经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/国学经典.png" group-title="🎞️网络直播",国学经典
 https://live.metshop.top/douyu/12031710
 
+#EXTINF:-1 tvg-name="百家讲坛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/百家讲坛.png" group-title="🎞️网络直播",百家讲坛
+https://cn-ahwh-ct-01-06.bilivideo.com/live-bvc/136048/live_253715487_2055442_2500/index.m3u8?expires=1712418482&len=0&oi=0x240e038306077700b0f3311c3a7657ab&pt=web&qn=0&trid=1007b1aee80e5829429a9862c80ebfa821b8&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=9ee1e591b4eeec725d3699e9ae56d650&sk=e2bf4265d053c7cbd4b04f9d332607ad&flvsk=560ba015885647685bee24925b3490db&p2p_type=1&sl=2&free_type=0&mid=39747201&sid=cn-ahwh-ct-01-06&chash=1&bmt=1&sche=ban&bvchls=1&score=12&pp=rtmp&source=onetier&trace=911&site=d7dde16abdfd1850e3cd0aad08f5ad47&qp=de_0&zoneid_l=151388161&sid_l=live_253715487_2055442_2500&order=1
+
+#EXTINF:-1 tvg-name="张三普法" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/张三普法.png" group-title="🎞️网络直播",张三普法
+https://xy58x221x77x175xy.mcdn.bilivideo.cn:486/live-bvc/120616/live_18337466_80118249_bluray/index.m3u8?expires=1712418770&len=0&oi=0x240e038306077700b0f3311c3a7657ab&pt=web&qn=10000&trid=1007e40066c310f64fdaabca7a2ef08ffec1&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=85ee354a8e6943ee5bcb03e6906440b5&sk=914cd86e76af0a8861cf918eb12993f0&flvsk=5709a91e407a8b9ff6a3f6c217017cc6&p2p_type=1&sl=2&free_type=0&mid=39747201&sid=mcdn-jkwl-jsyz-ct-2003578&chash=1&bmt=1&sche=ban&bvchls=1&score=14&pp=rtmp&source=onetier&trace=111&site=f27c9103beccd3417885db67e5ea0bcb&zoneid_l=151388161&sid_l=live_18337466_80118249_bluray&order=1
+
+
+
 
