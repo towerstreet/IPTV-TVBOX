@@ -12,4 +12,8 @@
 >
 >[YueChan/Live](https://github.com/YueChan/Live)
 >
->🎞️[[M3U]](https://github.com/YueChan/Live/blob/main/IPTV.m3u)    IPV4
+>🎞️[[M3U]](https://github.com/YueChan/Live/blob/main/IPTV.m3u)    IPV6/IPV4
+>
+>[Vbskycn/iptv](https://github.com/vbskycn/iptv)
+>
+>🎞️[[TXT]](https://github.com/vbskycn/iptv/blob/master/dsyy/mylist.txt)    IPV4
