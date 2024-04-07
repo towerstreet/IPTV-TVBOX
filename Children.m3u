@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-name="英语兔" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Children/英语兔.png" group-title="🎈少儿频道",英语兔
 https://live.metshop.top/douyu/9504916
 
-#EXTINF:-1 tvg-name="摩登大自然" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Children/Panda.png" group-title="🎈少儿频道",摩登大自然
-https://live.metshop.top/douyu/9653320
-
 #EXTINF:-1 tvg-name="科学放映室" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Children/科学放映室.png" group-title="🎈少儿频道",科学放映室
 https://live.metshop.top/douyu/9439712
 
@@ -15,7 +12,7 @@ https://live.metshop.top/douyu/9606719
 
 
 #👓视野
-#EXTINF:-1 tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🏖️视野",iPanda
+#EXTINF:-1 tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Panda.png" group-title="🏖️视野",iPanda
 https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao04_2/index.m3u8
 
 #EXTINF:-1 tvg-name="海底世界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Children/Dolphin.png" group-title="🏖️视野",海底世界
