@@ -552,17 +552,18 @@ https://live.metshop.top/douyu/2206405
 
 
 #📖网课直播
+#EXTINF:-1 tvg-name="国学经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/国学经典.png" group-title="📖网课直播",国学经典
+https://live.metshop.top/douyu/12031710
+
+#EXTINF:-1 tvg-name="张三普法" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/张三普法.png" group-title="📖网课直播",张三普法
+https://live.metshop.top/bilibili/27834097
+
 #EXTINF:-1 tvg-name="百家讲坛" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/百家讲坛.png" group-title="📖网课直播",百家讲坛
 https://xy180x97x231x4xy.mcdn.bilivideo.cn:486/live-bvc/428883/live_253715487_2055442/index.m3u8?expires=1712456733&len=0&oi=0x240e03830604bd009442bf56448e0946&pt=web&qn=10000&trid=100781088710a2e9420d804a3cdf2cc0fc8c&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=262ad56e579851d4c8a77cdb9e4961e8&sk=2dee3738613aae464588f99f70fd65b8&flvsk=b856eac42df06de7899852d709d66512&p2p_type=1&sl=2&free_type=0&mid=39747201&sid=mcdn-jkwl-jsnt-ct-2003520&chash=1&bmt=1&sche=ban&bvchls=1&score=9&pp=rtmp&source=onetier&trace=111&site=c8f2568e90043c1408b900da2e65f7f0&zoneid_l=151388161&sid_l=live_253715487_2055442&order=1
 
 #EXTINF:-1 tvg-name="历史人物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/历史人物.png" group-title="📖网课直播",历史人物
 https://cn-cq-ct-01-01.bilivideo.com/live-bvc/492795/live_646482994_57390676/index.m3u8?expires=1712456768&len=0&oi=0x240e03830604bd009442bf56448e0946&pt=web&qn=10000&trid=1007b06de06e25374a63ae373b4031deb47f&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=07b72fec99d093789fb82d954d1575d7&sk=337aae6922a8e4bce0c72a35cd65588a&flvsk=728f0af67c8ecfee0b12e60763f509ba&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-cq-ct-01-01&chash=1&bmt=1&sche=ban&bvchls=1&score=5&pp=rtmp&source=onetier&trace=119&site=2a4337a79490342e1190681979accbb5&zoneid_l=151388161&sid_l=stream_name_cold&order=1
 
-#EXTINF:-1 tvg-name="国学经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/国学经典.png" group-title="📖网课直播",国学经典
-https://live.metshop.top/douyu/12031710
-
-#EXTINF:-1 tvg-name="张三普法" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/张三普法.png" group-title="📖网课直播",张三普法
-https://live.metshop.top/bilibili/27834097
 
 
 
