@@ -437,29 +437,21 @@ https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
 #EXTINF:-1 tvg-name="德云社相声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="🎞️网络直播",德云社相声
 https://live.metshop.top/huya/28274529
 https://live.metshop.top/huya/29807256
-
 #EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/陈翔六点半.png" group-title="🎞️网络直播",陈翔六点半
 https://live.metshop.top/huya/11274154
-
 #EXTINF:-1 tvg-name="老高与小茉" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/老高与小茉.png" group-title="🎞️网络直播",老高与小茉
 https://live.metshop.top/douyu/11265107
 https://live.metshop.top/douyu/838632
-
 #EXTINF:-1 tvg-name="所长林超" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/所长林超.png" group-title="🎞️网络直播",所长林超
 https://live.metshop.top/douyu/9447974
-
 #EXTINF:-1 tvg-name="老爸评测" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/老爸评测.png" group-title="🎞️网络直播",老爸评测
 https://live.metshop.top/douyu/9642554
-
 #EXTINF:-1 tvg-name="海南军阀赶海" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/大漠叔叔.png" group-title="🎞️网络直播",海南军阀赶海
 https://live.metshop.top/douyu/1109218
-
 #EXTINF:-1 tvg-name="村霸普法" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/大漠叔叔.png" group-title="🎞️网络直播",村霸普法
 https://live.metshop.top/douyu/10551378
-
 #EXTINF:-1 tvg-name="科学放映室" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/科学放映室.png" group-title="🎞️网络直播",科学放映室
 https://live.metshop.top/douyu/9439712
-
 #EXTINF:-1 tvg-name="浩瀚的宇宙" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/浩瀚的宇宙.png" group-title="🎞️网络直播",浩瀚的宇宙
 https://live.metshop.top/douyu/9606719
 
@@ -468,18 +460,14 @@ https://live.metshop.top/douyu/9606719
 #EXTINF:-1 tvg-name="王者荣耀" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/KPL.png" group-title="🕹️游戏直播",王者荣耀
 https://live.metshop.top/huya/660002
 https://live.metshop.top/douyu/998
-
 #EXTINF:-1 tvg-name="第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="🕹️游戏直播",第五人格
 https://live.metshop.top/huya/461698
 https://live.metshop.top/douyu/3226194
-
 #EXTINF:-1 tvg-name="PUBG" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/PUBG.png" group-title="🕹️游戏直播",PUBG
 https://live.metshop.top/huya/660004
 https://live.metshop.top/douyu/100
-
 #EXTINF:-1 tvg-name="CS GO" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/ESL.png" group-title="🕹️游戏直播",CS GO
 https://live.metshop.top/huya/483917
-
 #EXTINF:-1 tvg-name="蛋仔派对" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易电竞NeXT.png" group-title="🕹️游戏直播",蛋仔派对
 https://live.metshop.top/douyu/5590267
 
@@ -487,13 +475,8 @@ https://live.metshop.top/douyu/5590267
 #🏖️旅游直播
 #EXTINF:-1 tvg-name="乌镇" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/直播中国.png" group-title="🏖️旅游直播",乌镇
 https://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
-
 #EXTINF:-1 tvg-name="珠穆朗玛峰" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/直播中国.png" group-title="🏖️旅游直播",珠穆朗玛峰
 https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
-
-#EXTINF:-1 tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🏖️旅游直播",iPanda
-https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao04_2/index.m3u8
-
 #EXTINF:-1 tvg-name="星舰基地24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/SpaceX.png" group-title="🏖️旅游直播",星舰基地24H
 https://cn-zjjh-ct-04-04.bilivideo.com/live-bvc/137995/live_261152306_44811934/index.m3u8?expires=1712420020&len=0&oi=0x240e038306077700b0f3311c3a7657ab&pt=web&qn=0&trid=10074f2da0ece3814c4eaba604575ae11131&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=1277e635e8fc367a3bdf0951f3bbdb77&sk=3feb089d534c5f7e856102a6c96a75a0&flvsk=fda2ea52ab75ed47389a512f46dfc851&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-zjjh-ct-04-04&chash=1&bmt=1&sche=ban&bvchls=1&score=12&pp=rtmp&source=onetier&trace=911&site=6b5fa8f834caefd129caa3725d48b528&qp=de_0&zoneid_l=151388161&sid_l=live_261152306_44811934&order=1
 
@@ -503,10 +486,26 @@ https://cn-hbyc-ct-02-07.bilivideo.com/live-bvc/156130/live_290515513_3522421/in
 #EXTINF:-1 tvg-name="地球频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/地球频道.png" group-title="🏖️旅游直播",地球频道
 https://live.metshop.top/bilibili/22973029
 https://live.metshop.top/douyu/9412365
-
 #EXTINF:-1 tvg-name="云旅行" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/云旅行.png" group-title="🏖️旅游直播",云旅行
 https://live.metshop.top/douyu/1668562
-
 #EXTINF:-1 tvg-name="日食记" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/日食记.png" group-title="🏖️旅游直播",日食记
 https://live.metshop.top/douyu/2206405
+
+
+#🐼iPanda
+#EXTINF:-1 tvg-name="成都基地24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🐼iPanda",成都基地24H
+https://gcwbcdbd.a.bdydns.com/gcwbcd/cdrmipanda_1/index.m3u8?BR=td
+#EXTINF:-1 tvg-name="都江堰基地24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🐼iPanda",都江堰基地24H
+https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2td.m3u8
+#EXTINF:-1 tvg-name="幼儿园" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🐼iPanda",幼儿园
+https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/xiongmao06_2_td.m3u8
+#EXTINF:-1 tvg-name="和花 和叶" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🐼iPanda",和花 和叶
+https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/xiongmao04_2_td.m3u8
+#EXTINF:-1 tvg-name="豆伴 巢天骄" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🐼iPanda",豆伴 巢天骄
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao14_2td.m3u8
+#EXTINF:-1 tvg-name="热干面 蛋烘糕" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🐼iPanda",热干面 蛋烘糕
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao10_2td.m3u8
+#EXTINF:-1 tvg-name="小曲奇" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🐼iPanda",小曲奇
+https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao15_2td.m3u8
+
 
