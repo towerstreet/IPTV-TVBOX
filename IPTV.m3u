@@ -255,9 +255,9 @@ https://itv.lat/tv/live.php?&line=1&id=sport7
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="ℹ️港台频道",凤凰资讯
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 tvg-id="TVB翡翠台 " tvg-name="TVB翡翠台 " tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台 .png" group-title="ℹ️港台频道",TVB翡翠台 
+#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台 " tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="ℹ️港台频道",TVB翡翠台
 https://iptv.hiper25.com/TVB/video.m3u8
-#EXTINF:-1 tvg-id="TVB明珠台" tvg-name="TVB明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="ℹ️港台频道",TVB明珠台 
+#EXTINF:-1 tvg-id="TVB明珠台" tvg-name="TVB明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="ℹ️港台频道",TVB明珠台
 https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="ℹ️港台频道",澳视澳门
 https://iptv.hiper25.com/TDM/video.m3u8
