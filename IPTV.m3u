@@ -466,7 +466,7 @@ https://live.metshop.top/douyu/3226194
 #EXTINF:-1 tvg-name="PUBG" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/PUBG.png" group-title="🕹️游戏直播",PUBG
 https://live.metshop.top/huya/660004
 https://live.metshop.top/douyu/100
-#EXTINF:-1 tvg-name="CS GO" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/ESL.png" group-title="🕹️游戏直播",CS GO
+#EXTINF:-1 tvg-name="CS GO" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/5EPlay.png" group-title="🕹️游戏直播",CS GO
 https://live.metshop.top/huya/483917
 #EXTINF:-1 tvg-name="蛋仔派对" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易电竞NeXT.png" group-title="🕹️游戏直播",蛋仔派对
 https://live.metshop.top/douyu/5590267
@@ -492,16 +492,8 @@ https://live.metshop.top/douyu/1668562
 https://live.metshop.top/douyu/2206405
 
 
-#🐼iPanda
-#EXTINF:-1 tvg-name="幼儿园" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🐼iPanda",幼儿园
-https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/xiongmao06_2_td.m3u8
-#EXTINF:-1 tvg-name="和花 和叶" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🐼iPanda",和花 和叶
-https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/xiongmao04_2_td.m3u8
-#EXTINF:-1 tvg-name="豆伴 巢天骄" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🐼iPanda",豆伴 巢天骄
-https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao14_2td.m3u8
-#EXTINF:-1 tvg-name="热干面 蛋烘糕" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🐼iPanda",热干面 蛋烘糕
-https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao10_2td.m3u8
-#EXTINF:-1 tvg-name="小曲奇" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🐼iPanda",小曲奇
-https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao15_2td.m3u8
+
+
+
 
 
