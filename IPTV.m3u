@@ -351,7 +351,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",TBS 
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 tvg-id="FXXEast.us" group-title="ℹ️国际频道",FXX
+#EXTINF:-1 group-title="ℹ️国际频道",FXX
 http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",A&E
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
