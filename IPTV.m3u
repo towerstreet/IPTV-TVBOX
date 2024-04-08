@@ -482,21 +482,22 @@ https://gcwbndbd.a.bdydns.com/gcwbnd/ipanda1000_2/index.m3u8?BR=td
 https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao04_2/index.m3u8
 https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/xiongmao14_2_td.m3u8
 https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao15_2_720P/playlist.m3u8?wsApp=HLS
-#EXTINF:-1 tvg-name="星舰基地24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/SpaceX.png" group-title="🏖️旅游直播",星舰基地24H
-https://cn-zjjh-ct-04-04.bilivideo.com/live-bvc/137995/live_261152306_44811934/index.m3u8?expires=1712420020&len=0&oi=0x240e038306077700b0f3311c3a7657ab&pt=web&qn=0&trid=10074f2da0ece3814c4eaba604575ae11131&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=1277e635e8fc367a3bdf0951f3bbdb77&sk=3feb089d534c5f7e856102a6c96a75a0&flvsk=fda2ea52ab75ed47389a512f46dfc851&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-zjjh-ct-04-04&chash=1&bmt=1&sche=ban&bvchls=1&score=12&pp=rtmp&source=onetier&trace=911&site=6b5fa8f834caefd129caa3725d48b528&qp=de_0&zoneid_l=151388161&sid_l=live_261152306_44811934&order=1
-
-#EXTINF:-1 tvg-name="空间站直播地球24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/NASA.png" group-title="🏖️旅游直播",空间站直播地球24H
-https://cn-hbyc-ct-02-07.bilivideo.com/live-bvc/156130/live_290515513_3522421/index.m3u8?expires=1712420056&len=0&oi=0x240e038306077700b0f3311c3a7657ab&pt=web&qn=10000&trid=1007e117d5605d414be984256da7fcefbbe5&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=eb82d4fcb1aee7bc23dd06db6539fb8c&sk=0550fa5c8a5cda55f4d92003628ee124&flvsk=5a768695583610af27c63304d2b72850&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-hbyc-ct-02-07&chash=1&bmt=1&sche=ban&bvchls=1&score=14&pp=rtmp&source=onetier&trace=111&site=1f5634afc0679a80b89bf8baf63300b3&zoneid_l=151388161&sid_l=live_290515513_3522421&order=1
-
 #EXTINF:-1 tvg-name="地球频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/地球频道.png" group-title="🏖️旅游直播",地球频道
-https://live.metshop.top/bilibili/22973029
 https://live.metshop.top/douyu/9412365
+https://live.metshop.top/bilibili/22973029
 #EXTINF:-1 tvg-name="海底世界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/海底世界.png" group-title="🏖️旅游直播",海底世界
 https://live.metshop.top/huya/20985846
 #EXTINF:-1 tvg-name="世界环游记" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/世界环游记.png" group-title="🏖️旅游直播",世界环游记
 https://live.metshop.top/douyu/11691968
 #EXTINF:-1 tvg-name="日食记" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/日食记.png" group-title="🏖️旅游直播",日食记
 https://live.metshop.top/douyu/2206405
+
+#EXTINF:-1 tvg-name="星舰基地24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/SpaceX.png" group-title="🏖️旅游直播",星舰基地24H
+https://cn-zjjh-ct-04-04.bilivideo.com/live-bvc/137995/live_261152306_44811934/index.m3u8?expires=1712420020&len=0&oi=0x240e038306077700b0f3311c3a7657ab&pt=web&qn=0&trid=10074f2da0ece3814c4eaba604575ae11131&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=1277e635e8fc367a3bdf0951f3bbdb77&sk=3feb089d534c5f7e856102a6c96a75a0&flvsk=fda2ea52ab75ed47389a512f46dfc851&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-zjjh-ct-04-04&chash=1&bmt=1&sche=ban&bvchls=1&score=12&pp=rtmp&source=onetier&trace=911&site=6b5fa8f834caefd129caa3725d48b528&qp=de_0&zoneid_l=151388161&sid_l=live_261152306_44811934&order=1
+
+#EXTINF:-1 tvg-name="空间站直播地球24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/NASA.png" group-title="🏖️旅游直播",空间站直播地球24H
+https://cn-hbyc-ct-02-07.bilivideo.com/live-bvc/156130/live_290515513_3522421/index.m3u8?expires=1712420056&len=0&oi=0x240e038306077700b0f3311c3a7657ab&pt=web&qn=10000&trid=1007e117d5605d414be984256da7fcefbbe5&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=eb82d4fcb1aee7bc23dd06db6539fb8c&sk=0550fa5c8a5cda55f4d92003628ee124&flvsk=5a768695583610af27c63304d2b72850&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-hbyc-ct-02-07&chash=1&bmt=1&sche=ban&bvchls=1&score=14&pp=rtmp&source=onetier&trace=111&site=1f5634afc0679a80b89bf8baf63300b3&zoneid_l=151388161&sid_l=live_290515513_3522421&order=1
+
 
 
 
