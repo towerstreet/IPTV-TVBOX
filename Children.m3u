@@ -29,8 +29,13 @@ https://live.metshop.top/douyu/1668562
 https://live.metshop.top/douyu/2206405
 
 
+#📽️纪录片
+#EXTINF:-1 tvg-name="航拍中国第一季" tvg-logo="" group-title="📽️纪录片",航拍中国第一季
+http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
 
+#EXTINF:-1 tvg-name="航拍中国第二季" tvg-logo="" group-title="📽️纪录片",航拍中国第二季
+http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 
-
-
+#EXTINF:-1 tvg-name="航拍中国第三季" tvg-logo="" group-title="📽️纪录片",航拍中国第三季
+http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
 
