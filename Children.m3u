@@ -19,27 +19,7 @@ https://live.metshop.top/douyu/11691968
 https://live.metshop.top/douyu/2206405
 
 
-#🎞️纪录
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="🎞️纪录",CGTN 纪录
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="🎞️纪录",北京纪实科教
-https://itv.lat/tv/live.php?&line=1&id=bjjskj
-#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="🎞️纪录",上海纪实人文
-https://itv.lat/tv/live.php?&line=1&id=shjsrw
-#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="🎞️纪录",乐游
-https://itv.lat/tv/live.php?&line=1&id=qjs
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="🎞️纪录",金鹰纪实
-https://itv.lat/tv/live.php?&line=1&id=jyjs
-#EXTINF:-1 tvg-name="科学放映室" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Children/科学放映室.png" group-title="🎞️纪录",科学放映室
-https://live.metshop.top/douyu/9439712
-#EXTINF:-1 tvg-name="浩瀚的宇宙" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Children/浩瀚的宇宙.png" group-title="🎞️纪录",浩瀚的宇宙
-https://live.metshop.top/douyu/9606719
-
-
 #🎞️动画
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="🎞️动画",CCTV-14 少儿
-https://itv.lat/tv/live.php?&line=1&id=cctv14
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png" group-title="🎞️动画",金鹰卡通
 https://itv.lat/tv/live.php?&line=1&id=jykt
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="🎞️动画",嘉佳卡通
@@ -55,18 +35,15 @@ https://itv.lat/tv/live.php?&line=1&id=bbdh
 
 
 #📕学习
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="📕学习",CETV1
-https://itv.lat/tv/live.php?&line=1&id=cetv1
-#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="📕学习",CETV2
-https://itv.lat/tv/live.php?&line=1&id=cetv2
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="📕学习",CETV4
-https://itv.lat/tv/live.php?&line=1&id=cetv4
-#EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="📕学习",金色学堂
-https://itv.lat/tv/live.php?&line=1&id=jspd
-#EXTINF:-1 tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="📕学习",上海教育
-https://itv.lat/tv/live.php?&line=1&id=shjy
-#EXTINF:-1 tvg-id="湖南教育" tvg-name="湖南教育台" tvg-logo="https://live.fanmingming.com/tv/湖南教育台.png" group-title="📕学习",湖南教育
-http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 #EXTINF:-1 tvg-name="英语兔" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Children/英语兔.png" group-title="📕学习",英语兔
 https://live.metshop.top/douyu/9504916
+#EXTINF:-1 tvg-name="科学放映室" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Children/科学放映室.png" group-title="📕学习",科学放映室
+https://live.metshop.top/douyu/9439712
+#EXTINF:-1 tvg-name="浩瀚的宇宙" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Children/浩瀚的宇宙.png" group-title="📕学习",浩瀚的宇宙
+https://live.metshop.top/douyu/9606719
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="📕学习",CETV1
+https://itv.lat/tv/live.php?&line=1&id=cetv1
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="📕学习",CGTN 纪录
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+
 
