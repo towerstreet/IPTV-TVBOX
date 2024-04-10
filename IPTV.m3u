@@ -2,58 +2,40 @@
 
 #国内频道
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视ʰ",CCTV-1 综合
-https://itv.lat/tv/live.php?&line=1&id=cctv1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视ʰ",CCTV-2 财经
-https://itv.lat/tv/live.php?&line=1&id=cctv2
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视ʰ",CCTV-3 综艺
-https://itv.lat/tv/live.php?&line=1&id=cctv3
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视ʰ",CCTV-4 中文国际
-https://itv.lat/tv/live.php?&line=1&id=cctv4
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视ʰ",CCTV-5 体育
-https://itv.lat/tv/live.php?&line=1&id=cctv5
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视ʰ",CCTV-5+ 体育赛事
-https://itv.lat/tv/live.php?&line=1&id=cctv5p
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视ʰ",CCTV-6 电影
-https://itv.lat/tv/live.php?&line=1&id=cctv6
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视ʰ",CCTV-7 国防军事
-https://itv.lat/tv/live.php?&line=1&id=cctv7
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视ʰ",CCTV-8 电视剧
-https://itv.lat/tv/live.php?&line=1&id=cctv8
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视ʰ",CCTV-9 纪录
-https://itv.lat/tv/live.php?&line=1&id=cctv9
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视ʰ",CCTV-10 科教
-https://itv.lat/tv/live.php?&line=1&id=cctv10
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视ʰ",CCTV-11 戏曲
-https://itv.lat/tv/live.php?&line=1&id=cctv11
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视ʰ",CCTV-12 社会与法
-https://itv.lat/tv/live.php?&line=1&id=cctv12
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视ʰ",CCTV-13 新闻
-https://itv.lat/tv/live.php?&line=1&id=cctv13
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视ʰ",CCTV-14 少儿
-https://itv.lat/tv/live.php?&line=1&id=cctv14
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视ʰ",CCTV-15 音乐
-https://itv.lat/tv/live.php?&line=1&id=cctv15
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视ʰ",CCTV-16 奥林匹克
-https://itv.lat/tv/live.php?&line=1&id=cctv16
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视ʰ",CCTV-17 农业农村
-https://itv.lat/tv/live.php?&line=1&id=cctv17
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视ʰ",CCTV-4K 超高清
 https://itv.lat/tv/live.php?&line=1&id=cctv4k
