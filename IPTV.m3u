@@ -39,6 +39,8 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN 纪录
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+#EXTINF:-1 tvg-id="法治在线" tvg-name="法治在线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/法治在线.png" group-title="央视频道",法治在线
+https://ali-adaptive.pull.yximgs.com/gifshow/kwai_actL_ol_act_12239877530_strL.flv?auth_key=1712877553-0-0-3e14b15731ccd160f0d0c3531a2501bc&oidc=watchmen&sidc=203562&srcStrm=fdeGdc3UpO8&fd=1&ss=s20&kabr_spts=-5000
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
