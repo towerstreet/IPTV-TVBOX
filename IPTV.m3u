@@ -460,14 +460,14 @@ https://apiurl.v1.mk/douyu/9606719
 
 #🕹️游戏直播
 #EXTINF:-1 tvg-name="王者荣耀" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/KPL.png" group-title="🕹️游戏直播",王者荣耀
-https://apiurl.v1.mk/huya/660002
 https://apiurl.v1.mk/douyu/998
+https://apiurl.v1.mk/huya/660002
 #EXTINF:-1 tvg-name="第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="🕹️游戏直播",第五人格
-https://apiurl.v1.mk/huya/461698
 https://apiurl.v1.mk/douyu/3226194
+https://apiurl.v1.mk/huya/461698
 #EXTINF:-1 tvg-name="PUBG" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/PUBG.png" group-title="🕹️游戏直播",PUBG
-https://apiurl.v1.mk/huya/660004
 https://apiurl.v1.mk/douyu/100
+https://apiurl.v1.mk/huya/660004
 #EXTINF:-1 tvg-name="CS GO" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/5EPlay.png" group-title="🕹️游戏直播",CS GO
 https://apiurl.v1.mk/huya/483917
 #EXTINF:-1 tvg-name="蛋仔派对" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易电竞NeXT.png" group-title="🕹️游戏直播",蛋仔派对
