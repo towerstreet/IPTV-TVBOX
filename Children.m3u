@@ -27,7 +27,9 @@ https://apiurl.v1.mk/douyu/9439712
 #EXTINF:-1 tvg-name="浩瀚的宇宙" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Children/浩瀚的宇宙.png" group-title="📕学习",浩瀚的宇宙
 https://apiurl.v1.mk/douyu/9606719
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="📕学习",CCTV-9 纪录
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000373/index.m3u8?IAS
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="📕学习",CCTV-10 科教
+http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?IAS
 
