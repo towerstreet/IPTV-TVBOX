@@ -439,75 +439,80 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 
 
 #🎞️网络直播
-#EXTINF:-1 tvg-name="德云社相声" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="🎞️网络直播",德云社相声
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/德云社.png" group-title="🎞️网络直播",德云社相声
 https://apiurl.v1.mk/huya/28274529
 https://apiurl.v1.mk/huya/29807256
-#EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/陈翔六点半.png" group-title="🎞️网络直播",陈翔六点半
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/陈翔六点半.png" group-title="🎞️网络直播",陈翔六点半
 https://apiurl.v1.mk/huya/11274154
 https://apiurl.v1.mk/douyu/2132902
-#EXTINF:-1 tvg-name="老高与小茉" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/老高与小茉.png" group-title="🎞️网络直播",老高与小茉
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/老高与小茉.png" group-title="🎞️网络直播",老高与小茉
 https://apiurl.v1.mk/douyu/236461
 https://apiurl.v1.mk/douyu/838632
 https://apiurl.v1.mk/douyu/9737563
-#EXTINF:-1 tvg-name="所长林超" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/所长林超.png" group-title="🎞️网络直播",所长林超
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/所长林超.png" group-title="🎞️网络直播",所长林超
 https://apiurl.v1.mk/douyu/9447974
-#EXTINF:-1 tvg-name="老爸评测" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/老爸评测.png" group-title="🎞️网络直播",老爸评测
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/老爸评测.png" group-title="🎞️网络直播",老爸评测
 https://apiurl.v1.mk/douyu/9642554
-#EXTINF:-1 tvg-name="海南军阀赶海" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/大漠叔叔.png" group-title="🎞️网络直播",海南军阀赶海
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/大漠叔叔.png" group-title="🎞️网络直播",海南军阀赶海
 https://apiurl.v1.mk/douyu/1109218
-#EXTINF:-1 tvg-name="村霸普法" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/大漠叔叔.png" group-title="🎞️网络直播",村霸普法
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/大漠叔叔.png" group-title="🎞️网络直播",村霸普法
 https://apiurl.v1.mk/douyu/10551378
-#EXTINF:-1 tvg-name="科学放映室" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/科学放映室.png" group-title="🎞️网络直播",科学放映室
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/科学放映室.png" group-title="🎞️网络直播",科学放映室
 https://apiurl.v1.mk/douyu/9439712
-#EXTINF:-1 tvg-name="浩瀚的宇宙" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/浩瀚的宇宙.png" group-title="🎞️网络直播",浩瀚的宇宙
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/浩瀚的宇宙.png" group-title="🎞️网络直播",浩瀚的宇宙
 https://apiurl.v1.mk/douyu/9606719
 
 
 #🕹️游戏直播
-#EXTINF:-1 tvg-name="王者荣耀" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/KPL.png" group-title="🕹️游戏直播",王者荣耀
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/KPL.png" group-title="🕹️游戏直播",王者荣耀
 https://apiurl.v1.mk/huya/660002
 https://apiurl.v1.mk/douyu/998
-#EXTINF:-1 tvg-name="第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="🕹️游戏直播",第五人格
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="🕹️游戏直播",第五人格
 https://apiurl.v1.mk/huya/461698
 https://apiurl.v1.mk/douyu/3226194
-#EXTINF:-1 tvg-name="PUBG" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/PUBG.png" group-title="🕹️游戏直播",PUBG
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/PUBG.png" group-title="🕹️游戏直播",PUBG
 https://apiurl.v1.mk/huya/660004
 https://apiurl.v1.mk/douyu/100
-#EXTINF:-1 tvg-name="CS GO" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/5EPlay.png" group-title="🕹️游戏直播",CS GO
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/5EPlay.png" group-title="🕹️游戏直播",CS GO
 https://apiurl.v1.mk/huya/483917
 https://apiurl.v1.mk/douyu/601514
-#EXTINF:-1 tvg-name="蛋仔派对" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易电竞NeXT.png" group-title="🕹️游戏直播",蛋仔派对
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易电竞NeXT.png" group-title="🕹️游戏直播",蛋仔派对
 https://apiurl.v1.mk/douyu/5590267
 
 
 #🏖️旅游直播
-#EXTINF:-1 tvg-name="乌镇" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/直播中国.png" group-title="🏖️旅游直播",乌镇
-https://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
-#EXTINF:-1 tvg-name="珠穆朗玛峰" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/直播中国.png" group-title="🏖️旅游直播",珠穆朗玛峰
-https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🏖️旅游直播",iPanda
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🏖️旅游直播",iPanda
 https://gcwbndcnc.v.wscdns.com/gcwbnd/ipanda1000_2_720P/playlist.m3u8?wsApp=HLS
 https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao04_2_720P/playlist.m3u8?wsApp=HLS
 https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao14_2_720P/playlist.m3u8?wsApp=HLS
 https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao06_2_720P/playlist.m3u8?wsApp=HLS
 https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao10_2_720P/playlist.m3u8?wsApp=HLS
 https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao15_2_720P/playlist.m3u8?wsApp=HLS
-#EXTINF:-1 tvg-name="海底世界" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/海底世界.png" group-title="🏖️旅游直播",海底世界
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/直播中国.png" group-title="🏖️旅游直播",乌镇
+https://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/直播中国.png" group-title="🏖️旅游直播",珠穆朗玛峰
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/海底世界.png" group-title="🏖️旅游直播",海底世界
 https://apiurl.v1.mk/huya/20985846
-#EXTINF:-1 tvg-name="世界环游记" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/世界环游记.png" group-title="🏖️旅游直播",世界环游记
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/世界环游记.png" group-title="🏖️旅游直播",世界环游记
 https://apiurl.v1.mk/douyu/11691968
-#EXTINF:-1 tvg-name="日食记" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/日食记.png" group-title="🏖️旅游直播",日食记
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/日食记.png" group-title="🏖️旅游直播",日食记
 https://apiurl.v1.mk/douyu/2206405
 
-#EXTINF:-1 tvg-name="地球频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/地球频道.png" group-title="🏖️旅游直播",地球频道
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/SpaceX.png" group-title="🏖️旅游直播",星舰基地24H
+https://cn-zjjh-ct-04-04.bilivideo.com/live-bvc/137995/live_261152306_44811934/index.m3u8?expires=1712420020&len=0&oi=0x240e038306077700b0f3311c3a7657ab&pt=web&qn=0&trid=10074f2da0ece3814c4eaba604575ae11131&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=1277e635e8fc367a3bdf0951f3bbdb77&sk=3feb089d534c5f7e856102a6c96a75a0&flvsk=fda2ea52ab75ed47389a512f46dfc851&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-zjjh-ct-04-04&chash=1&bmt=1&sche=ban&bvchls=1&score=12&pp=rtmp&source=onetier&trace=911&site=6b5fa8f834caefd129caa3725d48b528&qp=de_0&zoneid_l=151388161&sid_l=live_261152306_44811934&order=1
+
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/NASA.png" group-title="🏖️旅游直播",空间站直播地球24H
+https://cn-hbyc-ct-02-07.bilivideo.com/live-bvc/156130/live_290515513_3522421/index.m3u8?expires=1712420056&len=0&oi=0x240e038306077700b0f3311c3a7657ab&pt=web&qn=10000&trid=1007e117d5605d414be984256da7fcefbbe5&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=eb82d4fcb1aee7bc23dd06db6539fb8c&sk=0550fa5c8a5cda55f4d92003628ee124&flvsk=5a768695583610af27c63304d2b72850&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-hbyc-ct-02-07&chash=1&bmt=1&sche=ban&bvchls=1&score=14&pp=rtmp&source=onetier&trace=111&site=1f5634afc0679a80b89bf8baf63300b3&zoneid_l=151388161&sid_l=live_290515513_3522421&order=1
+
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/地球频道.png" group-title="🏖️旅游直播",地球频道
 https://714d455d133850169798855893804b3f.h2.smtcdns.net/d1--cn-gotcha204-3.bilivideo.com/live-bvc/561000/live_91650842_55105212/index.m3u8?expires=1713368130&len=0&oi=0x240e03830611220095f766f15135ce6f&pt=web&qn=0&trid=1007bfc34c438bfc45e3ae9cd486cd24a8dd&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=ea60209406a684b91974c4a6af983cde&sk=323b16106320e17953e3a2ef7f53a1d6&p2p_type=1&sl=1&free_type=0&mid=39747201&pp=srt&source=onetier&trace=10&site=f4888e9935fabfa227d001716b0565fc&qp=de_0&order=1&TxLiveCode=cold_stream&TxDispType=0&svr_type=live_oc&tencent_test_client_ip=113.218.145.13&dispatch_from=OC_MGR113.219.183.47&utime=1713364483915
 https://apiurl.v1.mk/douyu/9412365
 
-#EXTINF:-1 tvg-name="星舰基地24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/SpaceX.png" group-title="🏖️旅游直播",星舰基地24H
-https://cn-zjjh-ct-04-04.bilivideo.com/live-bvc/137995/live_261152306_44811934/index.m3u8?expires=1712420020&len=0&oi=0x240e038306077700b0f3311c3a7657ab&pt=web&qn=0&trid=10074f2da0ece3814c4eaba604575ae11131&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=1277e635e8fc367a3bdf0951f3bbdb77&sk=3feb089d534c5f7e856102a6c96a75a0&flvsk=fda2ea52ab75ed47389a512f46dfc851&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-zjjh-ct-04-04&chash=1&bmt=1&sche=ban&bvchls=1&score=12&pp=rtmp&source=onetier&trace=911&site=6b5fa8f834caefd129caa3725d48b528&qp=de_0&zoneid_l=151388161&sid_l=live_261152306_44811934&order=1
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="🏖️旅游直播",雨声助眠
+https://bc2667154ae411b990b002ac22701ca8.h2.smtcdns.net/d1--cn-gotcha204.bilivideo.com/live-bvc/892921/live_431457159_71678679_bluray/index.m3u8?expires=1713370157&len=0&oi=0x240e03830611220095f766f15135ce6f&pt=web&qn=10000&trid=10077d983f3f952348c7a238331b44ecca18&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=6329d55045c7468238cf6d95488b1207&sk=15541a40edd7ebd085f0eb9f7146d5b3&p2p_type=1&sl=2&free_type=0&mid=39747201&pp=rtmp&source=onetier&trace=10&site=23a19f73cf9343640028fcd05ead99bd&order=2&TxLiveCode=cold_stream&TxDispType=0&svr_type=live_oc&tencent_test_client_ip=113.218.145.13&dispatch_from=OC_MGR124.232.162.160&utime=1713366499403
 
-#EXTINF:-1 tvg-name="空间站直播地球24H" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/NASA.png" group-title="🏖️旅游直播",空间站直播地球24H
-https://cn-hbyc-ct-02-07.bilivideo.com/live-bvc/156130/live_290515513_3522421/index.m3u8?expires=1712420056&len=0&oi=0x240e038306077700b0f3311c3a7657ab&pt=web&qn=10000&trid=1007e117d5605d414be984256da7fcefbbe5&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=eb82d4fcb1aee7bc23dd06db6539fb8c&sk=0550fa5c8a5cda55f4d92003628ee124&flvsk=5a768695583610af27c63304d2b72850&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-hbyc-ct-02-07&chash=1&bmt=1&sche=ban&bvchls=1&score=14&pp=rtmp&source=onetier&trace=111&site=1f5634afc0679a80b89bf8baf63300b3&zoneid_l=151388161&sid_l=live_290515513_3522421&order=1
+
 
 
 
