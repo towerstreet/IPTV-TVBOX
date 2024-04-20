@@ -193,13 +193,13 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="newtv金牌综艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV金牌综艺.png" group-title="数字频道",金牌综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/求索纪录.png" group-title="数字",求索纪录
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/求索纪录.png" group-title="数字频道",求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索科学" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/求索科学.png" group-title="数字",求索科学
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索科学" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/求索科学.png" group-title="数字频道",求索科学
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/求索生活.png" group-title="数字",求索生活
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/求索生活.png" group-title="数字频道",求索生活
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索动物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/求索动物.png" group-title="数字",求索动物
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索动物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/求索动物.png" group-title="数字频道",求索动物
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
 
 
