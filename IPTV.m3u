@@ -208,33 +208,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="newtv金牌综艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV金牌综艺.png" group-title="NewTV",金牌综艺
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/index.m3u8
 
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵器科技.png" group-title="央视频道",兵器科技
-https://tv.iill.top/live/bqkj
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视频道",第一剧场
-https://tv.iill.top/live/dyjc
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视频道",怀旧剧场
-https://tv.iill.top/live/hjjc
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视频道",风云剧场
-https://tv.iill.top/live/fyjc
-#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视频道",风云音乐
-https://tv.iill.top/live/fyyy
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视频道",风云足球
-https://tv.iill.top/live/fyzq
-#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/电视指南.png" group-title="央视频道",电视指南
-https://tv.iill.top/live/dszn
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视频道",女性时尚
-https://tv.iill.top/live/nxss
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/文化精品.png" group-title="央视频道",文化精品
-https://tv.iill.top/live/whjp
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/世界地理.png" group-title="央视频道",世界地理
-https://tv.iill.top/live/sjdl
-#EXTINF:-1 tvg-name="央视高网" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/央视高网.png" group-title="央视频道",央视高网
-https://tv.iill.top/live/gefwq
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视频道",央视台球
-https://tv.iill.top/live/ystq
-#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/卫生健康.png" group-title="央视频道",卫生健康
-https://tv.iill.top/live/wsjk
-
 
 #ℹ️国际频道
 #EXTINF:-1 group-title="ℹ️国际频道",CNN
