@@ -425,14 +425,14 @@ https://apiurl.v1.mk/douyu/12031710
 https://apiurl.v1.mk/huya/660002
 https://apiurl.v1.mk/douyu/998
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="🕹️游戏直播",第五人格
-https://apiurl.v1.mk/huya/461698
 https://apiurl.v1.mk/douyu/3226194
+https://apiurl.v1.mk/huya/461698
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/PUBG.png" group-title="🕹️游戏直播",PUBG
 https://apiurl.v1.mk/huya/660004
 https://apiurl.v1.mk/douyu/100
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/5EPlay.png" group-title="🕹️游戏直播",CS GO
-https://apiurl.v1.mk/huya/483917
 https://apiurl.v1.mk/douyu/601514
+https://apiurl.v1.mk/huya/483917
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易NeXT.png" group-title="🕹️游戏直播",蛋仔派对
 https://apiurl.v1.mk/douyu/5590267
 
@@ -451,11 +451,11 @@ https://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
 https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/海底世界.png" group-title="🏖️旅游直播",海底世界
 https://apiurl.v1.mk/huya/20985846
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/日食记.png" group-title="🏖️旅游直播",日食记
+https://apiurl.v1.mk/douyu/2206405
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/世界环游记.png" group-title="🏖️旅游直播",世界环游记
 https://apiurl.v1.mk/douyu/1668562
 https://apiurl.v1.mk/douyu/11691968
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/日食记.png" group-title="🏖️旅游直播",日食记
-https://apiurl.v1.mk/douyu/2206405
 
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/SpaceX.png" group-title="🏖️旅游直播",星舰基地24H
 https://cn-zjjh-ct-04-04.bilivideo.com/live-bvc/751165/live_261152306_44811934/index.m3u8?expires=1713761967&len=0&oi=0x240e03830614710031f176944161f779&pt=web&qn=0&trid=1007f9fbe1a2f3ad4640b017e02eb80076bd&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=da33b86f7f3672ede7299dba54302f9e&sk=3f54c97c25eeab6e55c46153daa87273&flvsk=f17af9dbafb2b628ce0f35de181ffc3a&p2p_type=1&sl=1&free_type=0&mid=39747201&sid=cn-zjjh-ct-04-04&chash=1&bmt=1&sche=ban&bvchls=1&score=12&pp=rtmp&source=onetier&trace=911&site=aa18847ea9f2148dfaed835f36c7104f&qp=de_0&zoneid_l=151388161&sid_l=live_261152306_44811934&order=1
