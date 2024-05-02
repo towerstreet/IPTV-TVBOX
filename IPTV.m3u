@@ -231,36 +231,20 @@ https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",ABC News Live
-https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Live Now FOX
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",NBC News Now
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",Sky News
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",ABC7 Bay Area
-https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",CBS News Bay Area
-https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Euronews Live
-https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",ABC Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",Bloomberg Asia
 https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",Bloomberg Originals
@@ -273,20 +257,6 @@ https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",TBS
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",FXX
-http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",A&E
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
-#EXTINF:-1 group-title="ℹ️国际频道",AMC
-http://170.254.18.106/AMC/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Star
-http://170.254.18.106/STAR/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",BET
-http://170.254.18.106/BET/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",TNT
-http://170.254.18.106/TNT/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",TRT World
@@ -305,20 +275,6 @@ http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Cinemax East
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
-#EXTINF:-1 group-title="ℹ️国际频道",HBO
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
-#EXTINF:-1 group-title="ℹ️国际频道",HBO Plus
-http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",HBO West
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
-#EXTINF:-1 group-title="ℹ️国际频道",HBO 2
-http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",HBO Family
-http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",HBO Signature
-http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",&Flix HD
 http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",Wild Earth
@@ -327,68 +283,16 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",Clarity 4K
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Comedy Central
-http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Nickelodeon
-http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",History
-http://170.254.18.106/HISTORY/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Paramount Network
-http://170.254.18.106/PARAMOUNT/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",HBO Xtreme
-http://170.254.18.106/HBO_XTREME/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Cinemax
-http://170.254.18.106/CINEMAX/index.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Rakuten Comedy
-https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Rakuten Family
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Rakuten Action
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Sky Sport
-https://donelfantastic.github.io/live/skysportsNz8.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",Stadium
 https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",FIFA+
-https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",BBC Earth
-https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",BBC Food
-https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",BBC Home
-https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",NBA TV
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
-#EXTINF:-1 group-title="ℹ️国际频道",Universal Kids
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
-#EXTINF:-1 group-title="ℹ️国际频道",Nat Geo
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
-#EXTINF:-1 group-title="ℹ️国际频道",NASA
-https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
-#EXTINF:-1 group-title="ℹ️国际频道",Start TV
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/1467
-#EXTINF:-1 group-title="ℹ️国际频道",The Weather Channel
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/301
 #EXTINF:-1 group-title="ℹ️国际频道",Pop
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-#EXTINF:-1 group-title="ℹ️国际频道",WE TV
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/247
-#EXTINF:-1 group-title="ℹ️国际频道",Me TV
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
-#EXTINF:-1 group-title="ℹ️国际频道",SNY
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
-#EXTINF:-1 group-title="ℹ️国际频道",Documentary+
-https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",Tastemade
 https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",MovieSphere
 https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",The Guardian
-https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
-#EXTINF:-1 group-title="ℹ️国际频道",Travelxp
-https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",The Lego Channel
 https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",NextUp Live Comedy
