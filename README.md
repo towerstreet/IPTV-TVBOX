@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="http://towerstreet.iask.in:5244/d/JONSBO/Storage/ICONS/Mushroom.png?sign=C60VG3EW6LCOdkubEH0oMhyWKLM97LpN6dLR7G3ZmCg=:0" alt="DirectoryLister" width="15%">
+    <img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Mushroom.png" alt="DirectoryLister" width="15%">
 </p>
 
 ### 🏠我的加速链接：
