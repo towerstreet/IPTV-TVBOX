@@ -1,13 +1,17 @@
 <p align="center">
-    <img src="https://github.com/towerstreet/IPTV-TVBOX/blob/main/LOGO/Mushroom.png" width="20%">
+    <img src="https://github.com/towerstreet/IPTV-TVBOX/blob/main/LOGO/Mushroom.png" width="15%">
 </p>
 
 ### 🏠我的加速链接：
+
 - 🎞️[***[M3U]***](https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/IPTV.m3u)
+
 ---
 
 ### 🎈大佬们的链接：
+
 #### [**fanmingming/live**](https://github.com/fanmingming/live)
+
 - 🎞️[***[M3U]***](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)
 - 🔗[***[EPG]***](https://github.com/fanmingming/live/blob/main/e.xml)
 
