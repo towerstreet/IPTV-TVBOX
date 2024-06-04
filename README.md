@@ -7,7 +7,7 @@
 🚀 **我的加速链接：**
 - [**Towerstreet/IPTV-TVBOX**](https://github.com/towerstreet/IPTV-TVBOX/)
 
-    - 🎞️[***[M3U]***](https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/IPTV.m3u)
+    - 🎞️[*[M3U]*](https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/IPTV.m3u)
 
 ---
 
