@@ -15,7 +15,7 @@
 
 ---
 
-## *M3U*
+### *M3U*
 #### *我的加速链接：*
 - [***Towerstreet/IPTV-TVBOX***](https://github.com/towerstreet/IPTV-TVBOX/)
 
@@ -33,7 +33,7 @@
 
 ---
 
-## *软件*
+### *软件*
 - [*TVBOX*](https://github.com/FongMi/Release)
 - [*M3UAndroid*](https://github.com/oxyroid/M3UAndroid)
 - [*ZyPlayer*](https://github.com/Hiram-Wong/ZyPlayer)
