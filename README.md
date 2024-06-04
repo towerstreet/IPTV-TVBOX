@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Mushroom.png" alt="DirectoryLister" width="20%">
+    <img src="[https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Mushroom.png](https://github.com/towerstreet/IPTV-TVBOX/blob/main/LOGO/Mushroom.png)" width="20%">
 </p>
 
 ### 🏠我的加速链接：
