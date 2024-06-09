@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Logo" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Mushroom.png" width="15%">
+    <img alt="Logo" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Mushroom.png" width="100">
 </p>
 
 <h1 align="center">Towerstreet</h1>
