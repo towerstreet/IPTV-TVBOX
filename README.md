@@ -30,6 +30,7 @@
 - [***YueChan/Live***](https://github.com/YueChan/Live)
 
     - 🎞️[*[M3U]*](https://github.com/YueChan/Live/blob/main/IPTV.m3u)
+    - 🎞️[*[Globle]*](https://github.com/YueChan/Live/blob/main/Global.m3u)
 
 ---
 
