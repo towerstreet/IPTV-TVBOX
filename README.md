@@ -31,10 +31,6 @@
 
     - 🎞️[*[M3U]*](https://github.com/YueChan/Live/blob/main/IPTV.m3u)
 
-- [***YanG-1989/m3u***](https://github.com/YanG-1989/m3u)
-
-    - 🎞️[*[M3U]*](https://github.com/YanG-1989/m3u/blob/main/Gather.m3u)
-
 ---
 
 ### *软件*
