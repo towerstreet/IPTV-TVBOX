@@ -24,17 +24,17 @@
 #### *大佬们的链接：*
 - [***Fanmingming/live***](https://github.com/fanmingming/live)
 
-    - 🎞️[*[M3U]*](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)
+    - 🎞️[*[CN]*](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)
     - 🔗[*[EPG]*](https://github.com/fanmingming/live/blob/main/e.xml)
 
 - [***YueChan/Live***](https://github.com/YueChan/Live)
 
-    - 🎞️[*[M3U]*](https://github.com/YueChan/Live/blob/main/IPTV.m3u)
+    - 🎞️[*[CN]*](https://github.com/YueChan/Live/blob/main/IPTV.m3u)
     - 🎞️[*[Globle]*](https://github.com/YueChan/Live/blob/main/Global.m3u)
 
 - [***FunctionError/PiratesTv***](https://github.com/FunctionError/PiratesTv)
 
-    - 🎞️[*[M3U]*](https://github.com/FunctionError/PiratesTv/blob/main/combined_playlist.m3u)
+    - 🎞️[*[Globle]*](https://github.com/FunctionError/PiratesTv/blob/main/combined_playlist.m3u)
 ---
 
 ### *软件*
