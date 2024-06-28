@@ -279,7 +279,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m
 http://livear.cgtn.com/1000a/prog_index.m3u8
 
 #ℹ️国际频道
-#EXTINF:-1 group-title="ℹ️国际频道",CNN
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNNNews.png" group-title="ℹ️国际频道",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 group-title="ℹ️国际频道",BBC
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
