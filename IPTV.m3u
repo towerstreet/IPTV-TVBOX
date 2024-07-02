@@ -280,15 +280,15 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 
 #ℹ️国际频道
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNNNews.png" group-title="ℹ️国际频道",CNN
-https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBCWORLDNEWSASIA.png" group-title="ℹ️国际频道",BBC
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/CNA.png" group-title="ℹ️国际频道",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719897566/ei/fjmDZrnNC82HkucPlJmjmAI/ip/40.65.196.145/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5yvmZUBPgPkQUfJz8HHJPRd6CORNVcAA_QlUqSEEHXzmosMlePLNLgKGYA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAI6xWN0cEMvpo_83JQxec6eJrh_YvGzDlO5a6a_ccabsAiEArVX8kBF4hA_GHoV2UsbnxjK0nVfT51hInFaXQ7RMmaE%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/NBC.png" group-title="ℹ️国际频道",NBC 
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/FOXHD.png" group-title="ℹ️国际频道",FOX
-https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/VOA%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3.png" group-title="ℹ️国际频道",VOA 
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SkyNews.png" group-title="ℹ️国际频道",SkyNews
@@ -420,9 +420,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/subirkumarpaul/My-i
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/travelchannel.png" group-title="ℹ️国际频道",Travel Channel
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
-
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/BBCFood.png" group-title="ℹ️国际频道",BBC Food
-https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 
 #🎞️网络直播
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/陈翔六点半.png" group-title="🎞️网络直播",陈翔六点半
