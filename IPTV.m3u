@@ -280,7 +280,7 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 
 #ℹ️国际频道
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNNNews.png" group-title="ℹ️国际频道",CNN
-https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBCWORLDNEWSASIA.png" group-title="ℹ️国际频道",BBC
 https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/CNA.png" group-title="ℹ️国际频道",CNA
