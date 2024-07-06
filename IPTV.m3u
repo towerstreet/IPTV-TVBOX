@@ -287,9 +287,9 @@ https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/NBC.png" group-title="ℹ️国际频道",NBC 
 https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/FOXHD.png" group-title="ℹ️国际频道",FOX
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/FoxNews.png" group-title="ℹ️国际频道",FOX
 https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/VOA%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3.png" group-title="ℹ️国际频道",VOA 
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/VOA.png" group-title="ℹ️国际频道",VOA 
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SkyNews.png" group-title="ℹ️国际频道",SkyNews
 https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
@@ -357,7 +357,7 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBCEarth.png" group-title="ℹ️国际频道",BBC Earth
 https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/HistoryChannel.png" group-title="ℹ️国际频道",History
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/History.png" group-title="ℹ️国际频道",History
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/TED.png" group-title="ℹ️国际频道",TED Talks 
 https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
@@ -402,17 +402,17 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/AnimalPlanet.png" group-title="ℹ️国际频道",Animal Planet HD
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery%E7%A7%91%E5%AD%A6.png" group-title="ℹ️国际频道",Discovery Science
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/DiscoveryScience.png" group-title="ℹ️国际频道",Discovery Science
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/DiscoveryTurbo.png" group-title="ℹ️国际频道",Discovery Turbo
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Turbo.m3u8
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/DiscoveryHD.png" group-title="ℹ️国际频道",Discovery HD
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Discovery.png" group-title="ℹ️国际频道",Discovery HD
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/DMAX.png" group-title="ℹ️国际频道",Dmax
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/DMAX.png" group-title="ℹ️国际频道",Dmax
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Dmax.m3u8
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/FoodNetwork.png" group-title="ℹ️国际频道",Food Network
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/FoodNetwork.png" group-title="ℹ️国际频道",Food Network
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/HGTV.png" group-title="ℹ️国际频道",HGTV
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/HGTV.png" group-title="ℹ️国际频道",HGTV
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Hgtv.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/InvestigationDiscovery.png" group-title="ℹ️国际频道",Investigation Discovery
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Investigation-Discovery.m3u8
