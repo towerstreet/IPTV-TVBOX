@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Towerstreet</h1>
-<h2 align="center">🚫自用链接，请勿商用或宣传🚫</h2>
+<h3 align="center">🚫自用链接，请勿商用或宣传🚫</h3>
 
 <p align="center">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/towerstreet/IPTV-TVBOX?style=flat-square">
