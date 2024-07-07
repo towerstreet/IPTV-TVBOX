@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://iptv-pro.github.io/logo/中天亚洲.png",中天亞洲台
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://iptv-pro.github.io/logo/中天综合.png",中天综合
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png",中天新闻
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+
 #EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://iptv-pro.github.io/logo/三立iNEWS.png",三立iNEWS
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png",三立新聞
@@ -10,13 +17,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/mast
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 #EXTINF:-1 tvg-name="寰宇财经台" tvg-logo="https://iptv-pro.github.io/logo/寰宇财经台.png",寰宇财经台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
-
-#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://iptv-pro.github.io/logo/中天亚洲.png",中天亞洲台
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://iptv-pro.github.io/logo/中天综合.png",中天综合
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png",中天新闻
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 
 #EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://iptv-pro.github.io/logo/中视新闻台.png",中視新聞
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
