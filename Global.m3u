@@ -1,4 +1,4 @@
-
+#EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 #ℹ️国际频道
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNNNews.png" group-title="ℹ️国际频道",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
