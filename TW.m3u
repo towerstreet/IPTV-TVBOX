@@ -1,183 +1,183 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立iNEWS.png",三立iNEWS
+#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://iptv-pro.github.io/logo/三立iNEWS.png",三立iNEWS
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞台.png",寰宇新聞台
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://iptv-pro.github.io/logo/寰宇新闻台.png",寰宇新聞台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 tvg-name="東森財經新聞" tvg-logo="https://live.fanmingming.com/tv/東森財經新聞.png",東森財經新聞
+#EXTINF:-1 tvg-name="東森財經新聞" tvg-logo="https://iptv-pro.github.io/logo/东森财经新闻.png",東森財經新聞
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-name="momo購物一台" tvg-logo="https://live.fanmingming.com/tv/momo購物一台.png",momo購物一台
+#EXTINF:-1 tvg-name="momo購物一台" tvg-logo="https://iptv-pro.github.io/logo/momo1台.png",momo購物一台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 tvg-name="momo購物二台" tvg-logo="https://live.fanmingming.com/tv/momo購物二台.png",momo購物二台
+#EXTINF:-1 tvg-name="momo購物二台" tvg-logo="https://iptv-pro.github.io/logo/momo2台.png",momo購物二台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-#EXTINF:-1 tvg-name="運通財經台" tvg-logo="https://live.fanmingming.com/tv/運通財經台.png",運通財經台
+#EXTINF:-1 tvg-name="運通財經台" tvg-logo="https://iptv-pro.github.io/logo/運通財經台.png",運通財經台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 tvg-name="信大電視台" tvg-logo="https://live.fanmingming.com/tv/信大電視台.png",信大電視台
+#EXTINF:-1 tvg-name="信大電視台" tvg-logo="https://iptv-pro.github.io/logo/信大HD.png",信大電視台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-#EXTINF:-1 tvg-name="DW News" tvg-logo="https://live.fanmingming.com/tv/DW News.png",DW News
+#EXTINF:-1 tvg-name="DW News" tvg-logo="https://iptv-pro.github.io/logo/DW德国之声png",DW News
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://live.fanmingming.com/tv/中視新聞.png",中視新聞
+#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://iptv-pro.github.io/logo/中视新闻台.png",中視新聞
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-name="Malaimurasu Tv 24X7" tvg-logo="https://live.fanmingming.com/tv/Malaimurasu Tv 24X7.png",Malaimurasu Tv 24X7
+#EXTINF:-1 tvg-name="Malaimurasu Tv 24X7" tvg-logo="https://iptv-pro.github.io/logo/Malaimurasu Tv 24X7.png",Malaimurasu Tv 24X7
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 tvg-name="Asianet News" tvg-logo="https://live.fanmingming.com/tv/Asianet News.png",Asianet News
+#EXTINF:-1 tvg-name="Asianet News" tvg-logo="https://iptv-pro.github.io/logo/Asianet News.png",Asianet News
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
-#EXTINF:-1 tvg-name="華視戲劇頻道" tvg-logo="https://live.fanmingming.com/tv/華視戲劇頻道.png",華視戲劇頻道
+#EXTINF:-1 tvg-name="華視戲劇頻道" tvg-logo="https://iptv-pro.github.io/logo/华视.png",華視戲劇頻道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://live.fanmingming.com/tv/中天亞洲台.png",中天亞洲台
+#EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://iptv-pro.github.io/logo/中天亚洲.png",中天亞洲台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Arabic" tvg-logo="https://live.fanmingming.com/tv/Al Jazeera Arabic.png",Al Jazeera Arabic
+#EXTINF:-1 tvg-name="Al Jazeera Arabic" tvg-logo="https://iptv-pro.github.io/logo/Al%20Jazeera%20English.png",Al Jazeera Arabic
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-#EXTINF:-1 tvg-name="JapaNews24" tvg-logo="https://live.fanmingming.com/tv/JapaNews24.png",JapaNews24
+#EXTINF:-1 tvg-name="JapaNews24" tvg-logo="https://iptv-pro.github.io/logo/JapaNews24.png",JapaNews24
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 tvg-name="THE K-POP" tvg-logo="https://live.fanmingming.com/tv/THE K-POP.png",THE K-POP
+#EXTINF:-1 tvg-name="THE K-POP" tvg-logo="https://iptv-pro.github.io/logo/THE%20K-POP.png",THE K-POP
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://live.fanmingming.com/tv/民視新聞.png",民視新聞
+#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://iptv-pro.github.io/logo/民视新闻台.png",民視新聞
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 tvg-name="東森購物台CH60" tvg-logo="https://live.fanmingming.com/tv/東森購物台CH60.png",東森購物台CH60
+#EXTINF:-1 tvg-name="東森購物台CH60" tvg-logo="https://iptv-pro.github.io/logo/东森购物1台.png",東森購物台CH60
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:-1 tvg-name="東森購物台CH46" tvg-logo="https://live.fanmingming.com/tv/東森購物台CH46.png",東森購物台CH46
+#EXTINF:-1 tvg-name="東森購物台CH46" tvg-logo="https://iptv-pro.github.io/logo/东森购物1台.png",東森購物台CH46
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-#EXTINF:-1 tvg-name="LIVE NOW" tvg-logo="https://live.fanmingming.com/tv/LIVE NOW.png",LIVE NOW
+#EXTINF:-1 tvg-name="LIVE NOW" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/FoxNews.png",LIVE NOW
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-#EXTINF:-1 tvg-name="Haberturk TV" tvg-logo="https://live.fanmingming.com/tv/Haberturk TV.png",Haberturk TV
+#EXTINF:-1 tvg-name="Haberturk TV" tvg-logo="https://iptv-pro.github.io/logo/Haberturk TV.png",Haberturk TV
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png",鳳凰衛視資訊台
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://iptv-pro.github.io/logo/凤凰卫视资讯台.png",鳳凰衛視資訊台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 tvg-name="新唐人LIVE" tvg-logo="https://live.fanmingming.com/tv/新唐人LIVE.png",新唐人LIVE
+#EXTINF:-1 tvg-name="新唐人LIVE" tvg-logo="https://iptv-pro.github.io/logo/新唐人亚太台.png",新唐人LIVE
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://live.fanmingming.com/tv/ABC News.png",ABC News
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://iptv-pro.github.io/logo/ABC%20News.png",ABC News
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 tvg-name="台視新聞台" tvg-logo="https://live.fanmingming.com/tv/台視新聞台.png",台視新聞台
+#EXTINF:-1 tvg-name="台視新聞台" tvg-logo="https://iptv-pro.github.io/logo/台视新闻台.png",台視新聞台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 tvg-name="華視綜藝頻道" tvg-logo="https://live.fanmingming.com/tv/華視綜藝頻道.png",華視綜藝頻道
+#EXTINF:-1 tvg-name="華視綜藝頻道" tvg-logo="https://iptv-pro.github.io/logo/华视教育体育文化台.png",華視綜藝頻道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-name="Astro AWANI" tvg-logo="https://live.fanmingming.com/tv/Astro AWANI.png",Astro AWANI
+#EXTINF:-1 tvg-name="Astro AWANI" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Awani.png",Astro AWANI
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
-#EXTINF:-1 tvg-name="中天電視" tvg-logo="https://live.fanmingming.com/tv/中天電視.png",中天電視
+#EXTINF:-1 tvg-name="中天電視" tvg-logo="https://iptv-pro.github.io/logo/中天综合.png",中天電視
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-name="Tokyo Walk" tvg-logo="https://live.fanmingming.com/tv/Tokyo Walk.png",Tokyo Walk
+#EXTINF:-1 tvg-name="Tokyo Walk" tvg-logo="https://iptv-pro.github.io/logo/Tokyo Walk.png",Tokyo Walk
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-#EXTINF:-1 tvg-name="大愛一臺HD" tvg-logo="https://live.fanmingming.com/tv/大愛一臺HD.png",大愛一臺HD
+#EXTINF:-1 tvg-name="大愛一臺HD" tvg-logo="https://iptv-pro.github.io/logo/%E5%A4%A7%E7%88%B1.png",大愛一臺HD
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-#EXTINF:-1 tvg-name="TVBS News" tvg-logo="https://live.fanmingming.com/tv/TVBS News.png",TVBS News
+#EXTINF:-1 tvg-name="TVBS News" tvg-logo="https://iptv-pro.github.io/logo/TVBS%20News.png",TVBS News
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 tvg-name="三立新聞台" tvg-logo="https://live.fanmingming.com/tv/三立新聞台.png",三立新聞台
+#EXTINF:-1 tvg-name="三立新聞台" tvg-logo="https://iptv-pro.github.io/logo/三立新聞台.png",三立新聞台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 tvg-name="GB News" tvg-logo="https://live.fanmingming.com/tv/GB News.png",GB News
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/GBNews.png",GB News
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-#EXTINF:-1 tvg-name="中視經典綜藝" tvg-logo="https://live.fanmingming.com/tv/中視經典綜藝.png",中視經典綜藝
+#EXTINF:-1 tvg-name="中視經典綜藝" tvg-logo="https://iptv-pro.github.io/logo/中视经典.png",中視經典綜藝
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://live.fanmingming.com/tv/Sky News.png",Sky News
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SkyNews.png",Sky News
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-#EXTINF:-1 tvg-name="India Today" tvg-logo="https://live.fanmingming.com/tv/India Today.png",India Today
+#EXTINF:-1 tvg-name="India Today" tvg-logo="https://iptv-pro.github.io/logo/India Today.png",India Today
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://live.fanmingming.com/tv/Euronews English.png",Euronews English
+#EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://iptv-pro.github.io/logo/Euronews.png",Euronews English
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-#EXTINF:-1 tvg-name="FRANCE 24 English" tvg-logo="https://live.fanmingming.com/tv/FRANCE 24 English.png",FRANCE 24 English
+#EXTINF:-1 tvg-name="FRANCE 24 English" tvg-logo="https://iptv-pro.github.io/logo/FRANCE24%28English%29.png",FRANCE 24 English
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-name="NBC News" tvg-logo="https://live.fanmingming.com/tv/NBC News.png",NBC News
+#EXTINF:-1 tvg-name="NBC News" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/NBC.png",NBC News
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-name="News18 India" tvg-logo="https://live.fanmingming.com/tv/News18 India.png",News18 India
+#EXTINF:-1 tvg-name="News18 India" tvg-logo="https://iptv-pro.github.io/logo/News18 India.png",News18 India
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞台灣台.png",寰宇新聞台灣台
+#EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-logo="https://iptv-pro.github.io/logo/寰宇新闻台湾台.png",寰宇新聞台灣台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-#EXTINF:-1 tvg-name="MIT台灣誌" tvg-logo="https://live.fanmingming.com/tv/MIT台灣誌.png",MIT台灣誌
+#EXTINF:-1 tvg-name="MIT台灣誌" tvg-logo="https://iptv-pro.github.io/logo/MIT台灣誌.png",MIT台灣誌
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視資訊台.png",鳳凰衛視資訊台
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://iptv-pro.github.io/logo/凤凰卫视资讯台.png",鳳凰衛視資訊台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 tvg-name="MediaoneTV Live" tvg-logo="https://live.fanmingming.com/tv/MediaoneTV Live.png",MediaoneTV Live
+#EXTINF:-1 tvg-name="MediaoneTV Live" tvg-logo="https://iptv-pro.github.io/logo/MediaoneTV Live.png",MediaoneTV Live
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
-#EXTINF:-1 tvg-name="TBS NEWS" tvg-logo="https://live.fanmingming.com/tv/TBS NEWS.png",TBS NEWS
+#EXTINF:-1 tvg-name="TBS NEWS" tvg-logo="https://iptv-pro.github.io/logo/TBS NEWS.png",TBS NEWS
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-#EXTINF:-1 tvg-name="NewsTamil24x7" tvg-logo="https://live.fanmingming.com/tv/NewsTamil24x7.png",NewsTamil24x7
+#EXTINF:-1 tvg-name="NewsTamil24x7" tvg-logo="https://iptv-pro.github.io/logo/NewsTamil24x7.png",NewsTamil24x7
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
-#EXTINF:-1 tvg-name="大愛二臺HD" tvg-logo="https://live.fanmingming.com/tv/大愛二臺HD.png",大愛二臺HD
+#EXTINF:-1 tvg-name="大愛二臺HD" tvg-logo="https://iptv-pro.github.io/logo/大爱二台.png",大愛二臺HD
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-#EXTINF:-1 tvg-name="東森購物台CH47" tvg-logo="https://live.fanmingming.com/tv/東森購物台CH47.png",東森購物台CH47
+#EXTINF:-1 tvg-name="東森購物台CH47" tvg-logo="https://iptv-pro.github.io/logo/东森购物2台.png",東森購物台CH47
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-#EXTINF:-1 tvg-name="中天2台" tvg-logo="https://live.fanmingming.com/tv/中天2台.png",中天2台
+#EXTINF:-1 tvg-name="中天2台" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png",中天新闻
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-#EXTINF:-1 tvg-name="Malayalam News" tvg-logo="https://live.fanmingming.com/tv/Malayalam News.png",Malayalam News
+#EXTINF:-1 tvg-name="Malayalam News" tvg-logo="https://iptv-pro.github.io/logo/Malayalam News.png",Malayalam News
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
-#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://live.fanmingming.com/tv/Arirang.png",Arirang
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://iptv-pro.github.io/logo/ARIRANG阿里郎频道.png",Arirang
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
-#EXTINF:-1 tvg-name="CNA LIVE" tvg-logo="https://live.fanmingming.com/tv/CNA LIVE.png",CNA LIVE
+#EXTINF:-1 tvg-name="CNA LIVE" tvg-logo="https://iptv-pro.github.io/logo/CNA.png",CNA LIVE
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-#EXTINF:-1 tvg-name="HTB北海道ニュース" tvg-logo="https://live.fanmingming.com/tv/HTB北海道ニュース.png",HTB北海道ニュース
+#EXTINF:-1 tvg-name="HTB北海道ニュース" tvg-logo="https://iptv-pro.github.io/logo/HTB北海道ニュース.png",HTB北海道ニュース
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-#EXTINF:-1 tvg-name="美好購物1台" tvg-logo="https://live.fanmingming.com/tv/美好購物1台.png",美好購物1台
+#EXTINF:-1 tvg-name="美好購物1台" tvg-logo="https://iptv-pro.github.io/logo/美好1台.png",美好購物1台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-#EXTINF:-1 tvg-name="美好購物2台" tvg-logo="https://live.fanmingming.com/tv/美好購物2台.png",美好購物2台
+#EXTINF:-1 tvg-name="美好購物2台" tvg-logo="https://iptv-pro.github.io/logo/美好2台.png",美好購物2台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
-#EXTINF:-1 tvg-name="國會頻道１" tvg-logo="https://live.fanmingming.com/tv/國會頻道１.png",國會頻道１
+#EXTINF:-1 tvg-name="國會頻道１" tvg-logo="https://iptv-pro.github.io/logo/国会频道1.png",國會頻道１
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
-#EXTINF:-1 tvg-name="立法院會議" tvg-logo="https://live.fanmingming.com/tv/立法院會議.png",立法院會議
+#EXTINF:-1 tvg-name="立法院會議" tvg-logo="https://iptv-pro.github.io/logo/立法院會議.png",立法院會議
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
-#EXTINF:-1 tvg-name="123 GO Live" tvg-logo="https://live.fanmingming.com/tv/123 GO Live.png",123 GO Live
+#EXTINF:-1 tvg-name="123 GO Live" tvg-logo="https://iptv-pro.github.io/logo/123 GO Live.png",123 GO Live
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://live.fanmingming.com/tv/Al Jazeera English.png",Al Jazeera English
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://iptv-pro.github.io/logo/Al Jazeera English.png",Al Jazeera English
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-#EXTINF:-1 tvg-name="Muse木棉 ?闔家歡" tvg-logo="https://live.fanmingming.com/tv/Muse木棉 ?闔家歡.png",Muse木棉 ?闔家歡
+#EXTINF:-1 tvg-name="Muse木棉 ?闔家歡" tvg-logo="https://iptv-pro.github.io/logo/Muse木棉 ?闔家歡.png",Muse木棉 ?闔家歡
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
-#EXTINF:-1 tvg-name="KBS News" tvg-logo="https://live.fanmingming.com/tv/KBS News.png",KBS News
+#EXTINF:-1 tvg-name="KBS News" tvg-logo="https://iptv-pro.github.io/logo/KBS World.png",KBS News
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-#EXTINF:-1 tvg-name="ABCテレビニュース" tvg-logo="https://live.fanmingming.com/tv/ABCテレビニュース.png",ABCテレビニュース
+#EXTINF:-1 tvg-name="ABCテレビニュース" tvg-logo="https://iptv-pro.github.io/logo/ABC%20News%20Live.png",ABCテレビニュース
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-#EXTINF:-1 tvg-name="YOYO TV" tvg-logo="https://live.fanmingming.com/tv/YOYO TV.png",YOYO TV
+#EXTINF:-1 tvg-name="YOYO TV" tvg-logo="https://iptv-pro.github.io/logo/YOYO TV.png",YOYO TV
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-#EXTINF:-1 tvg-name="小猪佩奇" tvg-logo="https://live.fanmingming.com/tv/小猪佩奇.png",小猪佩奇
+#EXTINF:-1 tvg-name="小猪佩奇" tvg-logo="https://iptv-pro.github.io/logo/小猪佩奇.png",小猪佩奇
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-#EXTINF:-1 tvg-name="Talking Tom" tvg-logo="https://live.fanmingming.com/tv/Talking Tom.png",Talking Tom
+#EXTINF:-1 tvg-name="Talking Tom" tvg-logo="https://iptv-pro.github.io/logo/Talking Tom.png",Talking Tom
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-#EXTINF:-1 tvg-name="TalkingFriends" tvg-logo="https://live.fanmingming.com/tv/TalkingFriends.png",TalkingFriends
+#EXTINF:-1 tvg-name="TalkingFriends" tvg-logo="https://iptv-pro.github.io/logo/TalkingFriends.png",TalkingFriends
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-#EXTINF:-1 tvg-name="Dave and Ava" tvg-logo="https://live.fanmingming.com/tv/Dave and Ava.png",Dave and Ava
+#EXTINF:-1 tvg-name="Dave and Ava" tvg-logo="https://iptv-pro.github.io/logo/dave.png",Dave and Ava
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-#EXTINF:-1 tvg-name="Tayo the Little Bus" tvg-logo="https://live.fanmingming.com/tv/Tayo the Little Bus.png",Tayo the Little Bus
+#EXTINF:-1 tvg-name="Tayo the Little Bus" tvg-logo="https://iptv-pro.github.io/logo/Tayo the Little Bus.png",Tayo the Little Bus
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-#EXTINF:-1 tvg-name="Disney Junio" tvg-logo="https://live.fanmingming.com/tv/Disney Junio.png",Disney Junio
+#EXTINF:-1 tvg-name="Disney Junio" tvg-logo="https://iptv-pro.github.io/logo/disneyjr.png",Disney Junio
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
-#EXTINF:-1 tvg-name="鏡新聞" tvg-logo="https://live.fanmingming.com/tv/鏡新聞.png",鏡新聞
+#EXTINF:-1 tvg-name="鏡新聞" tvg-logo="https://iptv-pro.github.io/logo/鏡新聞.png",鏡新聞
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 tvg-name="大陸尋奇" tvg-logo="https://live.fanmingming.com/tv/大陸尋奇.png",大陸尋奇
+#EXTINF:-1 tvg-name="大陸尋奇" tvg-logo="https://iptv-pro.github.io/logo/大陸尋奇.png",大陸尋奇
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-#EXTINF:-1 tvg-name="CRUX" tvg-logo="https://live.fanmingming.com/tv/CRUX.png",CRUX
+#EXTINF:-1 tvg-name="CRUX" tvg-logo="https://iptv-pro.github.io/logo/CRUX.png",CRUX
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
-#EXTINF:-1 tvg-name="豬哥會社" tvg-logo="https://live.fanmingming.com/tv/豬哥會社.png",豬哥會社
+#EXTINF:-1 tvg-name="豬哥會社" tvg-logo="https://iptv-pro.github.io/logo/猪哥亮歌厅秀.png",豬哥會社
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
-#EXTINF:-1 tvg-name="TIMES NOW" tvg-logo="https://live.fanmingming.com/tv/TIMES NOW.png",TIMES NOW
+#EXTINF:-1 tvg-name="TIMES NOW" tvg-logo="https://iptv-pro.github.io/logo/TIMES NOW.png",TIMES NOW
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
-#EXTINF:-1 tvg-name="GTV DRAMA 八大劇樂部" tvg-logo="https://live.fanmingming.com/tv/GTV DRAMA 八大劇樂部.png",GTV DRAMA 八大劇樂部
+#EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://iptv-pro.github.io/logo/八大戏剧.png",八大戏剧
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
-#EXTINF:-1 tvg-name="民視戲劇館" tvg-logo="https://live.fanmingming.com/tv/民視戲劇館.png",民視戲劇館
+#EXTINF:-1 tvg-name="民视影剧台" tvg-logo="https://iptv-pro.github.io/logo/民视影剧台.png",民视影剧台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-#EXTINF:-1 tvg-name="Lofi Girl" tvg-logo="https://live.fanmingming.com/tv/Lofi Girl.png",Lofi Girl
+#EXTINF:-1 tvg-name="Lofi Girl" tvg-logo="https://iptv-pro.github.io/logo/Lofi Girl.png",Lofi Girl
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
-#EXTINF:-1 tvg-name="TaiwanPlus" tvg-logo="https://live.fanmingming.com/tv/TaiwanPlus.png",TaiwanPlus
+#EXTINF:-1 tvg-name="TaiwanPlus" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TaiwanPlus.png",TaiwanPlus
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-#EXTINF:-1 tvg-name="earthTV" tvg-logo="https://live.fanmingming.com/tv/earthTV.png",earthTV
+#EXTINF:-1 tvg-name="earthTV" tvg-logo="https://iptv-pro.github.io/logo/earthtv.png",earthTV
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
-#EXTINF:-1 tvg-name="SBS Running Man" tvg-logo="https://live.fanmingming.com/tv/SBS Running Man.png",SBS Running Man
+#EXTINF:-1 tvg-name="SBS Running Man" tvg-logo="https://iptv-pro.github.io/logo/sbsfune.png",SBS Running Man
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
-#EXTINF:-1 tvg-name="飢餓遊戲" tvg-logo="https://live.fanmingming.com/tv/飢餓遊戲.png",飢餓遊戲
+#EXTINF:-1 tvg-name="飢餓遊戲" tvg-logo="https://iptv-pro.github.io/logo/飢餓遊戲.png",飢餓遊戲
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
-#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://live.fanmingming.com/tv/TVBS NEWS.png",TVBS NEWS
+#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://iptv-pro.github.io/logo/TVBS%20News.png",TVBS NEWS
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-#EXTINF:-1 tvg-name="TVBS選新聞" tvg-logo="https://live.fanmingming.com/tv/TVBS選新聞.png",TVBS選新聞
+#EXTINF:-1 tvg-name="TVBS選新聞" tvg-logo="https://iptv-pro.github.io/logo/TVBS%E7%B2%BE%E9%87%87%E5%8F%B0.png",TVBS選新聞
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
-#EXTINF:-1 tvg-name="Entertainment - Mediacorp" tvg-logo="https://live.fanmingming.com/tv/Entertainment - Mediacorp.png",Entertainment - Mediacorp
+#EXTINF:-1 tvg-name="Entertainment - Mediacorp" tvg-logo="https://iptv-pro.github.io/logo/Entertainment - Mediacorp.png",Entertainment - Mediacorp
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV84.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞財經台" tvg-logo="https://live.fanmingming.com/tv/寰宇新聞財經台.png",寰宇新聞財經台
+#EXTINF:-1 tvg-name="寰宇财经台" tvg-logo="https://iptv-pro.github.io/logo/寰宇财经台.png",寰宇财经台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
-#EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://live.fanmingming.com/tv/LiveNOW from FOX.png",LiveNOW from FOX
+#EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/FoxNews.png",LiveNOW from FOX
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
-#EXTINF:-1 tvg-name="東森購物台CH34" tvg-logo="https://live.fanmingming.com/tv/東森購物台CH34.png",東森購物台CH34
+#EXTINF:-1 tvg-name="東森購物台CH34" tvg-logo="https://iptv-pro.github.io/logo/东森购物1台.png",東森購物台CH34
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
-#EXTINF:-1 tvg-name="InquizeX" tvg-logo="https://live.fanmingming.com/tv/InquizeX.png",InquizeX
+#EXTINF:-1 tvg-name="InquizeX" tvg-logo="https://iptv-pro.github.io/logo/InquizeX.png",InquizeX
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV88.m3u8
-#EXTINF:-1 tvg-name="8world" tvg-logo="https://live.fanmingming.com/tv/8world.png",8world
+#EXTINF:-1 tvg-name="8world" tvg-logo="https://iptv-pro.github.io/logo/8world.png",8world
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV89.m3u8
-#EXTINF:-1 tvg-name="倪珍24小時播新聞" tvg-logo="https://live.fanmingming.com/tv/倪珍24小時播新聞.png",倪珍24小時播新聞
+#EXTINF:-1 tvg-name="倪珍24小時播新聞" tvg-logo="https://iptv-pro.github.io/logo/倪珍24小時播新聞.png",倪珍24小時播新聞
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV90.m3u8
-#EXTINF:-1 tvg-name="TV5 News" tvg-logo="https://live.fanmingming.com/tv/TV5 News.png",TV5 News
+#EXTINF:-1 tvg-name="TV5 News" tvg-logo="https://iptv-pro.github.io/logo/TV5MONDE.png",TV5 News
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV91.m3u8
