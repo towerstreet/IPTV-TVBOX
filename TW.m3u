@@ -5,44 +5,21 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/mast
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 tvg-name="東森財經新聞" tvg-logo="https://iptv-pro.github.io/logo/东森财经新闻.png",東森財經新聞
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-name="momo購物一台" tvg-logo="https://iptv-pro.github.io/logo/momo1台.png",momo購物一台
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 tvg-name="momo購物二台" tvg-logo="https://iptv-pro.github.io/logo/momo2台.png",momo購物二台
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-
-#EXTINF:-1 tvg-name="信大電視台" tvg-logo="https://iptv-pro.github.io/logo/信大HD.png",信大電視台
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-#EXTINF:-1 tvg-name="DW News" tvg-logo="https://iptv-pro.github.io/logo/DW德国之声.png",DW News
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://iptv-pro.github.io/logo/中视新闻台.png",中視新聞
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-
-
-#EXTINF:-1 tvg-name="華視戲劇頻道" tvg-logo="https://iptv-pro.github.io/logo/华视.png",華視戲劇頻道
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 tvg-name="中天亞洲台" tvg-logo="https://iptv-pro.github.io/logo/中天亚洲.png",中天亞洲台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Arabic" tvg-logo="https://iptv-pro.github.io/logo/Al%20Jazeera%20English.png",Al Jazeera Arabic
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-
-#EXTINF:-1 tvg-name="THE K-POP" tvg-logo="https://iptv-pro.github.io/logo/THE%20K-POP.png",THE K-POP
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://iptv-pro.github.io/logo/民视新闻台.png",民視新聞
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-
 #EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://iptv-pro.github.io/logo/凤凰卫视资讯台.png",鳳凰衛視資訊台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 tvg-name="新唐人LIVE" tvg-logo="https://iptv-pro.github.io/logo/新唐人亚太台.png",新唐人LIVE
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://iptv-pro.github.io/logo/ABC%20News.png",ABC News
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-name="台視新聞台" tvg-logo="https://iptv-pro.github.io/logo/台视新闻台.png",台視新聞台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-name="華視綜藝頻道" tvg-logo="https://iptv-pro.github.io/logo/华视教育体育文化台.png",華視綜藝頻道
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-name="Astro AWANI" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Awani.png",Astro AWANI
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
-#EXTINF:-1 tvg-name="中天電視" tvg-logo="https://iptv-pro.github.io/logo/中天综合.png",中天電視
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://iptv-pro.github.io/logo/中天综合.png",中天综合
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 tvg-name="Tokyo Walk" tvg-logo="https://iptv-pro.github.io/logo/Tokyo Walk.png",Tokyo Walk
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
@@ -52,83 +29,31 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/mast
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png",三立新聞
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 tvg-name="GB News" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/GBNews.png",GB News
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1 tvg-name="中視經典綜藝" tvg-logo="https://iptv-pro.github.io/logo/中视经典.png",中視經典綜藝
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/SkyNews.png",Sky News
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-
-#EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://iptv-pro.github.io/logo/euronews.png",Euronews English
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-#EXTINF:-1 tvg-name="FRANCE 24 English" tvg-logo="https://iptv-pro.github.io/logo/FRANCE24%28English%29.png",FRANCE 24 English
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-name="NBC News" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/NBC.png",NBC News
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-
 #EXTINF:-1 tvg-name="寰宇新聞台灣台" tvg-logo="https://iptv-pro.github.io/logo/寰宇新闻台湾台.png",寰宇新聞台灣台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://iptv-pro.github.io/logo/凤凰卫视资讯台.png",鳳凰衛視資訊台
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-
-
-
 #EXTINF:-1 tvg-name="大愛二臺HD" tvg-logo="https://iptv-pro.github.io/logo/大爱二台.png",大愛二臺HD
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-
-#EXTINF:-1 tvg-name="中天2台" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png",中天新闻
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://iptv-pro.github.io/logo/中天新闻.png",中天新闻
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-
-#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://iptv-pro.github.io/logo/ARIRANG阿里郎频道.png",Arirang
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
-#EXTINF:-1 tvg-name="CNA LIVE" tvg-logo="https://iptv-pro.github.io/logo/CNA.png",CNA LIVE
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 #EXTINF:-1 tvg-name="HTB北海道ニュース" tvg-logo="https://iptv-pro.github.io/logo/HTB北海道ニュース.png",HTB北海道ニュース
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-#EXTINF:-1 tvg-name="美好購物1台" tvg-logo="https://iptv-pro.github.io/logo/美好1台.png",美好購物1台
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-#EXTINF:-1 tvg-name="美好購物2台" tvg-logo="https://iptv-pro.github.io/logo/美好2台.png",美好購物2台
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
-#EXTINF:-1 tvg-name="國會頻道１" tvg-logo="https://iptv-pro.github.io/logo/国会频道1.png",國會頻道１
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
-
-
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://iptv-pro.github.io/logo/Al Jazeera English.png",Al Jazeera English
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-
-#EXTINF:-1 tvg-name="KBS News" tvg-logo="https://iptv-pro.github.io/logo/KBS World.png",KBS News
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-#EXTINF:-1 tvg-name="ABCテレビニュース" tvg-logo="https://iptv-pro.github.io/logo/ABC%20News%20Live.png",ABCテレビニュース
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-
-#EXTINF:-1 tvg-name="Dave and Ava" tvg-logo="https://iptv-pro.github.io/logo/dave.png",Dave and Ava
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-
 #EXTINF:-1 tvg-name="Disney Junio" tvg-logo="https://iptv-pro.github.io/logo/DisneyJr.png",Disney Junio
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
-
 #EXTINF:-1 tvg-name="豬哥會社" tvg-logo="https://iptv-pro.github.io/logo/猪哥亮歌厅秀.png",豬哥會社
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
-
-#EXTINF:-1 tvg-name="GTV 八大戏剧" tvg-logo="https://iptv-pro.github.io/logo/bdxj.png",GTV 八大戏剧
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
-#EXTINF:-1 tvg-name="民视影剧台" tvg-logo="https://iptv-pro.github.io/logo/民视影剧台.png",民视影剧台
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-
 #EXTINF:-1 tvg-name="TaiwanPlus" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TaiwanPlus.png",TaiwanPlus
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-name="earthTV" tvg-logo="https://iptv-pro.github.io/logo/earthtv.png",earthTV
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
 #EXTINF:-1 tvg-name="SBS Running Man" tvg-logo="https://iptv-pro.github.io/logo/sbsfune.png",SBS Running Man
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
-
 #EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://iptv-pro.github.io/logo/TVBS%20News.png",TVBS NEWS
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-#EXTINF:-1 tvg-name="TVBS選新聞" tvg-logo="https://iptv-pro.github.io/logo/TVBS%E7%B2%BE%E9%87%87%E5%8F%B0.png",TVBS選新聞
+#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://iptv-pro.github.io/logo/TVBS%20News.png",TVBS NEWS
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
-
 #EXTINF:-1 tvg-name="寰宇财经台" tvg-logo="https://iptv-pro.github.io/logo/寰宇财经台.png",寰宇财经台
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
-#EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/FoxNews.png",LiveNOW from FOX
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV86.m3u8
