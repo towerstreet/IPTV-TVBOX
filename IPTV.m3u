@@ -249,38 +249,38 @@ https://0472.org/hls/cgtna.m3u8
 
 #🎞️网络直播
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/陈翔六点半.png" group-title="🎞️网络直播",陈翔六点半
-http://192.168.31.150:9292//huya/11274154
-http://192.168.31.150:9292//douyu/2132902
+http://192.168.31.150:9292/huya/11274154
+http://192.168.31.150:9292/douyu/2132902
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/老高与小茉.png" group-title="🎞️网络直播",老高与小茉
-http://192.168.31.150:9292//douyu/838632
+http://192.168.31.150:9292/douyu/838632
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/所长林超.png" group-title="🎞️网络直播",所长林超
-http://192.168.31.150:9292//douyu/9447974
+http://192.168.31.150:9292/douyu/9447974
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/老爸评测.png" group-title="🎞️网络直播",老爸评测
-http://192.168.31.150:9292//douyu/9642554
+http://192.168.31.150:9292/douyu/9642554
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/大漠叔叔.png" group-title="🎞️网络直播",海南军阀
-http://192.168.31.150:9292//douyu/1109218
-http://192.168.31.150:9292//douyu/10551378
+http://192.168.31.150:9292/douyu/1109218
+http://192.168.31.150:9292/douyu/10551378
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/科学放映室.png" group-title="🎞️网络直播",科学放映室
-http://192.168.31.150:9292//douyu/9439712
+http://192.168.31.150:9292/douyu/9439712
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/浩瀚的宇宙.png" group-title="🎞️网络直播",浩瀚的宇宙
-http://192.168.31.150:9292//douyu/9606719
+http://192.168.31.150:9292/douyu/9606719
 
 #🕹️游戏直播
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/KPL.png" group-title="🕹️游戏直播",王者荣耀
-http://192.168.31.150:9292//huya/660002
-http://192.168.31.150:9292//douyu/998
-http://192.168.31.150:9292//bilibili/55
+http://192.168.31.150:9292/huya/660002
+http://192.168.31.150:9292/douyu/998
+http://192.168.31.150:9292/bilibili/55
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/PUBG.png" group-title="🕹️游戏直播",PUBG
-http://192.168.31.150:9292//huya/660004
-http://192.168.31.150:9292//douyu/100
+http://192.168.31.150:9292/huya/660004
+http://192.168.31.150:9292/douyu/100
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/5EPlay.png" group-title="🕹️游戏直播",CS GO
-http://192.168.31.150:9292//huya/483917
-http://192.168.31.150:9292//douyu/601514
+http://192.168.31.150:9292/huya/483917
+http://192.168.31.150:9292/douyu/601514
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="🕹️游戏直播",第五人格
-http://192.168.31.150:9292//huya/461698
-http://192.168.31.150:9292//douyu/3226194
+http://192.168.31.150:9292/huya/461698
+http://192.168.31.150:9292/douyu/3226194
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易NeXT.png" group-title="🕹️游戏直播",蛋仔派对
-http://192.168.31.150:9292//douyu/5590267
+http://192.168.31.150:9292/douyu/5590267
 
 #🏖️旅游直播
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🏖️旅游直播",iPanda
@@ -295,22 +295,22 @@ https://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/直播中国.png" group-title="🏖️旅游直播",珠穆朗玛峰
 https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/海底世界.png" group-title="🏖️旅游直播",海底世界
-http://192.168.31.150:9292//huya/20985846
+http://192.168.31.150:9292/huya/20985846
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/日食记.png" group-title="🏖️旅游直播",日食记
-http://192.168.31.150:9292//douyu/2206405
+http://192.168.31.150:9292/douyu/2206405
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/世界环游记.png" group-title="🏖️旅游直播",世界环游记
-http://192.168.31.150:9292//douyu/1668562
-http://192.168.31.150:9292//douyu/11691968
+http://192.168.31.150:9292/douyu/1668562
+http://192.168.31.150:9292/douyu/11691968
 
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/SpaceX.png" group-title="🏖️旅游直播",星舰基地24H
-http://192.168.31.150:9292//bilibili/21144080
+http://192.168.31.150:9292/bilibili/21144080
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/地球频道.png" group-title="🏖️旅游直播",地球频道
-http://192.168.31.150:9292//bilibili/22973029
+http://192.168.31.150:9292/bilibili/22973029
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/航拍世界.png" group-title="🏖️旅游直播",航拍世界
-http://192.168.31.150:9292//bilibili/26802865
+http://192.168.31.150:9292/bilibili/26802865
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/芬兰北极光.png" group-title="🏖️旅游直播",芬兰北极光
-http://192.168.31.150:9292//bilibili/31050497
+http://192.168.31.150:9292/bilibili/31050497
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/火车游世界.png" group-title="🏖️旅游直播",火车游世界
-http://192.168.31.150:9292//bilibili/27841685
+http://192.168.31.150:9292/bilibili/27841685
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/雨声助眠.png" group-title="🏖️旅游直播",雨声助眠
-http://192.168.31.150:9292//bilibili/23025447
+http://192.168.31.150:9292/bilibili/23025447
