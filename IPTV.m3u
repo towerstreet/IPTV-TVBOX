@@ -306,6 +306,8 @@ http://192.168.31.150:9292/huya/20985846
 http://192.168.31.150:9292/bilibili/26312855
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/地球频道.png" group-title="🏖️旅游直播",地球频道
 http://192.168.31.150:9292/bilibili/22973029
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/NASA.png" group-title="🏖️旅游直播",空间站看地球
+http://192.168.31.150:9292/douyu/9412365
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/航拍世界.png" group-title="🏖️旅游直播",航拍世界
 http://192.168.31.150:9292/bilibili/26802865
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/芬兰北极光.png" group-title="🏖️旅游直播",芬兰北极光
