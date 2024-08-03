@@ -251,7 +251,7 @@ https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/陈翔六点半.png" group-title="🎞️网络直播",陈翔六点半
 http://192.168.31.150:9292/huya/11274154
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/老高与小茉.png" group-title="🎞️网络直播",老高与小茉
-http://192.168.31.150:9292/douyu/12139546
+http://192.168.31.150:9292/douyu/838632
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/科学放映室.png" group-title="🎞️网络直播",科学放映室
 http://192.168.31.150:9292/douyu/9439712
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/浩瀚的宇宙.png" group-title="🎞️网络直播",浩瀚的宇宙
@@ -269,7 +269,6 @@ http://192.168.31.150:9292/douyu/10551378
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/KPL.png" group-title="🕹️游戏直播",王者荣耀
 http://192.168.31.150:9292/huya/660002
 http://192.168.31.150:9292/douyu/998
-http://192.168.31.150:9292/bilibili/55
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/PUBG.png" group-title="🕹️游戏直播",PUBG
 http://192.168.31.150:9292/huya/660004
 http://192.168.31.150:9292/douyu/100
