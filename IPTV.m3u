@@ -268,19 +268,19 @@ http://192.168.31.150:9292/douyu/10551378
 
 #🕹️游戏直播
 #EXTINF:-1 tvg-name="王者荣耀" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/KPL.png" group-title="🕹️游戏直播",王者荣耀
-http://192.168.31.150:9292/douyu/998
 http://192.168.31.150:9292/huya/660002
+http://192.168.31.150:9292/douyu/998
 #EXTINF:-1 tvg-name="PUBG" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/PUBG.png" group-title="🕹️游戏直播",PUBG
-http://192.168.31.150:9292/douyu/100
 http://192.168.31.150:9292/huya/660004
+http://192.168.31.150:9292/douyu/100
 #EXTINF:-1 tvg-name="CS GO" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/5EPlay.png" group-title="🕹️游戏直播",CS GO
-http://192.168.31.150:9292/douyu/601514
 http://192.168.31.150:9292/huya/483917
+http://192.168.31.150:9292/douyu/601514
 #EXTINF:-1 tvg-name="第五人格" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/第五人格.png" group-title="🕹️游戏直播",第五人格
-http://192.168.31.150:9292/douyu/3226194
 http://192.168.31.150:9292/huya/461698
+http://192.168.31.150:9292/douyu/3226194
 #EXTINF:-1 tvg-name="蛋仔派对" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易NeXT.png" group-title="🕹️游戏直播",蛋仔派对
-http://192.168.31.150:9292/douyu/5590267
+http://192.168.31.150:9292/huya/660149
 
 #🏖️旅游直播
 #EXTINF:-1 tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🏖️旅游直播",iPanda
