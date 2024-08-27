@@ -31,7 +31,6 @@
 - [**YueChan/Live**](https://github.com/YueChan/Live)
 
     - 🎞️[***[CN]***](https://github.com/YueChan/Live/blob/main/IPTV.m3u)
-    - 🎞️[***[Globle]***](https://github.com/YueChan/Live/blob/main/Global.m3u)
 
 - [**FunctionError/PiratesTv**](https://github.com/FunctionError/PiratesTv)
 
