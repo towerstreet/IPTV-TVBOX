@@ -312,8 +312,6 @@ http://192.168.31.150:9292/huya/461698
 http://192.168.31.150:9292/douyu/3226194
 #EXTINF:-1 tvg-name="蛋仔派对" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/网易NeXT.png" group-title="🕹️游戏直播",蛋仔派对
 http://192.168.31.150:9292/huya/660149
-#EXTINF:-1 tvg-name="黑神话·悟空" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/虎牙.png" group-title="🕹️游戏直播",黑神话·悟空
-http://192.168.31.150:9292/huya/573241
 
 #🏖️旅游直播
 #EXTINF:-1 tvg-name="iPanda" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/iPanda.png" group-title="🏖️旅游直播",iPanda
