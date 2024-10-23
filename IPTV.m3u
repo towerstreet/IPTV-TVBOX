@@ -377,8 +377,30 @@ https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Travelxp.png" group-title="ℹ️国际频道",Travel XP
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Museum.png" group-title="ℹ️国际频道",Museum TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/OnDemond.png" group-title="ℹ️国际频道",Ondemand China
+https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/YoungHollywood.png" group-title="ℹ️国际频道",Young Hollywood
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/FoodFood.png" group-title="ℹ️国际频道",Food
+https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/FoodFood.png" group-title="ℹ️国际频道",Cartoon Network
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Viki 
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten TV Shows 
+https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Comedy
+https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Thriller
+https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten British Films
+https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Globalfashionchannel.png" group-title="ℹ️国际频道",Global Fashion Channel
 https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Crime Time
+https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/AnimalPlanet.png" group-title="ℹ️国际频道",Animal Planet HD
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
