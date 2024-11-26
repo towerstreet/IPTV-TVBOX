@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Logo" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Mushroom.png" width="150">
+    <img alt="Logo" src="https://ghproxy.net/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Mushroom.png" width="150">
 </p>
 
 <h1 align="center">Towerstreet</h1>
@@ -18,8 +18,8 @@
 ### 我的加速链接：
 - [**Towerstreet/IPTV-TVBOX**](https://github.com/towerstreet/IPTV-TVBOX/)
 
-    - 🎞️[***[IPTV]***](https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/IPTV.m3u)
-    - 🏖[***[TW]***](https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/TW.m3u)
+    - 🎞️[***[IPTV]***](https://ghproxy.net/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/IPTV.m3u)
+    - 🏖[***[TW]***](https://ghproxy.net/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/TW.m3u)
 
 ### 大佬们的链接：
 - [**Fanmingming/live**](https://github.com/fanmingming/live)
