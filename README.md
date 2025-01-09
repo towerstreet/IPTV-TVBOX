@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Logo" src="https://jsdelivr.pai233.top/gh/towerstreet/IPTV-TVBOX@main/LOGO/Museum.png" width="150">
+    <img alt="Logo" src="https://jsdelivr.pai233.top/gh/towerstreet/IPTV-TVBOX@main/LOGO/Mushroom.png" width="150">
 </p>
 
 <h1 align="center">Towerstreet</h1>
