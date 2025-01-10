@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Logo" src="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/" width="150">
+    <img alt="Logo" src="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Mushroom.png" width="150">
 </p>
 
 <h1 align="center">Towerstreet</h1>
