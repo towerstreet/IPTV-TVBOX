@@ -19,7 +19,6 @@
 - [**Towerstreet/IPTV-TVBOX**](https://github.com/towerstreet/IPTV-TVBOX/)
 
     - 🎞️[***[IPTV]***](https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/IPTV.m3u)
-    - 🏖[***[TW]***](https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/TW.m3u)
 
 ### 大佬们的链接：
 - [**Fanmingming/live**](https://github.com/fanmingming/live)
