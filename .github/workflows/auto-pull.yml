@@ -14,9 +14,9 @@ jobs:
         with:
           repository: towerstreet/IPTV-TVBOX
           token: ${{ secrets.GITHUB_TOKEN }}
-          path: /home/towerstreet/Storage/.git/IPTV-TVBOX
+          path: ./IPTV-TVBOX
 
       - name: Pull Latest Changes
         run: |
-          cd /home/towerstreet/Storage/.git/IPTV-TVBOX
+          cd ./IPTV-TVBOX
           git pull origin main  # 或者你想要拉取的分支
