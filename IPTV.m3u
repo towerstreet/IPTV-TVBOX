@@ -382,27 +382,6 @@ https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/CrimeTime.png" group-title="ℹ️国际频道",Crime Time
 https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/AnimalPlanet.png" group-title="ℹ️国际频道",Animal Planet HD
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-https://code.vthanhtivi.pw/getlink/eazie/243127/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Discovery.png" group-title="ℹ️国际频道",Discovery HD
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-https://freeott.site/discovery/Discovery_Channel.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/DMAX.png" group-title="ℹ️国际频道",Dmax
-https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/FoodNetwork.png" group-title="ℹ️国际频道",Food Network
-https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
-https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/InvestigationDiscovery.png" group-title="ℹ️国际频道",Investigation Discovery
-https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/tlc.png" group-title="ℹ️国际频道",TLC
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
-https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/travelchannel.png" group-title="ℹ️国际频道",Travel Channel
-https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
-https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-
 #🎞️网络直播
 #EXTINF:-1 tvg-name="老高与小茉 I" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 I
 http://192.168.31.150:9292/douyu/838632
