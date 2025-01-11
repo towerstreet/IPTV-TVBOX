@@ -2,7 +2,7 @@ name: Sync fanmingming/live ipv6.m3u
 
 on:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '0 * * * *'
 
 jobs:
   sync-file:
