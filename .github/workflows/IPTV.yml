@@ -29,15 +29,19 @@ jobs:
             echo "No changes in IPTV.m3u, skipping commit."
             exit 0
           fi
-            rm -f ipv6.m3u Global.m3u
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            
+
+      - name: Delete files
+          rm -f ipv6.m3u Global.m3u
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Add and commit the merged file
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add .
+          git add IPTV.m3u
           git commit -m 'IPTV UPDATE'
           git push origin main
         env:
