@@ -23,12 +23,12 @@ jobs:
 
       - name: Merge files
         run: |
-          rm -f IPTV.m3u
           cat ipv6.m3u Global.m3u > IPTV.m3u
           if git diff --quiet IPTV.m3u; then
             echo "No changes in IPTV.m3u, skipping commit."
             exit 0
           fi
+          echo "Changes detected, committing new IPTV.m3u."
 
       - name: Add and commit the merged file
         run: |
