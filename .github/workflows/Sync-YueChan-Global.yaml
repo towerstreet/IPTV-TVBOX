@@ -1,0 +1,29 @@
+name: Sync YueChan/Live Global.m3u
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  sync-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Sync YueChan/Live Global.m3u
+        run: |
+          curl -L -o GLOBAL.m3u https://github.com/YueChan/Live/raw/refs/heads/main/Global.m3u
+          if ! git diff --quiet Global.m3u GLOBAL.m3u; then
+            echo "File has changed, creating a PR"
+            git config --global user.name 'github-actions[bot]'
+            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+            git add IPTV.m3u
+            git commit -m "Sync YueChan/Live Global.m3u"
+            git push origin main
+            gh pr create --title "Sync YueChan/Live Global.m3u" --body "Automated sync of file from remote repo"
+          else
+            echo "File has not changed"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
