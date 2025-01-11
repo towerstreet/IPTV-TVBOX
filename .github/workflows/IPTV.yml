@@ -27,5 +27,5 @@ jobs:
           git config --global user.name 'your_username'
           git config --global user.email 'your_email@example.com'
           git add IPTV.m3u
-          git commit -m 'IPTV UPDATE' || echo "No changes to commit"
+          git commit -m 'IPTV UPDATE'
           git push origin main
