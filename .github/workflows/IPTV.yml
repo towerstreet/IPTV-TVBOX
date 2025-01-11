@@ -1,7 +1,7 @@
 name: IPTV UPDATE
 on:
   schedule:
-    - cron: '50 * * * *'
+    - cron: '10 * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -18,10 +18,6 @@ jobs:
         run: |
           rm -f IPTV.m3u
           cat ipv6.m3u Global.m3u > IPTV.m3u
-      - name: Remove files
-        run: |
-          rm -f ipv6.m3u
-          rm –f Global.m3u
       - name: Add and commit the merged file
         run: |
           git config --global user.name 'your_username'
