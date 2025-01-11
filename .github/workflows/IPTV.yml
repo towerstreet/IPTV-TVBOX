@@ -18,7 +18,7 @@ jobs:
       run: |
         curl -o ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
         curl -o Global.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
-        curl -o Radio.m3u https://github.com/YueChan/Live/raw/refs/heads/main/Radio.m3u
+        curl -o Radio.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u
 
     - name: Merge M3U Files
       run: |
