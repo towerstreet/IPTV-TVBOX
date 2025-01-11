@@ -1,9 +1,9 @@
 name: IPTV UPDATE
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/5 * * * *'
 env:
-  TOKEN: ${{ secrets.ACTIONS }}
+  TOKEN: ${{ secrets.GITHUB_TOKEN }}
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,8 +22,8 @@ jobs:
           cat ipv6.m3u Global.m3u > IPTV.m3u
       - name: Add and commit the merged file
         run: |
-          git config --global user.email "towerstreet@qq.com"
-          git config --global user.name "towerstreet"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git add IPTV.m3u
           git commit -m 'IPTV UPDATE'
           git push origin main
