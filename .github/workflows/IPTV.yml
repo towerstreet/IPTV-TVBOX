@@ -1,25 +1,35 @@
 name: IPTV UPDATE
+
 on:
   schedule:
     - cron: '*/5 * * * *'
-env:
-  TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout your repo
         uses: actions/checkout@v3
+
       - name: Download ipv6.m3u
-        run: |
-          curl -o ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+        run: curl -o ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+        env:
+          ACTIONS: ${{ secrets.ACTIONS }}
+
       - name: Download Global.m3u
-        run: |
-          curl -o Global.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+        run: curl -o Global.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+        env:
+          ACTIONS: ${{ secrets.ACTIONS }}
+
       - name: Merge files
         run: |
           rm -f IPTV.m3u
           cat ipv6.m3u Global.m3u > IPTV.m3u
+          if git diff --quiet IPTV.m3u; then
+            echo "No changes in IPTV.m3u, skipping commit."
+            exit 0
+          fi
+
       - name: Add and commit the merged file
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -27,3 +37,5 @@ jobs:
           git add IPTV.m3u
           git commit -m 'IPTV UPDATE'
           git push origin main
+        env:
+          ACTIONS: ${{ secrets.ACTIONS }}
