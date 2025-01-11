@@ -25,6 +25,7 @@ jobs:
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.email "towerstreet@qq.com"
+          git config --global user.name "towerstreet"
           git add IPTV.m3u
           git commit -m 'IPTV UPDATE'
           git push origin main
