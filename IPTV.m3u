@@ -251,6 +251,8 @@ https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
 http://192.168.31.150:9292/douyu/838632
 #EXTINF:-1 tvg-name="老高与小茉 II" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 II
 http://192.168.31.150:9292/douyu/12139546
+#EXTINF:-1 tvg-name="老高与小茉 III" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 III
+http://192.168.31.150:9292/douyu/236461
 #EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/陈翔六点半.png" group-title="🎞️网络直播",陈翔六点半
 http://192.168.31.150:9292/huya/11274154
 #EXTINF:-1 tvg-name="科学放映室" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/科学放映室.png" group-title="🎞️网络直播",科学放映室
