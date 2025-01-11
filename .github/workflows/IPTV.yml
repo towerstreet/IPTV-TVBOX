@@ -32,8 +32,8 @@ jobs:
 
       - name: Add and commit the merged file
         run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
+          git config --global user.email "towerstreet@qq.com"
+          git config --global user.name "towerstreet"
           git add IPTV.m3u
           git commit -m 'IPTV UPDATE'
           git push origin main
