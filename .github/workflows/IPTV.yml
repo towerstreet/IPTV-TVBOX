@@ -57,7 +57,7 @@ jobs:
         -H "Content-Type: application/json" \
         -d '{
           "title": "GITHUB ACTIONS🤖",
-          "message": "# IPTV.m3u \n\nThe M3U files have been successfully merged and pushed to the [**repository**](https://github.com/${{ github.repository }}/commit/${{ github.sha }})",
+          "message": "# IPTV.m3u \n\nThe M3U files have been successfully merged and pushed to the [_repository_](https://github.com/towerstreet/IPTV-TVBOX)",
           "priority": 6,
           "extras": {
             "client::display": {
