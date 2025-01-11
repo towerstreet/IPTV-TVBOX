@@ -1,9 +1,9 @@
 name: IPTV UPDATE
 on:
   schedule:
-    - cron: '*/15 0 * * *'
+    - cron: '*/15 * * * *'
 env:
-  TOKEN: ${{ secrets.GIHUB_TOKEN }}
+  TOKEN: ${{ secrets.ACTIONS }}
 jobs:
   build:
     runs-on: ubuntu-latest
