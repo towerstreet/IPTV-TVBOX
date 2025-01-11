@@ -29,6 +29,7 @@ jobs:
             exit 0
           fi
           echo "Changes detected, committing new IPTV.m3u."
+          rm ipv6.m3u Global.m3u
 
       - name: Add and commit the merged file
         run: |
