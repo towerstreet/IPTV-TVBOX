@@ -23,21 +23,21 @@ jobs:
 
       - name: Merge files
         run: |
+          rm -f IPTV.m3u
           cat ipv6.m3u Global.m3u > IPTV.m3u
           if git diff --quiet IPTV.m3u; then
             echo "No changes in IPTV.m3u, skipping commit."
             exit 0
           fi
-          echo "Changes detected, committing new IPTV.m3u."
-          rm ipv6.m3u Global.m3u
+            rm -f ipv6.m3u Global.m3u
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+            
       - name: Add and commit the merged file
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
-          git add IPTV.m3u
+          git add .
           git commit -m 'IPTV UPDATE'
           git push origin main
         env:
