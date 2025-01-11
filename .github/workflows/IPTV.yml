@@ -1,0 +1,31 @@
+name: IPTV UPDATE
+on:
+  schedule:
+    - cron: '0 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repo
+        uses: actions/checkout@v3
+      - name: Download ipv6.m3u
+        run: |
+          curl -o ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+      - name: Download Global.m3u
+        run: |
+          curl -o Global.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+      - name: Merge files
+        run: |
+          rm -f IPTV.m3u
+          cat ipv6.m3u Global.m3u > IPTV.m3u
+      - name: Remove files
+        run: |
+          rm -f ipv6.m3u
+          rm –f Global.m3u
+      - name: Add and commit the merged file
+        run: |
+          git config --global user.name 'your_username'
+          git config --global user.email 'your_email@example.com'
+          git add IPTV.m3u
+          git commit -m 'IPTV UPDATE' || echo "No changes to commit"
+          git push origin main
