@@ -13,13 +13,9 @@ jobs:
 
       - name: Download ipv6.m3u
         run: curl -o ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Download Global.m3u
         run: curl -o Global.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Merge files
         run: |
@@ -29,13 +25,9 @@ jobs:
             echo "No changes in IPTV.m3u, skipping commit."
             exit 0
           fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Delete files
-          rm -f ipv6.m3u Global.m3u
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          run: rm -f ipv6.m3u Global.m3u
           
       - name: Add and commit the merged file
         run: |
