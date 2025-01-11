@@ -296,6 +296,8 @@ https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao06_2_720P/playlist.m3u8?wsApp=HLS
 https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao10_2_720P/playlist.m3u8?wsApp=HLS
 https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao14_2_720P/playlist.m3u8?wsApp=HLS
 https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao15_2_720P/playlist.m3u8?wsApp=HLS
+#EXTINF:-1 tvg-name="iPanda" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/iPanda.png" group-title="🏖️旅游直播",萌宠乐园VIP
+http://192.168.31.150:9292/bilibili/27358026
 #EXTINF:-1 tvg-name="乌镇" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/直播中国.png" group-title="🏖️旅游直播",乌镇
 https://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
 #EXTINF:-1 tvg-name="珠穆朗玛峰" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/直播中国.png" group-title="🏖️旅游直播",珠穆朗玛峰
