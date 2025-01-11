@@ -560,6 +560,169 @@ http://192.168.31.150:9292/itv/1000000006000270005.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_易视腾-6
 http://192.168.31.150:9292/itv/1000000006000270006.m3u8?cdn=ystenlive
 
+#ℹ️国际频道
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/BBC.png" group-title="ℹ️国际频道",BBC
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/CNN.png" group-title="ℹ️国际频道",CNN
+https://stream1.freetv.fun/39c9454e706df0060b2cde0d4fdea09d93ffcf91fb43b08264a47673770e73f6.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/CNA.png" group-title="ℹ️国际频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/AlJazeera.png" group-title="ℹ️国际频道",Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/ABC.png" group-title="ℹ️国际频道",ABC News Live
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Axs.png" group-title="ℹ️国际频道",AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Newsmax.png" group-title="ℹ️国际频道",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/CBN.png" group-title="ℹ️国际频道",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Wion.png" group-title="ℹ️国际频道",Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/RTNews.png" group-title="ℹ️国际频道",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Arirang.png" group-title="ℹ️国际频道",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/FashionTV.png" group-title="ℹ️国际频道",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/LoveNature.png" group-title="ℹ️国际频道",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/KidsTV.png" group-title="ℹ️国际频道",Kids TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/RTNews.png" group-title="ℹ️国际频道",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/TaiwanPlus.png" group-title="ℹ️国际频道",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/TED.png" group-title="ℹ️国际频道",TED Conference
+https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/TED.png" group-title="ℹ️国际频道",TED Talks
+https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/MyTime.png" group-title="ℹ️国际频道",MyTime
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/IonPlus.png" group-title="ℹ️国际频道",ION Plus
+https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/LoveStories.png" group-title="ℹ️国际频道",LoveStories
+https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Travelxp.png" group-title="ℹ️国际频道",Travel XP
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/FoodFood.png" group-title="ℹ️国际频道",Food
+https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/OnDemond.png" group-title="ℹ️国际频道",Ondemand China
+https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/FoxNews.png" group-title="ℹ️国际频道",Fox LiveNow
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Wildearth.png" group-title="ℹ️国际频道",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/TraceSport.png" group-title="ℹ️国际频道",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Sportsgrid.png" group-title="ℹ️国际频道",SportsGrid
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/BBCImpossible.png" group-title="ℹ️国际频道",BBC Impossible
+https://bbc-impossible-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/History.png" group-title="ℹ️国际频道",History
+https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/LaLaLife.png" group-title="ℹ️国际频道",La La Life 
+https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/MovieDome.png" group-title="ℹ️国际频道",MovieDome
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Tastemade.png" group-title="ℹ️国际频道",Tastemade 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Movie.png" group-title="ℹ️国际频道",New Movies
+https://newidco-newmovies-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/TodayAllday.png" group-title="ℹ️国际频道",Today Allday
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Museum.png" group-title="ℹ️国际频道",Museum TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/YoungHollywood.png" group-title="ℹ️国际频道",Young Hollywood
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/CartoonNetwork.png" group-title="ℹ️国际频道",Cartoon Network
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Rakuten.png" group-title="ℹ️国际频道",Rakuten Viki 
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Rakuten.png" group-title="ℹ️国际频道",Rakuten TV Shows 
+https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Rakuten.png" group-title="ℹ️国际频道",Rakuten Comedy
+https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Rakuten.png" group-title="ℹ️国际频道",Rakuten Thriller
+https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Rakuten.png" group-title="ℹ️国际频道",Rakuten British Films
+https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/Globalfashionchannel.png" group-title="ℹ️国际频道",Global Fashion Channel
+https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/CrimeTime.png" group-title="ℹ️国际频道",Crime Time
+https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
+
+#🎞️网络直播
+#EXTINF:-1 tvg-name="老高与小茉 I" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 I
+http://192.168.31.150:9292/douyu/838632
+#EXTINF:-1 tvg-name="老高与小茉 II" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 II
+http://192.168.31.150:9292/douyu/12139546
+#EXTINF:-1 tvg-name="老高与小茉 III" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 III
+http://192.168.31.150:9292/douyu/236461
+#EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/陈翔六点半.png" group-title="🎞️网络直播",陈翔六点半
+http://192.168.31.150:9292/huya/11274154
+#EXTINF:-1 tvg-name="科学放映室" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/科学放映室.png" group-title="🎞️网络直播",科学放映室
+http://192.168.31.150:9292/douyu/9439712
+#EXTINF:-1 tvg-name="浩瀚的宇宙" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/浩瀚的宇宙.png" group-title="🎞️网络直播",浩瀚的宇宙
+http://192.168.31.150:9292/douyu/9606719
+#EXTINF:-1 tvg-name="所长林超" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/所长林超.png" group-title="🎞️网络直播",所长林超
+http://192.168.31.150:9292/douyu/9447974
+#EXTINF:-1 tvg-name="老爸评测" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/老爸评测.png" group-title="🎞️网络直播",老爸评测
+http://192.168.31.150:9292/douyu/9642554
+#EXTINF:-1 tvg-name="海南军阀 I" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/大漠叔叔.png" group-title="🎞️网络直播",海南军阀 I
+http://192.168.31.150:9292/douyu/1109218
+#EXTINF:-1 tvg-name="海南军阀 II" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/大漠叔叔.png" group-title="🎞️网络直播",海南军阀 II
+http://192.168.31.150:9292/douyu/10551378
+
+#🕹️游戏直播
+#EXTINF:-1 tvg-name="王者荣耀" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/KPL.png" group-title="🕹️游戏直播",王者荣耀
+http://192.168.31.150:9292/huya/660002
+http://192.168.31.150:9292/douyu/998
+http://192.168.31.150:9292/bilibili/55
+#EXTINF:-1 tvg-name="PUBG" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/PUBG.png" group-title="🕹️游戏直播",PUBG
+http://192.168.31.150:9292/huya/660004
+http://192.168.31.150:9292/douyu/100
+http://192.168.31.150:9292/bilibili/98
+#EXTINF:-1 tvg-name="CS GO" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/5EPlay.png" group-title="🕹️游戏直播",CS GO
+http://192.168.31.150:9292/huya/23414220
+http://192.168.31.150:9292/douyu/601514
+http://192.168.31.150:9292/bilibili/35
+#EXTINF:-1 tvg-name="第五人格" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/第五人格.png" group-title="🕹️游戏直播",第五人格
+http://192.168.31.150:9292/huya/461698
+http://192.168.31.150:9292/douyu/3226194
+http://192.168.31.150:9292/bilibili/5555
+#EXTINF:-1 tvg-name="蛋仔派对" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/网易NeXT.png" group-title="🕹️游戏直播",蛋仔派对
+http://192.168.31.150:9292/huya/660149
+
+#🏖️旅游直播
+#EXTINF:-1 tvg-name="乌镇" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/直播中国.png" group-title="🏖️旅游直播",乌镇
+https://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
+#EXTINF:-1 tvg-name="珠穆朗玛峰" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/直播中国.png" group-title="🏖️旅游直播",珠穆朗玛峰
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-name="iPanda" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/iPanda.png" group-title="🏖️旅游直播",iPanda
+https://gcwbndcnc.v.wscdns.com/gcwbnd/ipanda1000_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao04_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao06_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao10_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao14_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao15_2_720P/playlist.m3u8?wsApp=HLS
+
+#EXTINF:-1 tvg-name="iPanda" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/iPanda.png" group-title="🏖️旅游直播",萌宠乐园VIP
+http://192.168.31.150:9292/bilibili/27358026
+#EXTINF:-1 tvg-name="日食记" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/日食记.png" group-title="🏖️旅游直播",日食记
+http://192.168.31.150:9292/douyu/2206405
+#EXTINF:-1 tvg-name="海底世界" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/海底世界.png" group-title="🏖️旅游直播",海底世界
+http://192.168.31.150:9292/huya/20985846
+#EXTINF:-1 tvg-name="空间站看地球" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/NASA.png" group-title="🏖️旅游直播",空间站看地球
+http://192.168.31.150:9292/douyu/9412365
+#EXTINF:-1 tvg-name="地球频道" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/地球频道.png" group-title="🏖️旅游直播",地球频道
+http://192.168.31.150:9292/bilibili/22973029
+#EXTINF:-1 tvg-name="星舰基地24H" tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/SpaceX.png" group-title="🏖️旅游直播",星舰基地24H
+http://192.168.31.150:9292/bilibili/26312855
+
+
 
 #ℹ️国际频道
 #EXTINF:-1 tvg-logo="https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/LOGO/BBC.png" group-title="ℹ️国际频道",BBC
