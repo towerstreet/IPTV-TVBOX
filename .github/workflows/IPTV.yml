@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0,30 * * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   merge-m3u:
@@ -22,7 +22,7 @@ jobs:
 
     - name: Merge M3U Files
       run: |
-        cat ipv6.m3u Global.m3u Radio.m3u> IPTV.m3u
+        cat ipv6.m3u Global.m3u Radio.m3u > IPTV.m3u
 
     - name: Delete Original M3U Files
       run: |
@@ -31,6 +31,7 @@ jobs:
         rm -f Radio.m3u
 
     - name: Commit and push merged file
+      id: commit
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
@@ -39,3 +40,19 @@ jobs:
         git add IPTV.m3u
         git commit -m 'Merge M3U files into IPTV.m3u' || echo "No changes to commit"
         git push
+        if [ $? -eq 0 ]; then
+          echo "COMMIT_STATUS=success" >> $GITHUB_ENV
+        else
+          echo "COMMIT_STATUS=failure" >> $GITHUB_ENV
+        fi
+
+    - name: Send notification to Gotify
+      if: steps.commit.outputs.COMMIT_STATUS == 'success'
+      env:
+        GOTIFY_URL: ${{ secrets.GOTIFY_URL }}
+        GOTIFY_TOKEN: ${{ secrets.GOTIFY_TOKEN }}
+      run: |
+        curl -X POST "$GOTIFY_URL" \
+        -H "X-Gotify-Key: $GOTIFY_TOKEN" \
+        -H "Content-Type: application/json" \
+        -d '{"title": "IPTV.m3u UPDATE", "message": "The M3U files have been successfully merged and pushed to the repository.", "priority": 6}'
