@@ -2,7 +2,7 @@ name: IPTV UPDATE
 
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/3 * * * *'
 
 jobs:
   build:
