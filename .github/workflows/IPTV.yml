@@ -1,7 +1,7 @@
 name: IPTV UPDATE
 on:
   schedule:
-    - cron: '10 * * * *'
+    - cron: '*/30 * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,10 +15,14 @@ jobs:
         run: |
           curl -o Global.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
       - name: Merge files
+        env:
+          TOKEN: ${{ secrets.Secure Actions }}
         run: |
           rm -f IPTV.m3u
           cat ipv6.m3u Global.m3u > IPTV.m3u
       - name: Add and commit the merged file
+        env:
+          TOKEN: ${{ secrets.Secure Actions }}
         run: |
           git config --global user.name 'your_username'
           git config --global user.email 'your_email@example.com'
