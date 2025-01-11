@@ -27,7 +27,7 @@ jobs:
           fi
 
       - name: Delete files
-          run: rm -f ipv6.m3u Global.m3u
+        run: rm -f ipv6.m3u Global.m3u
           
       - name: Add and commit the merged file
         run: |
