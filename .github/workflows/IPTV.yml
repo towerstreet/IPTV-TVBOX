@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '10,30,50 * * * *'
+    - cron: '20,50 * * * *'
 
 jobs:
   merge-m3u:
@@ -39,29 +39,3 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add IPTV.m3u
         git commit -m 'Merge M3U files into IPTV.m3u' || echo "No changes to commit"
-        if [ $? -eq 0 ]; then
-          git push
-          echo "COMMIT_STATUS=success" >> $GITHUB_ENV
-        else
-          echo "COMMIT_STATUS=failure" >> $GITHUB_ENV
-        fi
-
-    - name: Send notification to Gotify
-      if: steps.commit.outputs.COMMIT_STATUS == 'success'
-      env:
-        GOTIFY_URL: ${{ secrets.GOTIFY_URL }}
-        GOTIFY_TOKEN: ${{ secrets.GOTIFY_TOKEN }}
-      run: |
-        curl -X POST "$GOTIFY_URL" \
-        -H "X-Gotify-Key: $GOTIFY_TOKEN" \
-        -H "Content-Type: application/json" \
-        -d '{
-          "title": "GITHUB ACTIONS🤖",
-          "message": "# IPTV.m3u \n\nThe M3U files have been successfully merged and pushed to the [_repository_](https://github.com/towerstreet/IPTV-TVBOX)",
-          "priority": 6,
-          "extras": {
-            "client::display": {
-              "contentType": "text/markdown"
-            }
-          }
-        }'
