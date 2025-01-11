@@ -2,7 +2,7 @@ name: Sync YueChan/Live Global.m3u
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '30 * * * *'
 
 jobs:
   sync-file:
