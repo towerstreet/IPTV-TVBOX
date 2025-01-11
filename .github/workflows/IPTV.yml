@@ -30,7 +30,9 @@ jobs:
           fi
           echo "Changes detected, committing new IPTV.m3u."
           rm ipv6.m3u Global.m3u
-
+        env:
+          ACTIONS: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Add and commit the merged file
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
