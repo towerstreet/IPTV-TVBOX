@@ -3,7 +3,7 @@ env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 on:
   schedule:
-    - cron: '*/3 * * * *'
+    - cron: '*/1 * * * *'
 
 jobs:
   build:
@@ -26,13 +26,13 @@ jobs:
             echo "No changes in IPTV.m3u, skipping commit."
             exit 0
           fi
-          rm -f ipv6.m3u Global.m3u
-          echo "Changes detected, proceeding with commit."
-
+      - name: Delete files
+        run: rm -f ipv6.m3u Global.m3u
+          
       - name: Add and commit the merged file
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git add IPTV.m3u
-          git commit -m 'IPTV UPDATE' || { echo "Commit failed"; exit 1; }
-          git push origin main || { echo "Push failed"; exit 1; }
+          git commit -m 'IPTV UPDATE'
+          git push origin main
