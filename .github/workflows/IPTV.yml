@@ -37,5 +37,5 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add IPTV.m3u
-        git commit -m 'Merge M3U files into IPTV.m3u' || echo "No changes to commit"
+        git commit -m '$(date +"%F %r")' || echo "No changes to commit"
         git push
