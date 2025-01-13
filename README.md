@@ -18,7 +18,7 @@
 ### 我的加速链接：
 - [**Towerstreet/IPTV-TVBOX**](https://github.com/towerstreet/IPTV-TVBOX/)
 
-    - 🎞️[***[IPTV]***](https://gitee.com/towerstreet/IPTV-TVBOX/raw/main/IPTV.m3u)
+    - 🎞️[***[IPTV]***](https://wget.la/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/IPTV.m3u)
 
 ### 大佬们的链接：
 - [**Fanmingming/live**](https://github.com/fanmingming/live)
