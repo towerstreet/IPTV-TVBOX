@@ -41,11 +41,4 @@ jobs:
       run: |
         git add IPTV.m3u
         git commit -m '$(date +"%F %r")' || echo "No changes to commit"
-
-    - name: Gotify Push Message
-      uses: eikendev/gotify-action@master
-      with: 
-        gotify_api_base: '${{ secrets.GOTIFY_URL }}'
-        gotify_app_token: '${{ secrets.GOTIFY_TOKEN }}'
-        notification_title: '🤖IPTV-TVBOX'
-        notification_message: '$(git push origin main)'
+        git push origin main
