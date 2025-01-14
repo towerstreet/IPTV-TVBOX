@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '45 * * * *'
+    - cron: '50,55,0,5 * * * *'
 
 jobs:
   merge-m3u:
