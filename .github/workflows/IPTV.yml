@@ -29,7 +29,7 @@ jobs:
         curl -o Radio.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u
 
     - name: Merge M3U Files
-      run: cat ipv6.m3u Global.m3u Radio.m3u> IPTV.m3u
+      run: cat ipv6.m3u Global.m3u Radio.m3u > IPTV.m3u
 
     - name: Delete Original M3U Files
       run: |
@@ -37,8 +37,23 @@ jobs:
         rm -f Global.m3u
         rm -f Radio.m3u
 
-    - name: Commit and push merged file
+    - name: Check for changes and commit
+      id: commit_and_push
       run: |
         git add IPTV.m3u
-        git commit -m '$(date +"%F %r")' || echo "No changes to commit"
-        git push origin main
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+          echo "::set-output name=changed::false"
+        else
+          git commit -m '$(date +"%F %r")'
+          git push origin main
+          echo "::set-output name=changed::true"
+        fi
+
+    - name: Send notification to Gotify
+      if: steps.commit_and_push.outputs.changed == 'true'
+      run: |
+        curl -X POST "{{secrets.GOTIFY_URL}}/message?token={{secrets.GOTIFY_TOKEN}}" \
+        -F "title=🤖IPTV M3U Updated" \
+        -F "message=The IPTV M3U file has been updated." \
+        -F "priority=9"
