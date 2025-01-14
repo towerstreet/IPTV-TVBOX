@@ -10,6 +10,8 @@ on:
 jobs:
   IPTV_m3u:
     runs-on: ubuntu-latest
+    env:
+      HAS_CHANGES: false
     steps:
     - name: Checkout repository
       uses: actions/checkout@master
@@ -38,22 +40,20 @@ jobs:
         rm -f Radio.m3u
 
     - name: Check for changes and commit
-      id: commit_and_push
       run: |
         git add IPTV.m3u
         if git diff --cached --quiet; then
           echo "No changes to commit"
-          echo "::set-output name=changed::false"
         else
+          echo "HAS_CHANGES=true" >> $GITHUB_ENV
           git commit -m '$(date +"%F %r")'
           git push origin main
-          echo "::set-output name=changed::true"
         fi
 
     - name: Send notification to Gotify
-      if: steps.commit_and_push.outputs.changed == 'true'
+      if: env.HAS_CHANGES == 'true'
       run: |
-        curl -X POST "{{secrets.GOTIFY_URL}}/message?token={{secrets.GOTIFY_TOKEN}}" \
-        -F "title=🤖IPTV M3U Updated" \
+        curl -X POST "https://your-gotify-url.com/message?token=your-gotify-token" \
+        -F "title=IPTV M3U Updated" \
         -F "message=The IPTV M3U file has been updated." \
         -F "priority=9"
