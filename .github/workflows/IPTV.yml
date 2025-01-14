@@ -8,7 +8,7 @@ on:
     - cron: '0 */2 * * *'
 
 jobs:
-  merge-m3u:
+  IPTV.m3u:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
