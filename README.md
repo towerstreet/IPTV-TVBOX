@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Logo" src="https://wget.la/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/Mushroom.png" width="150">
+    <img alt="Logo" src="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/Mushroom.png" width="150">
 </p>
 
 <h1 align="center">Towerstreet</h1>
