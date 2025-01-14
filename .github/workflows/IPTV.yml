@@ -1,4 +1,4 @@
-name: Merge M3U Files
+name: IPTV.m3u
 
 on:
   push:
