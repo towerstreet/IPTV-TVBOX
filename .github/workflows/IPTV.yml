@@ -53,7 +53,7 @@ jobs:
     - name: Send notification to Gotify
       if: env.HAS_CHANGES == 'true'
       run: |
-        curl -X POST "https://your-gotify-url.com/message?token=your-gotify-token" \
-        -F "title=IPTV M3U Updated" \
+        curl -X POST "{{secrets.GOTIFY_URL}}/message?token={{secrets.GOTIFY_TOKEN}}" \
+        -F "title=🤖IPTV M3U Updated" \
         -F "message=The IPTV M3U file has been updated." \
         -F "priority=9"
