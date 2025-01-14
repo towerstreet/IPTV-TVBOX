@@ -18,44 +18,27 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git config --local user.name 'github-actions[bot]'
+        git config --local user.email 'github-actions[bot]@users.noreply.github.com'
         git pull
         
     - name: Download M3U Files
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         curl -o ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
         curl -o Global.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
         curl -o Radio.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u
 
     - name: Merge M3U Files
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        cat ipv6.m3u Global.m3u Radio.m3u> IPTV.m3u
+      run: cat ipv6.m3u Global.m3u Radio.m3u> IPTV.m3u
 
     - name: Delete Original M3U Files
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         rm -f ipv6.m3u
         rm -f Global.m3u
         rm -f Radio.m3u
 
     - name: Commit and push merged file
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add IPTV.m3u
         git commit -m '$(date +"%F %r")' || echo "No changes to commit"
         git push
