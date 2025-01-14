@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@master
 
     - name: Pull
       env:
@@ -43,5 +43,9 @@ jobs:
         git commit -m '$(date +"%F %r")' || echo "No changes to commit"
 
     - name: Gotify Push Message
-      run: |
-        curl "{{secrets.GOTIFY_URL}}" -F "title=🤖IPTV-TVBOX" -F "message=$(git push origin main)" -F "priority=6"
+      uses: eikendev/gotify-action@master
+      with: 
+        gotify_api_base: '${{ secrets.GOTIFY_URL }}'
+        gotify_app_token: '${{ secrets.GOTIFY_TOKEN }}'
+        notification_title: '🤖IPTV-TVBOX'
+        notification_message: '$(git push origin main)'
