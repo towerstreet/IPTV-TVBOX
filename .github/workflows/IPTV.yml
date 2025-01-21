@@ -52,4 +52,14 @@ jobs:
 
     - name: Send notification to Gotify
       if: env.HAS_CHANGES == 'false'
-      run: curl "http://{{secrets.GOTIFY_URL}}/message?token={{secrets.GOTIFY_TOKEN}}" -F "🤖IPTV M3U Updated" -F "message=The IPTV M3U file has been updated." -F "priority=9"
+      run: |
+        curl -X POST "http://{{secrets.GOTIFY_URL}}/message?token={{secrets.GOTIFY_TOKEN}}" \
+             -H "Content-Type: application/json" \
+             -d '{
+                    "title": "🤖IPTV M3U Updated",
+                    "message": "# The IPTV M3U file has been updated. \n\n ![](https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/Mushroom.png)",
+                    "priority": 9,
+                    "extras": {
+                    "client::display": {
+                    "contentType": "text/markdown"}}
+                }'
