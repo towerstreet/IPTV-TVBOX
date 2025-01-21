@@ -46,6 +46,6 @@ jobs:
           echo "No changes to commit"
         else
           echo "HAS_CHANGES=true" >> $GITHUB_ENV
-          git commit -m '$(date +"%F %r")'
+          git commit -m 'Update IPTV.m3u'
           git push origin main
         fi
