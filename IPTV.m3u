@@ -284,8 +284,8 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="国际",BBC 
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 group-title="国际",BBC
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 group-title="国际",CNN
 https://stream1.freetv.fun/39c9454e706df0060b2cde0d4fdea09d93ffcf91fb43b08264a47673770e73f6.m3u8
 #EXTINF:-1 group-title="国际",CNA
@@ -309,9 +309,9 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",KBS World
-https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/15057?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="国际",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+http://175.107.244.52:4457/play/a056/index.m3u8?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="国际",One American News
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Arirang
@@ -330,8 +330,6 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="国际",TED Conference
 https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Ted Talks 
-https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Mytime
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
@@ -344,6 +342,244 @@ https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Ondemand China
 https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Tastemade
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="国际",Rakuten VIKI
+https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=60d4edd8b2fdec002c14112f&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="国际",GustoTV
+https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="国际",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="国际",MTV Live
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="国际",Sky Sports F1
+http://cord-cutter.net:8080/25464931/30585186/35244?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="国际",ABC East
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC_NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" group-title="国际",ACC Network
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="国际",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="国际",American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal_Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="国际",Animal Planet
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC_AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="国际",BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN_SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="国际",beIN Sports
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="国际",BET
+http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BETGospel.us" tvg-name="BET_GOSPEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" group-title="国际",BET Gospel
+http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET_HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="国际",BET Her East
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us" tvg-name="BET Jams" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" group-title="国际",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="BETSOUL.us" tvg-name="BET_SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" group-title="国际",BET Soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="国际",Big Ten Network
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="BLOOMBERG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="国际",Bloomberg
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="国际",Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" group-title="国际",Bounce
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="国际",Bravo
+http://fl2.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="国际",Cartoon Network
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBSEAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="国际",CBS (WBZ)
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS_SPORTS_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="国际",CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX_EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="国际",Cinemax
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="国际",CMT East
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY_CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="国际",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="国际",Cooking Channel
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="国际",C-SPAN
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="国际",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY_FAMILY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="国际",Discovery Family
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY_LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="国际",Discovery Life
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="国际",Disney Channel
+http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY_JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="国际",DisneyJr
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY_XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="国际",DisneyXD
+http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="MGMplus.us" tvg-name="EPIX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-us.png?raw=true" group-title="国际",EPIX
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="EPIX_2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-2-us.png?raw=true" group-title="国际",EPIX 2
+http://fl2.moveonjoy.com/EPIX_2/index.m3u8
+#EXTINF:-1 tvg-id="MGMplusDriveIn.us" tvg-name="EPIX_DRIVE_IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-drive-in-us.png?raw=true" group-title="国际",EPIX Drive-In
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX_HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-hits-us.png?raw=true" group-title="国际",EPIX Hits
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="国际",ESPN
+http://fl1.moveonjoy.com/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN_2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="国际",ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN_NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="国际",ESPNews
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN_U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="国际",ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="国际",Food Network
+http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="国际",FOX (WFXT)
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="国际",FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="国际",Freeform East
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="国际",Fuse
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="国际",FX East
+http://fl2.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="国际",FXM
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="国际",FXX East
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="FYI FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="国际",FYI East
+http://fl2.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="国际",Hallmark Channel East
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="Hallmark Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="国际",Hallmark Family
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="国际",HBO East
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="国际",HBO2 East
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="国际",HBO Comedy East
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="国际",HBO Family East
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="国际",HBO Zone East
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="国际",HGTV East
+http://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="国际",HLN
+http://fl2.moveonjoy.com/HLN/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (Investigation Discovery) East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="国际",ID (Investigation Discovery) East
+http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id="IONTelevision.us" tvg-name="ION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="国际",ION
+http://fl2.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" group-title="国际",Laff TV
+http://72.46.118.193/Laff/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="国际",Lifetime East
+http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="Lifetime Movies Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="国际",Lifetime Movies Network
+http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="国际",Logo East
+http://fl3.moveonjoy.com/Logo/index.m3u8
+#EXTINF:-1 tvg-id="MeTVNetwork.us" tvg-name="MeTV East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" group-title="国际",MeTV
+http://fl2.moveonjoy.com/ME_TV/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="国际",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="MotorTrend" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="国际",MotorTrend
+http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="国际",MTV East
+http://fl2.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="国际",MTV2 East
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="国际",MTV Live
+http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="国际",National Geographic East
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="国际",National Geographic Wild
+http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="国际",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC East (Chicago)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="国际",NBC East (Chicago)
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="NBC Golf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="国际",NBC Golf
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="NEWSNATION.us" tvg-name="NewsNation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="国际",NewsNation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="国际",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="国际",NHL Network
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="国际",Nickelodeon East
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="NickJr East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="国际",NickJr East
+http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NickMusic USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="国际",NickMusic USA
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="国际",NickToons East
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="Oprah Winfrey Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="国际",Oprah Winfrey Network (OWN) East
+http://fl2.moveonjoy.com/OWN/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="国际",Outdoor Channel
+http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="国际",Oxygen East
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="国际",Paramount Network East
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="国际",ReelzChannel
+http://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-id="Revolt.us" tvg-name="Revolt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="国际",Revolt
+http://fl2.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" group-title="国际",SEC Network
+http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="国际",Showtime East
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2 East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="国际",Showtime 2 East
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="国际",Showtime Extreme East
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNext(Pacific).us" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="国际",Showtime Next
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="国际",Showtime Women East
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="国际",Starz East
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="国际",Starz Comedy East
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="国际",Starz Edge East
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="国际",Starz Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="国际",Starz Encore Westerns
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="国际",SundanceTV
+http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="国际",SYFY East
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="国际",TBS East
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="国际",TCM (Turner Classic Movies) East
+http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="国际",Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="国际",TLC (The Learning Channel) East
+http://fl2.moveonjoy.com/TLC/index.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="国际",TNT East
+http://fl2.moveonjoy.com/TNT/index.m3u8
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="国际",truTV East
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="国际",TVLand
+http://fl2.moveonjoy.com/TV_Land/index.m3u8
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png" group-title="国际",TVOne
+http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="国际",VH1 East
+http://fl2.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="国际",Vice
+http://fl2.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="国际",Weather Channel
+http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="国际",WeTV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="国际",YES Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJJTGB.png" group-title="综合广播",北京交通广播
 http://ls.qingting.fm/live/336.m3u8
