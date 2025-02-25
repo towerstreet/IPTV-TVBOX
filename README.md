@@ -34,8 +34,6 @@
 - [**FunctionError/PiratesTv**](https://github.com/FunctionError/PiratesTv)
 
     - 🌍[***[Globle]***](https://github.com/FunctionError/PiratesTv/blob/main/combined_playlist.m3u)
- 
-- [**ChiSheng9/iptv**](https://github.com/ChiSheng9/iptv)
 
 ---
 
