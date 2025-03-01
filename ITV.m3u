@@ -185,8 +185,6 @@ http://192.168.31.150:9292/bptv/10000100000000050000000003887498.m3u8
 http://192.168.31.150:9292/bptv/10000100000000050000000003887499.m3u8
 #EXTINF:-1,tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.v1.mk/logo/北京IPTV4K.png" group-title="4K频道",北京IPTV4K
 http://192.168.31.150:9292/bptv/10000100000000050000000003887500.m3u8
-#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="4K频道",北京体育休闲-4K-HLG
-http://192.168.31.150:9292/bptv/10000100000000050000000004270524.m3u8
 #EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="4K频道",北京体育休闲-4K
 http://192.168.31.150:9292/bptv/10000100000000050000000004270525.m3u8
 #EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="北京",北京体育休闲
