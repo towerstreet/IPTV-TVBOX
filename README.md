@@ -38,7 +38,7 @@
 ---
 
 ### 软件
-- [***TVBOX***](https://github.com/FongMi/Release/tree/okjack/apk/release)
+- [***TVBOX***](https://github.com/lystv/fmapp/tree/main/apk/release)
 - [***M3UAndroid***](https://github.com/oxyroid/M3UAndroid)
 - [***ZyPlayer***](https://github.com/Hiram-Wong/ZyPlayer)
 - [***Kodi***](https://github.com/xbmc/xbmc)
