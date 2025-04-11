@@ -377,6 +377,14 @@ http://fl2.moveonjoy.com/VICELAND/index.m3u8
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-name="YES Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="国际",YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Fox Business Network
+https://v1.thetvapp.to/hls/FoxBusiness/index.m3u8
+#EXTINF:-1 group-title="国际",California Music Channel
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="国际",Xplore TV
+https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8
+#EXTINF:-1 group-title="国际",Lifetime Movies
+https://v1.thetvapp.to/hls/LifetimeMoviesEast/index.m3u8 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJJTGB.png" group-title="综合广播",北京交通广播
 http://ls.qingting.fm/live/336.m3u8
