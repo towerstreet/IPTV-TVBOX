@@ -270,8 +270,6 @@ http://192.168.31.150:9292/itv/3000000010000031669.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="老高与小茉 I" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 I
 http://192.168.31.150:9292/douyu/838632
 #EXTINF:-1 tvg-name="老高与小茉 II" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 II
-http://192.168.31.150:9292/douyu/12139546
-#EXTINF:-1 tvg-name="老高与小茉 III" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 III
 http://192.168.31.150:9292/douyu/236461
 #EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/陈翔六点半.png" group-title="🎞️网络直播",陈翔六点半
 http://192.168.31.150:9292/huya/11274154
