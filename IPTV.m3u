@@ -294,7 +294,7 @@ https://v15.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8
 https://v15.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Oklahoma.us" tvg-logo="https://i.imgur.com/mx7lyh5.png" group-title="国际",FanDuel SN Oklahoma
 https://v5.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="business",Fox Business Network
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="国际",Fox Business Network
 https://v1.thetvapp.to/hls/FoxBusiness/index.m3u8
 #EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="国际",FOOD NETWORK USA - Eastern Feed
 https://v14.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
@@ -407,41 +407,41 @@ https://v12.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="WEtv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="国际",WETV (Women's Entertainment) - Eastern
 https://v14.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",中国之声
+#EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",CNR中国之声
 https://radio.0472.org/?id=639
-#EXTINF:-1 tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="综合广播",经济之声
+#EXTINF:-1 tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="综合广播",CNR经济之声
 https://radio.0472.org/?id=640
-#EXTINF:-1 tvg-name="环球资讯广播" tvg-logo="https://radio.0472.org/?id=692&logo" group-title="综合广播",环球资讯
+#EXTINF:-1 tvg-name="环球资讯广播" tvg-logo="https://radio.0472.org/?id=692&logo" group-title="综合广播",CNR环球资讯
 https://radio.0472.org/?id=692
-#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://radio.0472.org/?id=641&logo" group-title="综合广播",音乐之声
+#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://radio.0472.org/?id=641&logo" group-title="综合广播",CNR音乐之声
 https://radio.0472.org/?id=641
-#EXTINF:-1 tvg-name="中国交通广播" tvg-logo="https://radio.0472.org/?id=653&logo" group-title="综合广播",交通广播
+#EXTINF:-1 tvg-name="中国交通广播" tvg-logo="https://radio.0472.org/?id=653&logo" group-title="综合广播",CNR交通广播
 https://radio.0472.org/?id=653
-#EXTINF:-1 tvg-name="文艺之声" tvg-logo="https://radio.0472.org/?id=648&logo" group-title="综合广播",文艺之声
+#EXTINF:-1 tvg-name="文艺之声" tvg-logo="https://radio.0472.org/?id=648&logo" group-title="综合广播",CNR文艺之声
 https://radio.0472.org/?id=648
-#EXTINF:-1 tvg-name="大湾区之声" tvg-logo="https://radio.0472.org/?id=645&logo" group-title="综合广播",湾区之声
+#EXTINF:-1 tvg-name="大湾区之声" tvg-logo="https://radio.0472.org/?id=645&logo" group-title="综合广播",CNR湾区之声
 https://radio.0472.org/?id=645
-#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="https://radio.0472.org/?id=642&logo" group-title="综合广播",经典音乐
+#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="https://radio.0472.org/?id=642&logo" group-title="综合广播",CNR经典音乐
 https://radio.0472.org/?id=642
-#EXTINF:-1 tvg-name="台海之声" tvg-logo="https://radio.0472.org/?id=643&logo" group-title="综合广播",台海之声
+#EXTINF:-1 tvg-name="台海之声" tvg-logo="https://radio.0472.org/?id=643&logo" group-title="综合广播",CNR台海之声
 https://radio.0472.org/?id=643
-#EXTINF:-1 tvg-name="神州之声" tvg-logo="https://radio.0472.org/?id=644&logo" group-title="综合广播",神州之声
+#EXTINF:-1 tvg-name="神州之声" tvg-logo="https://radio.0472.org/?id=644&logo" group-title="综合广播",CNR神州之声
 https://radio.0472.org/?id=644
-#EXTINF:-1 tvg-name="香港之声" tvg-logo="https://radio.0472.org/?id=646&logo" group-title="综合广播",香港之声
+#EXTINF:-1 tvg-name="香港之声" tvg-logo="https://radio.0472.org/?id=646&logo" group-title="综合广播",CNR香港之声
 https://radio.0472.org/?id=646
-#EXTINF:-1 tvg-name="民族之声" tvg-logo="https://radio.0472.org/?id=647&logo" group-title="综合广播",民族之声
+#EXTINF:-1 tvg-name="民族之声" tvg-logo="https://radio.0472.org/?id=647&logo" group-title="综合广播",CNR民族之声
 https://radio.0472.org/?id=647
-#EXTINF:-1 tvg-name="老年之声" tvg-logo="https://radio.0472.org/?id=649&logo" group-title="综合广播",老年之声
+#EXTINF:-1 tvg-name="老年之声" tvg-logo="https://radio.0472.org/?id=649&logo" group-title="综合广播",CNR老年之声
 https://radio.0472.org/?id=649
-#EXTINF:-1 tvg-name="阅读之声" tvg-logo="https://radio.0472.org/?id=652&logo" group-title="综合广播",阅读之声
+#EXTINF:-1 tvg-name="阅读之声" tvg-logo="https://radio.0472.org/?id=652&logo" group-title="综合广播",CNR阅读之声
 https://radio.0472.org/?id=652
-#EXTINF:-1 tvg-name="中国乡村之声" tvg-logo="https://radio.0472.org/?id=654&logo" group-title="综合广播",乡村之声
+#EXTINF:-1 tvg-name="中国乡村之声" tvg-logo="https://radio.0472.org/?id=654&logo" group-title="综合广播",CNR乡村之声
 https://radio.0472.org/?id=654
-#EXTINF:-1 tvg-name="HITFM劲曲调频" tvg-logo="https://radio.0472.org/?id=662&logo" group-title="综合广播",劲曲调频
+#EXTINF:-1 tvg-name="HITFM劲曲调频" tvg-logo="https://radio.0472.org/?id=662&logo" group-title="综合广播",CNR劲曲调频
 https://radio.0472.org/?id=662
-#EXTINF:-1 tvg-name="轻松调频" tvg-logo="https://radio.0472.org/?id=689&logo" group-title="综合广播",轻松调频
+#EXTINF:-1 tvg-name="轻松调频" tvg-logo="https://radio.0472.org/?id=689&logo" group-title="综合广播",CNR轻松调频
 https://radio.0472.org/?id=689
-#EXTINF:-1 tvg-name="南海之声" tvg-logo="https://radio.0472.org/?id=664&logo" group-title="综合广播",南海之声
+#EXTINF:-1 tvg-name="南海之声" tvg-logo="https://radio.0472.org/?id=664&logo" group-title="综合广播",CNR南海之声
 https://radio.0472.org/?id=664
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJJTGB.png" group-title="综合广播",北京交通广播
 http://ls.qingting.fm/live/336.m3u8
@@ -473,6 +473,12 @@ http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNLYGB.png" group-title="综合广播",湖南旅游广播
 https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖南经济广播" tvg-logo="https://radio.0472.org/?id=1056&logo" group-title="综合广播",湖南经济广播
+https://radio.0472.org/?id=1056
+#EXTINF:-1 tvg-name="湖南新闻频道" tvg-logo="https://radio.0472.org/?id=525&logo" group-title="综合广播",湖南新闻频道
+https://radio.0472.org/?id=525
+#EXTINF:-1 tvg-name="湖南电台潇湘之声" tvg-logo="https://radio.0472.org/?id=526&logo" group-title="综合广播",湖南潇湘之声
+https://radio.0472.org/?id=526
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNWYGB.png" group-title="综合广播",湖南文艺广播
 https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/shgsgb.png" group-title="综合广播",上海故事广播
@@ -493,12 +499,6 @@ https://radio.0472.org/?id=1133
 https://radio.0472.org/?id=523
 #EXTINF:-1 tvg-name="芒果时空音乐台" tvg-logo="https://radio.0472.org/?id=524&logo" group-title="音乐广播",芒果时空音乐
 https://radio.0472.org/?id=524
-#EXTINF:-1 tvg-name="湖南新闻频道" tvg-logo="https://radio.0472.org/?id=525&logo" group-title="音乐广播",湖南新闻频道
-https://radio.0472.org/?id=525
-#EXTINF:-1 tvg-name="湖南电台潇湘之声" tvg-logo="https://radio.0472.org/?id=526&logo" group-title="音乐广播",湖南潇湘之声
-https://radio.0472.org/?id=526
-#EXTINF:-1 tvg-name="湖南经济广播" tvg-logo="https://radio.0472.org/?id=1056&logo" group-title="音乐广播",湖南经济广播
-https://radio.0472.org/?id=1056
 #EXTINF:-1 tvg-name="湖南交通广播" tvg-logo="https://radio.0472.org/?id=1059&logo" group-title="音乐广播",湖南交通广播
 https://radio.0472.org/?id=1059
 #EXTINF:-1 tvg-name="湖南音乐之声" tvg-logo="https://radio.0472.org/?id=1060&logo" group-title="音乐广播",湖南音乐之声
@@ -509,8 +509,6 @@ https://radio.0472.org/?id=1061
 https://radio.0472.org/?id=1531
 #EXTINF:-1 tvg-logo="https://radio.0472.org/?id=381&logo" group-title="音乐广播",河北音乐广播
 https://radio.0472.org/?id=381
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jsyygb.png" group-title="音乐广播",江苏音乐广播
-http://live.cooltv.top/tv/ytradio.php?id=415
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/gdyy.png" group-title="音乐广播",广东音乐之声
 http://live.cooltv.top/tv/ytradio.php?id=489
 #EXTINF:-1 tvg-logo="https://radio.0472.org/?id=498&logo" group-title="音乐广播",深圳音乐频率
@@ -519,6 +517,8 @@ https://radio.0472.org/?id=498
 http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njyygb.png" group-title="音乐广播",南京音乐广播
 http://hls.njgb.com/live_hls/4/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-name="江苏音乐广播" tvg-logo="https://radio.0472.org/?id=415&logo" group-title="音乐广播",江苏音乐广播
+https://radio.0472.org/?id=415
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hbqcyyt.png" group-title="音乐广播",河北汽车音乐
 https://radio.pull.hebtv.com/live/hebqcyy.m3u8
 #EXTINF:-1 tvg-name="重庆音乐广播" tvg-logo="https://radio.0472.org/?id=372&logo" group-title="音乐广播",重庆音乐广播
@@ -555,55 +555,57 @@ https://radio.0472.org/?id=435
 https://radio.0472.org/?id=1158
 #EXTINF:-1 tvg-name="海南音乐广播" tvg-logo="https://radio.0472.org/?id=543&logo" group-title="音乐广播",海南音乐广播
 https://radio.0472.org/?id=543
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jd947.png" group-title="音乐广播",上海音乐广播
+http://live.cooltv.top/tv/news1296.php?id=8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/1017.png" group-title="音乐广播",上海流行音乐
+http://live.cooltv.top/tv/news1296.php?id=4
 #EXTINF:-1 tvg-id="广州汽车音乐电台" tvg-name="广州汽车音乐电台" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29715-1GGmaZ_550x550.jpg" group-title="音乐广播",广州汽车音乐
 https://rscdn-qn-i.ajmide.com/r_1088/1088.m3u8
 #EXTINF:-1 tvg-id="深圳音乐广播" tvg-name="深圳音乐广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EGoGw.png" group-title="音乐广播",深圳音乐广播
 https://rscdn-qn-i.ajmide.com/r_1380/1380.m3u8
-#EXTINF:-1 tvg-id="AFORadio" tvg-name="AFORadio" tvg-logo="https://media2.fishtank.my/stations/afo-cn/square_lg.jpg" group-title="音乐广播",AFO Radio
-https://stream.rcs.revma.com/7x3gv2y4bshvv
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jd947.png" group-title="音乐广播",上海音乐广播
-http://live.cooltv.top/tv/news1296.php?id=8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/loveradio.png" group-title="音乐广播",Love Radio
-http://live.cooltv.top/tv/news1296.php?id=7
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/1017.png" group-title="音乐广播",上海流行音乐
-http://live.cooltv.top/tv/news1296.php?id=4
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njcoolradio.png" group-title="音乐广播",Cool Radio
-http://hls.njgb.com/live_hls/8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="音乐广播",河北文艺广播
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/988fm.png" group-title="境外广播",FM 988
-https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/GOLDFM.png" group-title="境外广播",Gold FM
-http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MONEYFM.png" group-title="境外广播",Money FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/yes933.png" group-title="境外广播",Yes FM
-https://22393.live.streamtheworld.com/YES933_PREM.aac
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/KISSFM.png" group-title="境外广播",Kiss FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/love972.png" group-title="境外广播",Love FM
-https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/capital958.png" group-title="境外广播",Capital FM
-https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/自由亚洲电台.png" group-title="境外广播",RFA
-https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/npr.png" group-title="境外广播",NPR News
-https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/VOA.png" group-title="境外广播",VOA环球英语
-http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/POWERFM.png" group-title="境外广播",Power FM
-https://crystalout.surfernetwork.com:8001/KVSP_MP3
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/RTI.png" group-title="境外广播",RTI中央广播
-https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CNA938.png" group-title="境外广播",CNA938
-http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.m3u8
-#EXTINF:-1 tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="境外广播",CNA亚洲新闻
-https://14033.live.streamtheworld.com/938NOW_PREM.aac
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TIMESRADIO.png" group-title="境外广播",Times Radio
-http://timesradio.wireless.radio/stream
+#EXTINF:-1 tvg-id="AFORadio" tvg-name="AFORadio" tvg-logo="https://media2.fishtank.my/stations/afo-cn/square_lg.jpg" group-title="音乐广播",AFO Radio
+https://stream.rcs.revma.com/7x3gv2y4bshvv
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/loveradio.png" group-title="音乐广播",Love Radio
+http://live.cooltv.top/tv/news1296.php?id=7
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njcoolradio.png" group-title="音乐广播",Cool Radio
+http://hls.njgb.com/live_hls/8/playlist.m3u8
 #EXTINF:-1 group-title="境外广播",GB News
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
+#EXTINF:-1 group-title="境外广播",LBC News
+https://icecast.thisisdax.com/LBCNewsUKMP3
+#EXTINF:-1 group-title="境外广播",BBC News
+https://ice.audionow.com/485BBCWorld.mp3
+#EXTINF:-1 group-title="境外广播",Hao FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3 
+#EXTINF:-1 group-title="境外广播",FM 988
+https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
+#EXTINF:-1 group-title="境外广播",Gold FM
+http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
+#EXTINF:-1 group-title="境外广播",Money FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
+#EXTINF:-1 group-title="境外广播",Yes FM
+https://22393.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1 group-title="境外广播",Kiss FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
+#EXTINF:-1 group-title="境外广播",Love FM
+https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1 group-title="境外广播",Capital FM
+https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+#EXTINF:-1 group-title="境外广播",NPR News
+https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+#EXTINF:-1 group-title="境外广播",Power FM
+https://crystalout.surfernetwork.com:8001/KVSP_MP3
+#EXTINF:-1 group-title="境外广播",CNA938
+http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.m3u8
+#EXTINF:-1 group-title="境外广播",Times Radio
+http://timesradio.wireless.radio/stream
 #EXTINF:-1 group-title="境外广播",Talk Radio
 https://radio.talkradio.co.uk/stream
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="境外广播",RFI
+#EXTINF:-1 group-title="境外广播",RFI
 https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 group-title="境外广播",CNA亚洲新闻
+https://14033.live.streamtheworld.com/938NOW_PREM.aac
+#EXTINF:-1 group-title="境外广播",RTI中央广播
+https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
