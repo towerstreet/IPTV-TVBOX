@@ -178,22 +178,16 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
 #EXTINF:-1 group-title="国际",CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 group-title="国际",CGTN
-https://english-livebkws.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 group-title="国际",Al Jazerra
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际",CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",FOX5
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="国际",ESP News
-http://fl3.moveonjoy.com/ESPN_news/index.m3u8
-#EXTINF:-1 group-title="国际",NewsNation
-http://fl3.moveonjoy.com/%E5%9B%BD%E9%99%85_NATION/index.m3u8
+#EXTINF:-1 group-title="国际",ESPN News
+http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="国际",LiveNow from Fox
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="国际",CBS
-http://fl3.moveonjoy.com/CBS_%E5%9B%BD%E9%99%85/index.m3u8
 #EXTINF:-1 group-title="国际",FOX Soul
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 group-title="国际",Wion News
@@ -204,8 +198,6 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",CGTN Documentary
-https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 group-title="国际",WeTV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Start TV
@@ -220,6 +212,8 @@ http://fl1.moveonjoy.com/TCM/index.m3u8
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",TNT
 http://fl5.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:-1 group-title="国际",FYI
+http://fl3.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 group-title="国际",Travel XP
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Cooking Channel
@@ -326,6 +320,12 @@ http://fl3.moveonjoy.com/EPIX/index.m3u8
 http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 group-title="国际",Outdoor Channel
 http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Starz
+http://fl3.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title="国际",FXX
+http://fl3.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="国际",SYFY
+http://fl3.moveonjoy.com/SYFY/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",CNR中国之声
 https://radio.0472.org/?id=639
