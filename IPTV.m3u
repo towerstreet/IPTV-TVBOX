@@ -190,6 +190,8 @@ http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 #EXTINF:-1 group-title="国际",NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+#EXTINF:-1 group-title="国际",Newsmax 2
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="国际",FOX Soul
@@ -212,8 +214,6 @@ http://fl3.moveonjoy.com/Up_Tv/index.m3u8
 http://fl5.moveonjoy.com/NHL_8/index.m3u8
 #EXTINF:-1 group-title="国际",TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 group-title="国际",Food
-https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",TNT
 http://fl5.moveonjoy.com/NBA_1/index.m3u8
 #EXTINF:-1 group-title="国际",FYI
@@ -246,12 +246,14 @@ http://fl3.moveonjoy.com/CMT/index.m3u8
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 group-title="国际",COMET
 http://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 group-title="国际",Cooking
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Pac-12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",COZI TV
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
-http://fl3.moveonjoy.com/ION_Plus/index.m3u8
+https://fl3.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 group-title="国际",ION TV  
+http://fl3.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 group-title="国际",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 group-title="国际",TLC
@@ -344,8 +346,6 @@ http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 http://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 group-title="国际",Bridezillas
 https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
-#EXTINF:-1 group-title="国际",ION TV East
-http://fl3.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Oxygen East
 http://fl3.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 group-title="国际",ACCN  
@@ -360,12 +360,12 @@ http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 http://fl3.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 group-title="国际",Tastemade
 https://tastemade-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",ION TV
-https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
-#EXTINF:-1 group-title="国际",Humor Mill
-https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
 #EXTINF:-1 group-title="国际",Pop Up
 https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-frequency/playlist.m3u8
+#EXTINF:-1 group-title="国际",World Poker Tour
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+#EXTINF:-1 group-title="国际",SportsGrid
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",CNR中国之声
 https://radio.0472.org/?id=639
