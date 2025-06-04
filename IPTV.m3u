@@ -178,6 +178,8 @@ https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际",CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 group-title="国际",CTV News
+https://jmp2.uk/sam-CA1400004AE.m3u8
 #EXTINF:-1 group-title="国际",CBC News
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 group-title="国际",CNBC
@@ -192,8 +194,6 @@ https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 group-title="国际",NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-#EXTINF:-1 group-title="国际",Newsmax 2
-https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="国际",FOX Soul
@@ -254,6 +254,8 @@ https://wikinew.newkso.ru/wiki/ustvtlc/mono.m3u8
 https://wikinew.newkso.ru/wiki/yesnet/mono.m3u8
 #EXTINF:-1 group-title="国际",NBA TV
 http://fl5.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="国际",FIFA+
+https://jmp2.uk/sam-CABD1200008JG.m3u8
 #EXTINF:-1 group-title="国际",Sky Sports Mix
 https://x4new.newkso.ru/x4/skymix/mono.m3u8
 #EXTINF:-1 group-title="国际",Discovery Channel
@@ -322,7 +324,7 @@ http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN U
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="国际",SportsNe New York
+#EXTINF:-1 group-title="国际",SportsNet New York
 http://fl3.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 group-title="国际",Tastemade
 https://tastemade-xumo.amagi.tv/playlist.m3u8
