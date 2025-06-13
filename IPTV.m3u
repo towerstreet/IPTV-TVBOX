@@ -166,6 +166,10 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="国际",Phoenix Chinese 
+http://cdn.132.us.kg/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="国际",Phoenix InfoNews
+http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="国际",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNN
@@ -422,6 +426,10 @@ https://jmp2.uk/sam-CABD1200008JG.m3u8
 https://x4new.newkso.ru/x4/skymix/mono.m3u8
 #EXTINF:-1 group-title="国际",Tennis Channel
 http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Crave 2
+http://fl3.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 group-title="国际",Crave 4
+http://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",CNR中国之声
 https://radio.0472.org/?id=639
