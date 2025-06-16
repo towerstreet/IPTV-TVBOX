@@ -214,8 +214,12 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="国际",Start TV
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 group-title="国际",TBS
 http://fl5.moveonjoy.com/NHL_8/index.m3u8
+#EXTINF:-1 group-title="国际",TCM
+http://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 group-title="国际",FYI
 http://fl3.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 group-title="国际",Travel XP
@@ -277,7 +281,7 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
 #EXTINF:-1 group-title="国际",Nat Geo Wild
 http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="国际",BBC America
-http://143.244.60.30/Animal_Planet/index.m3u8
+http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="国际",Disney Junior
 http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 group-title="国际",Nick Jr.
@@ -328,7 +332,7 @@ http://143.244.60.30/DIY/index.m3u8
 http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",GRIT TV
 http://143.244.60.30/GRIT_TV/index.m3u8
-#EXTINF:-1 group-title="国际",Hallmark 
+#EXTINF:-1 group-title="国际",Hallmark
 http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",FoxBusiness
 http://41.205.93.154/FOXBUSINESS/index.m3u8
