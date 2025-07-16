@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://11.112114.xyz/fy.xml"
+#EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
 #EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
@@ -203,6 +203,12 @@ http://192.168.31.150:9292/mgtv/923287154.m3u8
 http://192.168.31.150:9292/mgtv/923287211.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/154/202407181433_1721283860085_H169_1080.jpg" group-title="教育", CETV4
 http://192.168.31.150:9292/mgtv/923287339.m3u8
+#EXTINF:-1,tvg-id="视界4K" tvg-name="视界4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="4K频道",视界4K-BST
+http://192.168.31.150:9292/bst/sjpd4k@15000000.m3u8
+#EXTINF:-1,tvg-id="电影4K" tvg-name="电影4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="4K频道",电影4K-BST
+http://192.168.31.150:9292/bst/dypd4k@15000000.m3u8
+#EXTINF:-1,tvg-id="少儿4K" tvg-name="少儿4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="4K频道",少儿4K-BST
+http://192.168.31.150:9292/bst/sepd4k@15000000.m3u8
 #EXTINF:-1,tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K-BST
 http://192.168.31.150:9292/bst/hxjc4k@15000000.m3u8
 #EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="4K频道",cctv4k-BST
@@ -429,6 +435,8 @@ http://192.168.31.150:9292/bst/nmgws@1300000.m3u8
 http://192.168.31.150:9292/bst/nxws@1300000.m3u8
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://11.112114.xyz/logo/青海卫视.png" group-title="BST-卫视",青海卫视-BST
 http://192.168.31.150:9292/bst/qhws@1300000.m3u8
+#EXTINF:-1,tvg-id="新视觉HD" tvg-name="新视觉HD" tvg-logo="https://11.112114.xyz/logo/新视觉.png" group-title="BST-其他",新视觉HD-BST
+http://192.168.31.150:9292/bst/xsjhd@4000000.m3u8
 #EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="BST-其他",中国天气-BST
 http://192.168.31.150:9292/bst/zgqxhd4mc@4000000.m3u8
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="BST-其他",欢笑剧场HD-BST
