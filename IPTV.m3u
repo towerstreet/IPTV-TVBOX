@@ -165,7 +165,308 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
-429: Too Many Requests#EXTM3U
+#EXTM3U
+#EXTINF:-1 group-title="国际",BBC
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="国际",CNN
+https://jmp2.uk/sam-GBBD8000016N.m3u8
+#EXTINF:-1 group-title="国际",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="国际",ABC News Live
+https://jmp2.uk/sam-USBC39000171G.m3u8
+#EXTINF:-1 group-title="国际",AlJazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="国际",CBS News
+http://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 group-title="国际",CTV News
+https://jmp2.uk/sam-CA1400004AE.m3u8
+#EXTINF:-1 group-title="国际",Global Halifax News
+http://fortv.cc:8080/q8KuDU/354945/57434
+#EXTINF:-1 group-title="国际",Sky News
+https://jmp2.uk/sam-USBB52000022Q.m3u8
+#EXTINF:-1 group-title="国际",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="国际",France 24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="国际",RTE News
+http://fortv.cc:8080/q8KuDU/354945/79108
+#EXTINF:-1 group-title="国际",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="国际",TalkTV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+#EXTINF:-1 group-title="国际",CNBC
+http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="国际",NBC News Now
+https://jmp2.uk/sam-GBBB1500004LG.m3u8
+#EXTINF:-1 group-title="国际",FOX5
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="国际",ESPN News
+http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="国际",LiveNow from Fox
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+#EXTINF:-1 group-title="国际",ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 group-title="国际",NewsNation
+http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 group-title="国际",NHK World
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+#EXTINF:-1 group-title="国际",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 group-title="国际",FOX Soul
+http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+#EXTINF:-1 group-title="国际",Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="国际",NEWSMAX2
+https://jmp2.uk/sam-USBA300028QU.m3u8
+#EXTINF:-1 group-title="国际",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="国际",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 group-title="国际",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="国际",Start TV
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 group-title="国际",TCM
+http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 group-title="国际",FYI
+http://fl3.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="国际",Travel XP
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="国际",Xplore TV
+https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8
+#EXTINF:-1 group-title="国际",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Cartoon Network
+http://fortv.cc:8080/q8KuDU/354945/53719
+#EXTINF:-1 group-title="国际",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Aspire
+http://143.244.60.30/Aspire/index.m3u8
+#EXTINF:-1 group-title="国际",Bounce
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:-1 group-title="国际",Buzzr
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 group-title="国际",CMT
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 group-title="国际",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 group-title="国际",COMET
+http://fl3.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 group-title="国际",COZI TV
+http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+#EXTINF:-1 group-title="国际",ION Plus
+https://fl3.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 group-title="国际",ION
+http://143.244.60.30/ION_TV/index.m3u8
+#EXTINF:-1 group-title="国际",TLC
+https://wikinew.newkso.ru/wiki/ustvtlc/mono.m3u8
+#EXTINF:-1 group-title="国际",YES
+https://wikinew.newkso.ru/wiki/yesnet/mono.m3u8
+#EXTINF:-1 group-title="国际",Discovery Channel
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 group-title="国际",Lifetime
+http://143.244.60.30/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="国际",Sony Movie
+http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 group-title="国际",LoveStories
+https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",VH1
+http://fl3.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 group-title="国际",GoUSA TV
+https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Showtime
+http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 group-title="国际",Bravo
+http://fl3.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="国际",BET
+http://fl3.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="国际",TV One
+http://fl3.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="国际",CMTV
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
+#EXTINF:-1 group-title="国际",Nat Geo Wild
+http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="国际",BBC America
+http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 group-title="国际",Disney Junior
+http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="国际",Nick Jr.
+http://fl3.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 group-title="国际",Disney Channel
+http://fl5.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 group-title="国际",DISCOVERY LIFE
+http://143.244.60.30/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 group-title="国际",DISNEY XD
+http://143.244.60.30/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="国际",HBO
+http://143.244.60.30/HBO/index.m3u8
+#EXTINF:-1 group-title="国际",HBO Family
+http://143.244.60.30/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="国际",HBO Zone
+http://143.244.60.30/HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="国际",HBO Stream 
+http://143.244.60.30/HBO_2/index.m3u8
+#EXTINF:-1 group-title="国际",National Geographic
+http://143.244.60.30/National_Geographic/index.m3u8
+#EXTINF:-1group-title="国际",ESPN 2
+http://143.244.60.30/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="国际",OuterMax
+http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 group-title="国际",FXM
+http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="国际",Outdoor Channel
+http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Starz
+http://fl3.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title="国际",FXX
+http://fl3.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="国际",SYFY
+http://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="国际",Smithsonian
+http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Oxygen East
+http://fl3.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="国际",ACCN
+http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Tastemade
+https://tastemade-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",World Poker Tour
+https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+#EXTINF:-1 group-title="国际",MSG
+http://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 group-title="国际",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:-1 group-title="国际",Animal Planet
+http://143.244.60.30/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="国际",DIY
+http://143.244.60.30/DIY/index.m3u8
+#EXTINF:-1 group-title="国际",Fuse
+http://fl3.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 group-title="国际",LMN
+http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Mytime  
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="国际",GRIT TV
+http://143.244.60.30/GRIT_TV/index.m3u8
+#EXTINF:-1 group-title="国际",Hallmark
+http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",FoxBusiness
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1 group-title="国际",Cooking
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",MGM+East
+https://fl3.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 group-title="国际",MGM+Marquee
+https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 group-title="国际",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="国际",Destination America
+http://143.244.60.30/Destination_America/index.m3u8
+#EXTINF:-1 group-title="国际",Discovery Science
+http://143.244.60.30/Discovery_Science/index.m3u8
+#EXTINF:-1 group-title="国际",HGTV
+http://143.244.60.30/HGTV/index.m3u8
+#EXTINF:-1 group-title="国际",INSP TV
+http://143.244.60.30/INSP/index.m3u8
+#EXTINF:-1 group-title="国际",MTV
+http://143.244.60.30/MTV/index.m3u8
+#EXTINF:-1 group-title="国际",MTV Live
+http://143.244.60.30/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="国际",NickToons
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="国际",Kidoodle.TV
+https://jmp2.uk/sam-CAAJ34000122Z.m3u8
+#EXTINF:-1 group-title="国际",Animation+
+https://jmp2.uk/sam-CA400003FQ.m3u8
+#EXTINF:-1 group-title="国际",BBC Kids
+https://jmp2.uk/sam-US800003JM.m3u8
+#EXTINF:-1 group-title="国际",Oprah Winfrey Network
+http://143.244.60.30/OWN/index.m3u8
+#EXTINF:-1 group-title="国际",OUTSIDE TV
+http://143.244.60.30/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 group-title="国际",Oxygen
+http://143.244.60.30/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="国际",Paramount Network
+http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",PopTV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/226
+#EXTINF:-1 group-title="国际",Starz Comedy
+http://143.244.60.30/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 group-title="国际",Starz Edge
+http://143.244.60.30/STARZ_EDGE/index.m3u8
+#EXTINF:-1 group-title="国际",Starz Encore Action
+http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 group-title="国际",Vice
+http://143.244.60.30/VICELAND/index.m3u8
+#EXTINF:-1 group-title="国际",WGN
+http://143.244.60.30/WGN/index.m3u8
+#EXTINF:-1 group-title="国际",NHL Network
+http://143.244.60.30/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",MLB Network
+http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Sportsman Channel
+http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",ESPN U
+http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="国际",SportsNet New York
+http://fl3.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 group-title="国际",FOX Sports
+https://jmp2.uk/sam-US2700001QY.m3u8
+#EXTINF:-1 group-title="国际",NBC Sports
+https://jmp2.uk/sam-USBD420002446.m3u8
+#EXTINF:-1 group-title="国际",SportsGrid
+https://jmp2.uk/sam-USBA300031OT.m3u8
+#EXTINF:-1 group-title="国际",BEIN Sports
+http://143.244.60.30/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="国际",BEIN Sports Xtra
+https://jmp2.uk/sam-CABA8000043F.m3u8
+#EXTINF:-1 group-title="国际",CBS Sports
+http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Pac-12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",NBA TV
+http://fl5.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="国际",FIFA+
+https://jmp2.uk/sam-CABD1200008JG.m3u8
+#EXTINF:-1 group-title="国际",Sky Sports Mix
+https://x4new.newkso.ru/x4/skymix/mono.m3u8
+#EXTINF:-1 group-title="国际",Tennis Channel
+http://143.244.60.30/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",ACC Network
+http://143.244.60.30/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Crave 2
+http://fl3.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 group-title="国际",Crave 3
+http://fortv.cc:8080/q8KuDU/354945/57322
+#EXTINF:-1 group-title="国际",Crave 4
+http://fl3.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 group-title="国际",Bloomberg TV
+https://jmp2.uk/sam-INBA5100021WP.m3u8
+#EXTINF:-1 group-title="国际",Bloomberg Originals
+https://jmp2.uk/sam-INBA5100022O4.m3u8
+#EXTINF:-1 group-title="国际",GoUSA TV
+https://jmp2.uk/sam-INBA5100025YE.m3u8
+#EXTINF:-1 group-title="国际",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 group-title="国际",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 group-title="国际",Gugak TV
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="国际",Ted Talks 
+https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Kids TV  
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Pulse
+https://lightning-pulse-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Sky Sports F1
+http://fortv.cc:8080/q8KuDU/354945/53704
+#EXTM3U
 #EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",CNR中国之声
 https://radio.0472.org/?id=639
 #EXTINF:-1 tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="综合广播",CNR经济之声
