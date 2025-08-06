@@ -21,10 +21,9 @@
     - 🎞️[***[IPTV]***](https://ghproxy.net/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/IPTV.m3u)
 
 ### 大佬们的链接：
-- [**Fanmingming/live**](https://github.com/fanmingming/live)
+- [**Mursor/LIVE**](https://github.com/Mursor/LIVE)
 
-    - 🎞️[***[CN]***](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)
-    - 🔗[***[EPG]***](https://github.com/fanmingming/live/blob/main/e.xml)
+    - 🎞️[***[CN]***](https://github.com/Mursor/LIVE/blob/main/iptv.m3u)
 
 - [**YueChan/Live**](https://github.com/YueChan/Live)
 
