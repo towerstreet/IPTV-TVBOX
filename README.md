@@ -18,7 +18,7 @@
 ### 我的加速链接：
 - [**Towerstreet/IPTV-TVBOX**](https://github.com/towerstreet/IPTV-TVBOX/)
 
-    - 🎞️[***[IPTV]***](https://ghproxy.net/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/IPTV.m3u)
+    - 🎞️[***[IPTV]***](https://proxy.v2gh.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/IPTV.m3u)
 
 ### 大佬们的链接：
 - [**Mursor/LIVE**](https://github.com/Mursor/LIVE)
