@@ -426,7 +426,7 @@ https://mursor.ottiptv.cc/gptv/G_JIAJIA.m3u8
 https://mursor.ottiptv.cc/gptv/G_CCTV-13-HD-265-8M.m3u8
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://11.112114.xyz/logo/CGTN西班牙语.png" group-title="央视",CGTN西班牙语
 https://mursor.ottiptv.cc/gptv/G_CGTN-ESPANOL.m3u8
-#EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
+#EXTM3U
 #🎞️网络直播
 #EXTINF:-1 tvg-name="老高与小茉 I" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 I
 http://192.168.31.150:9292/douyu/838632
@@ -492,6 +492,7 @@ http://192.168.31.150:9292/douyu/9412365
 http://192.168.31.150:9292/bilibili/22973029
 #EXTINF:-1 tvg-name="星舰基地24H" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/SpaceX.png" group-title="🏖️旅游直播",星舰基地24H
 http://192.168.31.150:9292/bilibili/26312855
+
 
 #EXTM3U
 #EXTINF:-1 group-title="国际",BBC
