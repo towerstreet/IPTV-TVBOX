@@ -24,7 +24,7 @@
 ### 大佬们的链接：
 - [**Mursor1985/LIVE**](https://github.com/mursor1985/LIVE)
 
-    - 🎞️[***[CN]***](https://github.com/Mursor/LIVE/blob/main/iptv.m3u)
+    - 🎞️[***[CN]***](https://github.com/Mursor1985/LIVE/blob/main/iptv.m3u)
 
 - [**YueChan/Live**](https://github.com/YueChan/Live)
 
