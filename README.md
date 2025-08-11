@@ -19,6 +19,7 @@
 - [**Towerstreet/IPTV-TVBOX**](https://github.com/towerstreet/IPTV-TVBOX/)
 
     - 🎞️[***[IPTV]***](https://proxy.v2gh.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/IPTV.m3u)
+      - 请将 User-Agent 设置为 okHttp/Mursor-1.0.0 ，否则无法观看
 
 ### 大佬们的链接：
 - [**Mursor/LIVE**](https://github.com/Mursor/LIVE)
