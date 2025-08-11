@@ -22,7 +22,7 @@
       - 请将 User-Agent 设置为 okHttp/Mursor-1.0.0 ，否则无法观看
 
 ### 大佬们的链接：
-- [**Mursor/LIVE**](https://github.com/Mursor/LIVE)
+- [**Mursor1985/LIVE**](https://github.com/mursor1985/LIVE)
 
     - 🎞️[***[CN]***](https://github.com/Mursor/LIVE/blob/main/iptv.m3u)
 
