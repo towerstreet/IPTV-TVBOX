@@ -26,7 +26,7 @@ jobs:
 
     - name: Download M3U Files
       run: |
-        curl -o iptv.m3u https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u
+        curl -o iptv.m3u https://raw.githubusercontent.com/Mursor1985/LIVE/refs/heads/main/iptv.m3u
         curl -o ITV.m3u https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/refs/heads/main/ITV.m3u
         curl -o Global.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
         curl -o Radio.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u
