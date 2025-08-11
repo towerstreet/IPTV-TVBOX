@@ -426,6 +426,73 @@ https://mursor.ottiptv.cc/gptv/G_JIAJIA.m3u8
 https://mursor.ottiptv.cc/gptv/G_CCTV-13-HD-265-8M.m3u8
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://11.112114.xyz/logo/CGTN西班牙语.png" group-title="央视",CGTN西班牙语
 https://mursor.ottiptv.cc/gptv/G_CGTN-ESPANOL.m3u8
+#EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
+#🎞️网络直播
+#EXTINF:-1 tvg-name="老高与小茉 I" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 I
+http://192.168.31.150:9292/douyu/838632
+#EXTINF:-1 tvg-name="老高与小茉 II" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 II
+http://192.168.31.150:9292/douyu/236461
+#EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/陈翔六点半.png" group-title="🎞️网络直播",陈翔六点半
+http://192.168.31.150:9292/huya/11274154
+#EXTINF:-1 tvg-name="科学放映室" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/科学放映室.png" group-title="🎞️网络直播",科学放映室
+http://192.168.31.150:9292/douyu/9439712
+#EXTINF:-1 tvg-name="浩瀚的宇宙" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/浩瀚的宇宙.png" group-title="🎞️网络直播",浩瀚的宇宙
+http://192.168.31.150:9292/douyu/9606719
+#EXTINF:-1 tvg-name="所长林超" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/所长林超.png" group-title="🎞️网络直播",所长林超
+http://192.168.31.150:9292/douyu/9447974
+#EXTINF:-1 tvg-name="老爸评测" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/老爸评测.png" group-title="🎞️网络直播",老爸评测
+http://192.168.31.150:9292/douyu/9642554
+#EXTINF:-1 tvg-name="海南军阀 I" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/大漠叔叔.png" group-title="🎞️网络直播",海南军阀 I
+http://192.168.31.150:9292/douyu/1109218
+#EXTINF:-1 tvg-name="海南军阀 II" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/大漠叔叔.png" group-title="🎞️网络直播",海南军阀 II
+http://192.168.31.150:9292/douyu/10551378
+
+#🕹️游戏直播
+#EXTINF:-1 tvg-name="王者荣耀" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/KPL.png" group-title="🕹️游戏直播",王者荣耀
+http://192.168.31.150:9292/douyu/998
+http://192.168.31.150:9292/huya/660002
+http://192.168.31.150:9292/bilibili/55
+#EXTINF:-1 tvg-name="PUBG" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/PUBG.png" group-title="🕹️游戏直播",PUBG
+http://192.168.31.150:9292/douyu/100
+http://192.168.31.150:9292/huya/660004
+http://192.168.31.150:9292/bilibili/98
+#EXTINF:-1 tvg-name="CS GO" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/5EPlay.png" group-title="🕹️游戏直播",CS GO
+http://192.168.31.150:9292/douyu/601514
+http://192.168.31.150:9292/huya/23414220
+http://192.168.31.150:9292/bilibili/35
+#EXTINF:-1 tvg-name="第五人格" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/第五人格.png" group-title="🕹️游戏直播",第五人格
+http://192.168.31.150:9292/douyu/3226194
+http://192.168.31.150:9292/huya/461698
+http://192.168.31.150:9292/bilibili/5555
+#EXTINF:-1 tvg-name="蛋仔派对" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/网易NeXT.png" group-title="🕹️游戏直播",蛋仔派对
+http://192.168.31.150:9292/huya/660149
+
+#🏖️旅游直播
+#EXTINF:-1 tvg-name="乌镇" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/直播中国.png" group-title="🏖️旅游直播",乌镇
+https://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
+#EXTINF:-1 tvg-name="珠穆朗玛峰" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/直播中国.png" group-title="🏖️旅游直播",珠穆朗玛峰
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-name="iPanda" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/iPanda.png" group-title="🏖️旅游直播",iPanda
+https://gcwbndcnc.v.wscdns.com/gcwbnd/ipanda1000_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao04_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao06_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao10_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao14_2_720P/playlist.m3u8?wsApp=HLS
+https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao15_2_720P/playlist.m3u8?wsApp=HLS
+
+#EXTINF:-1 tvg-name="iPanda" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/iPanda.png" group-title="🏖️旅游直播",萌宠乐园VIP
+http://192.168.31.150:9292/bilibili/27358026
+#EXTINF:-1 tvg-name="日食记" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/日食记.png" group-title="🏖️旅游直播",日食记
+http://192.168.31.150:9292/douyu/2206405
+#EXTINF:-1 tvg-name="海底世界" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/海底世界.png" group-title="🏖️旅游直播",海底世界
+http://192.168.31.150:9292/huya/20985846
+#EXTINF:-1 tvg-name="空间站看地球" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/NASA.png" group-title="🏖️旅游直播",空间站看地球
+http://192.168.31.150:9292/douyu/9412365
+#EXTINF:-1 tvg-name="地球频道" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/地球频道.png" group-title="🏖️旅游直播",地球频道
+http://192.168.31.150:9292/bilibili/22973029
+#EXTINF:-1 tvg-name="星舰基地24H" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/SpaceX.png" group-title="🏖️旅游直播",星舰基地24H
+http://192.168.31.150:9292/bilibili/26312855
+
 #EXTM3U
 #EXTINF:-1 group-title="国际",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
