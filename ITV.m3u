@@ -44,13 +44,6 @@ http://192.168.31.150:9292/huya/660149
 https://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
 #EXTINF:-1 tvg-name="珠穆朗玛峰" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/直播中国.png" group-title="🏖️旅游直播",珠穆朗玛峰
 https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-name="iPanda" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/iPanda.png" group-title="🏖️旅游直播",iPanda
-https://gcwbndcnc.v.wscdns.com/gcwbnd/ipanda1000_2_720P/playlist.m3u8?wsApp=HLS
-https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao04_2_720P/playlist.m3u8?wsApp=HLS
-https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao06_2_720P/playlist.m3u8?wsApp=HLS
-https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao10_2_720P/playlist.m3u8?wsApp=HLS
-https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao14_2_720P/playlist.m3u8?wsApp=HLS
-https://gcwbndcnc.v.wscdns.com/gcwbnd/xiongmao15_2_720P/playlist.m3u8?wsApp=HLS
 
 #EXTINF:-1 tvg-name="日食记" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/日食记.png" group-title="🏖️旅游直播",日食记
 http://192.168.31.150:9292/douyu/2206405
@@ -58,3 +51,4 @@ http://192.168.31.150:9292/douyu/2206405
 http://192.168.31.150:9292/huya/20985846
 #EXTINF:-1 tvg-name="空间站看地球" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/NASA.png" group-title="🏖️旅游直播",空间站看地球
 http://192.168.31.150:9292/douyu/9412365
+
