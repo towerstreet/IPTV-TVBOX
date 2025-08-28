@@ -376,8 +376,6 @@ http://panelguys.top:8080/txd7Fd/030774/104884
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",Fox News
 http://panelguys.top:8080/txd7Fd/030774/1818
-#EXTINF:-1 group-title="国际",Sky News
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153846.m3u8
 #EXTINF:-1 group-title="国际",RT NEWS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8
 #EXTINF:-1 group-title="国际",GB NEWS
@@ -550,8 +548,6 @@ http://panelguys.top:8080/txd7Fd/030774/66383
 http://panelguys.top:8080/txd7Fd/030774/57435
 #EXTINF:-1 group-title="国际",HGTV
 http://panelguys.top:8080/txd7Fd/030774/57273
-#EXTINF:-1 group-title="国际",Investigation Discovery
-http://panelguys.top:8080/txd7Fd/030774/57442
 #EXTINF:-1 group-title="国际",MSNBC
 http://panelguys.top:8080/txd7Fd/030774/47332
 #EXTINF:-1 group-title="国际",National Geographic Wild
@@ -596,16 +592,6 @@ http://panelguys.top:8080/txd7Fd/030774/47444
 http://panelguys.top:8080/txd7Fd/030774/66783
 #EXTINF:-1 group-title="国际",TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="国际",TNT SPORT 1 
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153714.m3u8
-#EXTINF:-1 group-title="国际",TNT SPORT 2
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153716.m3u8
-#EXTINF:-1 group-title="国际",TNT SPORT 3 
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153718.m3u8
-#EXTINF:-1 group-title="国际",TNT SPORT 4 
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/13716.m3u8
-#EXTINF:-1 group-title="国际",TNT SPORT 5
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/62800.m3u8
 #EXTINF:-1 group-title="国际",SKY CINEMA ACTION
 http://panelguys.top:8080/txd7Fd/030774/35254
 #EXTINF:-1 group-title="国际",SKY CINEMA DRAMA
@@ -860,6 +846,28 @@ http://143.244.60.30/ESPN_U/index.m3u8
 http://fl1.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="国际",MTV Live
 http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="国际",Golf Channel
+https://fl3.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 group-title="国际",Travel Channel
+http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 group-title="国际",TVOne
+https://fl3.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="国际",WeTV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title="国际",WGN
+https://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 group-title="国际",W NETWORK
+https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Vice
+https://fl3.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 group-title="国际",Tennis Channel
+http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",SYFY
+https://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="国际",TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="国际",TCM
+http://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",CNR中国之声
 https://radio.0472.org/?id=639
