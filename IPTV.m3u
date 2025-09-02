@@ -400,8 +400,12 @@ http://panelguys.top:8080/txd7Fd/030774/21259
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 #EXTINF:-1 group-title="国际",Newsmax 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/1.m3u8
+#EXTINF:-1 group-title="国际",NHK Japan
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="国际",RTE NEWS
 http://panelguys.top:8080/txd7Fd/030774/79108
+#EXTINF:-1 group-title="国际",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",PBS HD
 http://panelguys.top:8080/txd7Fd/030774/57276
 #EXTINF:-1 group-title="国际",Cheddar News
@@ -450,7 +454,7 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
 #EXTINF:-1 group-title="国际",NFL RED ZONE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
-#EXTINF:-1 group-title="国际",SPORTS GRID
+#EXTINF:-1 group-title="国际",SportsGrid
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163374.m3u8
 #EXTINF:-1 group-title="国际",SPEED SPORT 1
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401572602.m3u8
@@ -462,8 +466,6 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/13550.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176716.m3u8
 #EXTINF:-1 group-title="国际",LAFF
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400309672.m3u8
-#EXTINF:-1 group-title="国际",TRU TV
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176757.m3u8
 #EXTINF:-1 group-title="国际",REVOLT
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176704.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
@@ -510,7 +512,7 @@ http://panelguys.top:8080/txd7Fd/030774/57385
 http://panelguys.top:8080/txd7Fd/030774/57387
 #EXTINF:-1 group-title="国际",CBC TORONTO
 http://panelguys.top:8080/txd7Fd/030774/57306
-#EXTINF:-1 group-title="国际",CHRGD
+#EXTINF:-1 group-title="国际",CHARGE
 http://panelguys.top:8080/txd7Fd/030774/75653
 #EXTINF:-1 group-title="国际",CPAC
 http://panelguys.top:8080/txd7Fd/030774/57402
@@ -558,8 +560,6 @@ http://panelguys.top:8080/txd7Fd/030774/57247
 http://panelguys.top:8080/txd7Fd/030774/57429
 #EXTINF:-1 group-title="国际",Game Show Network
 http://panelguys.top:8080/txd7Fd/030774/57430
-#EXTINF:-1 group-title="国际",Ginx esports TV
-http://panelguys.top:8080/txd7Fd/030774/57431
 #EXTINF:-1 group-title="国际",Global News Kingston
 http://panelguys.top:8080/txd7Fd/030774/57432
 #EXTINF:-1 group-title="国际",Global Edmonton News
@@ -606,8 +606,6 @@ http://panelguys.top:8080/txd7Fd/030774/9860
 http://panelguys.top:8080/txd7Fd/030774/20975
 #EXTINF:-1 group-title="国际",Sportsnet World HD
 http://panelguys.top:8080/txd7Fd/030774/75675
-#EXTINF:-1 group-title="国际",Teletoon East
-http://panelguys.top:8080/txd7Fd/030774/57372
 #EXTINF:-1 group-title="国际",TSN 1
 http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7973
 #EXTINF:-1 group-title="国际",TSN 2
@@ -678,6 +676,8 @@ http://panelguys.top:8080/txd7Fd/030774/53706
 http://panelguys.top:8080/txd7Fd/030774/35241
 #EXTINF:-1 group-title="国际",Willow Cricket
 http://panelguys.top:8080/txd7Fd/030774/41979
+#EXTINF:-1 group-title="国际",World Poker
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 group-title="国际",Sky Sports Cricket
 http://panelguys.top:8080/txd7Fd/030774/45940
 #EXTINF:-1 group-title="国际",Eurosport
@@ -774,26 +774,6 @@ http://fl1.moveonjoy.com/FYI/index.m3u8
 http://fl1.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 group-title="国际",Grit TV
 http://panelguys.top:8080/txd7Fd/030774/20861
-#EXTINF:-1 group-title="国际",Hallmark Channel
-http://panelguys.top:8080/txd7Fd/030774/46719
-#EXTINF:-1 group-title="国际",Hallmark Drama
-http://panelguys.top:8080/txd7Fd/030774/9307
-#EXTINF:-1 group-title="国际",Hallmark Movies & Mysteries
-http://panelguys.top:8080/txd7Fd/030774/10289
-#EXTINF:-1 group-title="国际",HBO HD
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7968
-#EXTINF:-1 group-title="国际",HBO Comedy
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17974
-#EXTINF:-1 group-title="国际",HBO Signature
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17976
-#EXTINF:-1 group-title="国际",HBO West
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17977
-#EXTINF:-1 group-title="国际",HBO ZONE
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17978
-#EXTINF:-1 group-title="国际",HBO East HD
-http://panelguys.top:8080/txd7Fd/030774/46713
-#EXTINF:-1 group-title="国际",HBO 2
-http://panelguys.top:8080/txd7Fd/030774/57438
 #EXTINF:-1 group-title="国际",HGTV
 http://panelguys.top:8080/txd7Fd/030774/46717
 #EXTINF:-1 group-title="国际",History Channel
@@ -826,26 +806,6 @@ http://panelguys.top:8080/txd7Fd/030774/46694
 http://panelguys.top:8080/txd7Fd/030774/21648
 #EXTINF:-1 group-title="国际",GAC Living
 http://panelguys.top:8080/txd7Fd/030774/75654
-#EXTINF:-1 group-title="国际",AMC Thrillers
-http://panelguys.top:8080/txd7Fd/030774/66243
-#EXTINF:-1 group-title="国际",Showtime East
-http://panelguys.top:8080/txd7Fd/030774/46214
-#EXTINF:-1 group-title="国际",Showtime 2
-http://panelguys.top:8080/txd7Fd/030774/13219
-#EXTINF:-1 group-title="国际",Showtime Family Zone
-http://panelguys.top:8080/txd7Fd/030774/13481
-#EXTINF:-1 group-title="国际",Showtime Women
-http://panelguys.top:8080/txd7Fd/030774/17778
-#EXTINF:-1 group-title="国际",Showtime Showcase  
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17930
-#EXTINF:-1 group-title="国际",Showtime Extreme 
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17987
-#EXTINF:-1 group-title="国际",Showtime Next  
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17989
-#EXTINF:-1 group-title="国际",Showtime West  
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17990
-#EXTINF:-1 group-title="国际",Starz Encore Westerns
-http://panelguys.top:8080/txd7Fd/030774/16263
 #EXTINF:-1 group-title="国际",TBN
 http://panelguys.top:8080/txd7Fd/030774/21895
 #EXTINF:-1 group-title="国际",TLC
@@ -894,6 +854,60 @@ http://fl1.moveonjoy.com/TBS/index.m3u8
 http://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 group-title="国际",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="国际",Hallmark Channel
+http://panelguys.top:8080/txd7Fd/030774/46719
+#EXTINF:-1 group-title="国际",Hallmark Drama
+http://panelguys.top:8080/txd7Fd/030774/9307
+#EXTINF:-1 group-title="国际",Hallmark Movies & Mysteries
+http://panelguys.top:8080/txd7Fd/030774/10289
+#EXTINF:-1 group-title="国际",HBO HD
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7968
+#EXTINF:-1 group-title="国际",HBO Comedy
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17974
+#EXTINF:-1 group-title="国际",HBO Signature
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17976
+#EXTINF:-1 group-title="国际",HBO West
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17977
+#EXTINF:-1 group-title="国际",HBO ZONE
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17978
+#EXTINF:-1 group-title="国际",HBO East HD
+http://panelguys.top:8080/txd7Fd/030774/46713
+#EXTINF:-1 group-title="国际",HBO 2
+http://panelguys.top:8080/txd7Fd/030774/57438
+#EXTINF:-1 group-title="国际",AMC Thrillers
+http://panelguys.top:8080/txd7Fd/030774/66243
+#EXTINF:-1 group-title="国际",Showtime East
+http://panelguys.top:8080/txd7Fd/030774/46214
+#EXTINF:-1 group-title="国际",Showtime 2
+http://panelguys.top:8080/txd7Fd/030774/13219
+#EXTINF:-1 group-title="国际",Showtime Family Zone
+http://panelguys.top:8080/txd7Fd/030774/13481
+#EXTINF:-1 group-title="国际",Showtime Women
+http://panelguys.top:8080/txd7Fd/030774/17778
+#EXTINF:-1 group-title="国际",Showtime Showcase  
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17930
+#EXTINF:-1 group-title="国际",Showtime Extreme 
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17987
+#EXTINF:-1 group-title="国际",Showtime Next  
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17989
+#EXTINF:-1 group-title="国际",Showtime West  
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17990
+#EXTINF:-1 group-title="国际",Starz Encore Westerns
+http://panelguys.top:8080/txd7Fd/030774/16263
+#EXTINF:-1 group-title="国际",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Action
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Comedy
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Drama
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Family
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Reality
+https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Romance
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",CNR中国之声
 https://radio.0472.org/?id=639
