@@ -370,7 +370,7 @@ http://192.168.31.150:7878/douyu/9412365
 
 #EXTM3U
 #EXTINF:-1 group-title="国际",BBC NEWS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191457.m3u8
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/40091.m3u8
 #EXTINF:-1 group-title="国际",CNN
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/88946.ts
 #EXTINF:-1 group-title="国际",CNA
@@ -385,6 +385,8 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8
 #EXTINF:-1 group-title="国际",GB NEWS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400200058.m3u8
+#EXTINF:-1 group-title="国际",NHK World
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_2M.m3u8
 #EXTINF:-1 group-title="国际",News Nation
 http://212.102.60.231:80/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="国际",CBS News
@@ -445,8 +447,6 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
 #EXTINF:-1 group-title="国际",SportsGrid
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163374.m3u8
-#EXTINF:-1 group-title="国际",SPEED SPORT 1
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401572602.m3u8
 #EXTINF:-1 group-title="国际",REAL AMERICA'S VOICE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/381772.m3u8
 #EXTINF:-1 group-title="国际",DOG TV
