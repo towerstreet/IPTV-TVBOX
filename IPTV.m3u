@@ -504,6 +504,8 @@ http://panelguys.top:8080/txd7Fd/030774/66383
 http://panelguys.top:8080/txd7Fd/030774/57435
 #EXTINF:-1 group-title="国际",HGTV
 http://panelguys.top:8080/txd7Fd/030774/57273
+#EXTINF:-1 group-title="国际",NBC East
+http://fl3.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="国际",MSNBC
 http://panelguys.top:8080/txd7Fd/030774/47332
 #EXTINF:-1 group-title="国际",NatGeo Wild
@@ -690,6 +692,12 @@ http://panelguys.top:8080/txd7Fd/030774/2210
 http://panelguys.top:8080/txd7Fd/030774/17639
 #EXTINF:-1 group-title="国际",FanDuel Sports South
 http://panelguys.top:8080/txd7Fd/030774/20922
+#EXTINF:-1 group-title="国际",BEIN SPORTS
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="国际",CBS SPORTS NETWORK
+http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Big Ten Network HD
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",FX East
 http://panelguys.top:8080/txd7Fd/030774/46690
 #EXTINF:-1 group-title="国际",FXM
@@ -792,10 +800,16 @@ http://panelguys.top:8080/txd7Fd/030774/46719
 http://panelguys.top:8080/txd7Fd/030774/9307
 #EXTINF:-1 group-title="国际",Hallmark Movies & Mysteries
 http://panelguys.top:8080/txd7Fd/030774/10289
+#EXTINF:-1 group-title="国际",HBO
+http://fl3.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="国际",HBO HD
 http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7968
+#EXTINF:-1 group-title="国际",HBO Zone
+http://fl3.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="国际",HBO Comedy
 http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17974
+#EXTINF:-1 group-title="国际",HBO Family
+http://fl3.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="国际",HBO Signature
 http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17976
 #EXTINF:-1 group-title="国际",HBO West
@@ -840,6 +854,32 @@ https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/
 https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Romance
 https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+#EXTINF:-1 group-title="国际",BET HER
+http://fl3.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 group-title="国际",Cleo TV
+http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 group-title="国际",COMEDY CENTRAL
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 group-title="国际",Destination America
+http://fl3.moveonjoy.com/Destination_America/index.m3u8
+#EXTINF:-1 group-title="国际",FX
+http://fl3.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 group-title="国际",Fuse
+http://fl3.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 group-title="国际",HSN
+http://fl3.moveonjoy.com/HSN/index.m3u8
+#EXTINF:-1 group-title="国际",MUCH
+http://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 group-title="国际",MSG
+http://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 group-title="国际",MotorTrend
+http://fl3.moveonjoy.com/MOTOR_TREND/index.m3u8
+#EXTINF:-1 group-title="国际",MGM+
+http://fl3.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 group-title="国际",MGM+ HITS
+http://fl3.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 group-title="国际",MGM+ Drive-In
+http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",CNR中国之声
 https://radio.0472.org/?id=639
