@@ -1,4 +1,4 @@
-404: Not Found#EXTM3U
+#EXTM3U
 #🎞️网络直播
 #EXTINF:-1 tvg-name="老高与小茉 I" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 I
 http://192.168.31.150:7878/douyu/838632
