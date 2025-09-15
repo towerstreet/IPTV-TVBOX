@@ -27,16 +27,14 @@ jobs:
     - name: Download M3U Files
       run: |
         curl -o ITV.m3u https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/refs/heads/main/ITV.m3u
-        curl -o Global.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
         curl -o Radio.m3u https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u
 
     - name: Merge M3U Files
-      run: cat ITV.m3u Global.m3u Radio.m3u > IPTV.m3u
+      run: cat ITV.m3u Radio.m3u > IPTV.m3u
 
     - name: Delete Original M3U Files
       run: |
         rm -f ITV.m3u
-        rm -f Global.m3u
         rm -f Radio.m3u
 
     - name: Check for changes and commit
