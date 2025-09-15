@@ -53,7 +53,7 @@ http://192.168.31.150:7878/huya/20985846
 http://192.168.31.150:7878/douyu/9412365
 
 
-404: Not Found#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",CNR中国之声
 https://radio.0472.org/?id=639
 #EXTINF:-1 tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="综合广播",CNR经济之声
