@@ -28,7 +28,6 @@
 
 - [**YueChan/Live**](https://github.com/YueChan/Live)
 
-    - 🌍[***[Global]***](https://github.com/YueChan/Live/blob/main/Global.m3u)
     - 📻[***[Radio]***](https://github.com/YueChan/Live/blob/main/Radio.m3u)
 
 - [**FunctionError/PiratesTv**](https://github.com/FunctionError/PiratesTv)
