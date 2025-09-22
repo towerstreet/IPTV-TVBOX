@@ -44,7 +44,7 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 #EXTINF:-1 group-title="国际",Redbull
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="国际",NFL RedZone
-http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3752.ts
+https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 group-title="国际",PBS HD
 http://panelguys.top:8080/txd7Fd/030774/57276
 #EXTINF:-1 group-title="国际",Cheddar News
@@ -166,7 +166,7 @@ http://panelguys.top:8080/txd7Fd/030774/41979
 #EXTINF:-1 group-title="国际",World Poker
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u
 #EXTINF:-1 group-title="国际",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Lifetime Movies
 http://panelguys.top:8080/txd7Fd/030774/20863
 #EXTINF:-1 group-title="国际",WWE Network
@@ -319,6 +319,14 @@ http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17930
 http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17987
 #EXTINF:-1 group-title="国际",Showtime Next
 http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17989
+#EXTINF:-1 group-title="国际",TNT Sports 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="国际",TNT Sports 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="国际",TNT Sports 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="国际",TNT Sports 4
+https://7pal.short.gy/tntspts4
 #EXTM3U
 #🎞️网络直播
 #EXTINF:-1 tvg-name="老高与小茉 I" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 I
