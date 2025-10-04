@@ -56,9 +56,8 @@ http://192.168.31.150:7878/douyu/9412365
 #EXTM3U
 #EXTINF:-1 group-title="国际",BBC News
 https://jmp2.uk/stvp-US4000033L
-#https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",GB News
@@ -85,8 +84,8 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 http://panelguys.top:8080/txd7Fd/030774/21259
 #EXTINF:-1 group-title="国际",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:-1 group-title="国际",Newsmax 2
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/1.m3u8
+#EXTINF:-1 group-title="国际",NBA TV
+http://mains.services/live/bshorty/Zv5le07a0J/4b34c445-df7c-401d-840c-52ce4bc5e1ed.ts
 #EXTINF:-1 group-title="国际",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",WION
@@ -107,8 +106,8 @@ https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
 https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
 #EXTINF:-1 group-title="国际",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Premier Sports 1
-http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/2160/index.m3u8
+#EXTINF:-1 group-title="国际",Sky Sports Slect
+http://mains.services/live/bshorty/Zv5le07a0J/703b63c9-b5fd-446e-a221-5f87f5ab48ec.ts
 #EXTINF:-1 group-title="国际",World Poker
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u
 #EXTINF:-1 group-title="国际",Trace Sport Stars
