@@ -19,7 +19,6 @@
 - [**Towerstreet/IPTV-TVBOX**](https://github.com/towerstreet/IPTV-TVBOX/)
 
     - 🎞️[***[IPTV]***](https://proxy.v2gh.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/IPTV.m3u)
-      - 由于Mursor不允许分享了，已将iptv中的部分去除，需要的自己研究下，部署。
 
 ### 大佬们的链接：
 
