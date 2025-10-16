@@ -10,6 +10,8 @@ http://192.168.31.150:7878/douyin/rid/547977714661
 http://192.168.31.150:7878/douyin/rid/127453393722
 #EXTINF:-1 tvg-name="央视财经" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视财经
 http://192.168.31.150:7878/douyin/rid/296728101980
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",CCTV4
+http://192.168.31.150:7878/douyin/rid/166806983360
 #EXTINF:-1 tvg-name="央视电影" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视电影
 http://192.168.31.150:7878/douyin/rid/208823316033
 
@@ -64,6 +66,7 @@ http://192.168.31.150:7878/douyu/2206405
 http://192.168.31.150:7878/huya/20985846
 #EXTINF:-1 tvg-name="空间站看地球" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/NASA.png" group-title="🏖️旅游直播",空间站看地球
 http://192.168.31.150:7878/douyu/9412365
+
 
 
 
