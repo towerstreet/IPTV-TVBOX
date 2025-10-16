@@ -1,4 +1,20 @@
 #EXTM3U
+#📺抖音直播
+#EXTINF:-1 tvg-name="央视网" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视网
+http://192.168.31.150:7878/douyin/rid/870887192950
+#EXTINF:-1 tvg-name="央视网新闻" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视网新闻
+http://192.168.31.150:7878/douyin/rid/339638082961
+#EXTINF:-1 tvg-name="小央视频" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",小央视频
+http://192.168.31.150:7878/douyin/rid/547977714661
+#EXTINF:-1 tvg-name="央视快看" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视快看
+http://192.168.31.150:7878/douyin/rid/127453393722
+#EXTINF:-1 tvg-name="央视财经" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视财经
+http://192.168.31.150:7878/douyin/rid/296728101980
+#EXTINF:-1 tvg-name="央视电影" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视电影
+http://192.168.31.150:7878/douyin/rid/208823316033
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",第一财经
+http://192.168.31.150:7878/douyin/rid/359100173260
+
 #🎞️网络直播
 #EXTINF:-1 tvg-name="老高与小茉 I" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 I
 http://192.168.31.150:7878/douyu/838632
@@ -44,12 +60,12 @@ http://192.168.31.150:7878/huya/660149
 https://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
 #EXTINF:-1 tvg-name="珠穆朗玛峰" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/直播中国.png" group-title="🏖️旅游直播",珠穆朗玛峰
 https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
-
 #EXTINF:-1 tvg-name="日食记" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/日食记.png" group-title="🏖️旅游直播",日食记
 http://192.168.31.150:7878/douyu/2206405
 #EXTINF:-1 tvg-name="海底世界" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/海底世界.png" group-title="🏖️旅游直播",海底世界
 http://192.168.31.150:7878/huya/20985846
 #EXTINF:-1 tvg-name="空间站看地球" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/NASA.png" group-title="🏖️旅游直播",空间站看地球
 http://192.168.31.150:7878/douyu/9412365
+
 
 
