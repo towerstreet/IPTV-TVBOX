@@ -20,6 +20,10 @@ http://192.168.31.150:7878/douyin/rid/208823316033
 http://192.168.31.150:7878/douyu/838632
 #EXTINF:-1 tvg-name="老高与小茉 II" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/老高与小茉.png" group-title="🎞️网络直播",老高与小茉 II
 http://192.168.31.150:7878/douyu/236461
+#EXTINF:-1 tvg-name="海南军阀 I" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/大漠叔叔.png" group-title="🎞️网络直播",海南军阀 I
+http://192.168.31.150:7878/douyu/1109218
+#EXTINF:-1 tvg-name="海南军阀 II" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/大漠叔叔.png" group-title="🎞️网络直播",海南军阀 II
+http://192.168.31.150:7878/douyu/10551378
 #EXTINF:-1 tvg-name="陈翔六点半" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/陈翔六点半.png" group-title="🎞️网络直播",陈翔六点半
 http://192.168.31.150:7878/huya/11274154
 #EXTINF:-1 tvg-name="科学放映室" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/科学放映室.png" group-title="🎞️网络直播",科学放映室
@@ -30,10 +34,6 @@ http://192.168.31.150:7878/douyu/9606719
 http://192.168.31.150:7878/douyu/9447974
 #EXTINF:-1 tvg-name="老爸评测" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/老爸评测.png" group-title="🎞️网络直播",老爸评测
 http://192.168.31.150:7878/douyu/9642554
-#EXTINF:-1 tvg-name="海南军阀 I" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/大漠叔叔.png" group-title="🎞️网络直播",海南军阀 I
-http://192.168.31.150:7878/douyu/1109218
-#EXTINF:-1 tvg-name="海南军阀 II" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/大漠叔叔.png" group-title="🎞️网络直播",海南军阀 II
-http://192.168.31.150:7878/douyu/10551378
 
 #🕹️游戏直播
 #EXTINF:-1 tvg-name="王者荣耀" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/KPL.png" group-title="🕹️游戏直播",王者荣耀
@@ -66,6 +66,10 @@ http://192.168.31.150:7878/douyu/2206405
 http://192.168.31.150:7878/huya/20985846
 #EXTINF:-1 tvg-name="空间站看地球" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/NASA.png" group-title="🏖️旅游直播",空间站看地球
 http://192.168.31.150:7878/douyu/9412365
+#EXTINF:-1 tvg-name="带你旅游世界" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/斗鱼.png" group-title="🏖️旅游直播",带你旅游世界
+http://192.168.31.150:7878/douyu/1473221
+#EXTINF:-1 tvg-name="世界人文" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/斗鱼.png" group-title="🏖️旅游直播",世界人文
+http://192.168.31.150:7878/douyu/10617369
 #EXTM3U
 #EXTINF:-1 group-title="国际",CNN
 https://jmp2.uk/stvp-GBBD8000016N
