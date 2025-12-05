@@ -71,8 +71,6 @@ http://192.168.31.150:7878/douyu/1473221
 #EXTINF:-1 tvg-name="世界人文" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/斗鱼.png" group-title="🏖️旅游直播",世界人文
 http://192.168.31.150:7878/douyu/10617369
 #EXTM3U
-#EXTINF:-1 group-title="国际",CNN
-https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 group-title="国际",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNA
@@ -81,8 +79,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",Sky News
-https://jmp2.uk/stvp-USBB52000022Q
 #EXTINF:-1 group-title="国际",LiveNow 
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 #EXTINF:-1 group-title="国际",Euronews
@@ -155,6 +151,10 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://967d9da6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ2luZXZhdWx0X0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="国际",PBS Kids
 https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
+#EXTINF:-1 group-title="国际",Disney Channel
+http://supersonictv.live:8080/live/006779/439866/21795.m3u8
+#EXTINF:-1 group-title="国际",Disney XD
+http://supersonictv.live:8080/live/006779/439866/21801.m3u8
 #EXTINF:-1 group-title="国际",Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",History Hit 
