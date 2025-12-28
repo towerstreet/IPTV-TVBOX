@@ -84,6 +84,7 @@ http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",GB News
 http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/445135
 #EXTINF:-1 group-title="国际",Sky News
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/718c39c4-3fb9-4ecd-9c56-a7b880c7df7d/4.m3u8
 http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/4863
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
@@ -107,6 +108,8 @@ https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="国际",Fox Business
 http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 group-title="国际",Bloomberg TV
+https://1cd69008d08c486ca5abc0f1c4e2ef63.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/87e22cf4-e302-42f6-a781-1d726fc87835/0.m3u8
 #EXTINF:-1 group-title="国际",CNBC
 https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",NEWSMAX
@@ -117,6 +120,8 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5468
 #EXTINF:-1 group-title="国际",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="国际",Court TV
+http://cord-cutter.net:8080/k4Svp2/645504/21092
 #EXTINF:-1 group-title="国际",TalkTV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 group-title="国际",Arirang
@@ -146,7 +151,8 @@ https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="国际",Love Nature
-http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
+https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/00ee4f47-16cf-4246-84ae-732b43eb8dfc/0.m3u8
+#http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
 #EXTINF:-1 group-title="国际",Fashion Channel
 http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="国际",Fashion TV
@@ -297,8 +303,6 @@ http://fl1.moveonjoy.com/TSN_1/mpegts
 http://fl1.moveonjoy.com/TSN_4/mpegts
 #EXTINF:-1 group-title="国际",TSN 5 
 http://fl1.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="国际",Sky Sports Main Event
-https://a1xs.vip/2000015
 #EXTINF:-1 group-title="国际",Sky Sports Premier League  
 https://7pal.short.gy/ssportspl
 #EXTINF:-1 group-title="国际",Sky Sports Football  
@@ -307,6 +311,7 @@ https://7pal.short.gy/ssportsfb
 https://a1xs.vip/2000012
 #EXTINF:-1 group-title="国际",Sky Sports F1
 https://a1xs.vip/2000016
+#http://nocable.cc:8080/bn80NG/909467/53704
 #EXTINF:-1 group-title="国际",Sky Sports Tennis 
 https://a1xs.vip/2000013
 #EXTINF:-1 group-title="国际",Sky Sports News  
