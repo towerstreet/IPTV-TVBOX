@@ -72,9 +72,11 @@ http://192.168.31.150:7878/douyu/1473221
 http://192.168.31.150:7878/douyu/10617369
 #EXTM3U
 #EXTINF:-1 group-title="国际",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://jmp2.uk/stvp-GBBD8000016N
+#https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
+#https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",RT News
@@ -103,6 +105,8 @@ http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 https://1cd69008d08c486ca5abc0f1c4e2ef63.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/87e22cf4-e302-42f6-a781-1d726fc87835/0.m3u8
 #EXTINF:-1 group-title="国际",NEWSMAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
+#EXTINF:-1 group-title="国际",NEWSMAX2
+https://jmp2.uk/rok-28844a800a4e54909eec9695aa3762b2.m3u8
 #EXTINF:-1 group-title="国际",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 #EXTINF:-1 group-title="国际",Arirang K-Pop
@@ -253,10 +257,6 @@ https://7pal.short.gy/tntspts3
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="国际",TNT Sports Ultimate
 https://a1xs.vip/2000031
-#EXTINF:-1 group-title="国际",TSN 1
-http://fl1.moveonjoy.com/TSN_1/mpegts
-#EXTINF:-1 group-title="国际",TSN 4
-http://fl1.moveonjoy.com/TSN_4/mpegts
 #EXTINF:-1 group-title="国际",Sky Sports Premier League
 https://7pal.short.gy/ssportspl
 #EXTINF:-1 group-title="国际",Sky Sports Football
@@ -289,6 +289,8 @@ http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/2210
 #EXTINF:-1 group-title="国际",FS1
 http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="国际",Fox Sports
+https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:-1 group-title="国际",FS2
 https://a1xs.vip/40000022
 #EXTINF:-1 group-title="国际",NHL Network
