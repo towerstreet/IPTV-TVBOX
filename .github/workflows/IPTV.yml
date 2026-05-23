@@ -56,7 +56,7 @@ jobs:
           -d '{"actionId":"Gotify",
                "arguments":[
                   {"name":"TITLE","value":"🎉 towerstreet/IPTV-TVBOX"},
-                  {"name":"MESSAGE","value":"\`\`\`\\n✅ IPTV.m3u\\n✅ ITV.m3u\\n\`\`\`"},
+                  {"name":"MESSAGE","value":"- ✅ IPTV.m3u\n- ✅ ITV.m3u"},
                   {"name":"PRIORITY","value":"6"},
                   {"name":"TOKEN","value":"AuxLzGAOIP54tQq"}
                ]
