@@ -58,7 +58,7 @@ jobs:
                   {"name":"TITLE","value":"🎉 towerstreet/IPTV-TVBOX"},
                   {"name":"MESSAGE","value":"```\n✅ IPTV.m3u\n✅ ITV.m3u\n```\n---\n$(date +'%F %A %r')"},
                   {"name":"PRIORITY","value":"6"},
-                  {"name":"TOKEN ","value":"AuxLzGAOIP54tQq"}
+                  {"name":"TOKEN","value":"AuxLzGAOIP54tQq"}
                ]
           }'
       env:
