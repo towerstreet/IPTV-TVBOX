@@ -53,14 +53,13 @@ jobs:
       run: |
         curl -k -X POST "${{ secrets.OLIVETIN_URL }}/olivetin/StartActionAndWait" \
           -H "Content-Type: application/json" \
-          -d '{"actionId":"Gotify",
-               "arguments":[
-                  {"name":"TITLE","value":"🎉 towerstreet/IPTV-TVBOX"},
-                  {"name":"MESSAGE","value":"- ✅ IPTV.m3u\n- ✅ ITV.m3u"},
+          -d '{ "actionId":"Gotify",
+                "arguments":[
+                  {"name":"TITLE","value":"towerstreet/IPTV-TVBOX"},
+                  {"name":"MESSAGE","value":"### 文件更新：\n```\n✅ IPTV.m3u\n✅ ITV.m3u\n```\n---\n*<https://github.com/towerstreet/IPTV-TVBOX>*"},
                   {"name":"PRIORITY","value":"6"},
                   {"name":"TOKEN","value":"AuxLzGAOIP54tQq"}
-               ]
-          }'
+                ]}'
       env:
         OLIVETIN_URL: ${{ secrets.OLIVETIN_URL }}
 
