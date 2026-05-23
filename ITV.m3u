@@ -52,8 +52,6 @@ http://192.168.31.150:7878/bilibili/35
 http://192.168.31.150:7878/douyu/3226194
 http://192.168.31.150:7878/huya/461698
 http://192.168.31.150:7878/bilibili/5555
-#EXTINF:-1 tvg-name="蛋仔派对" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/网易NeXT.png" group-title="🕹️游戏直播",蛋仔派对
-http://192.168.31.150:7878/huya/660149
 
 #🏖️旅游直播
 #EXTINF:-1 tvg-name="乌镇" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/直播中国.png" group-title="🏖️旅游直播",乌镇
