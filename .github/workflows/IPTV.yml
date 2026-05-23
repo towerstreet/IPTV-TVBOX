@@ -48,7 +48,16 @@ jobs:
           git push origin main
         fi
 
-    - name: Trigger OliveTin Action
+    - name: Trigger OliveTin Action IPTV
+      if: env.HAS_CHANGES == 'true'
+      run: |
+        curl -k -X POST "${{ secrets.OLIVETIN_URL }}" \
+          -H "Content-Type: application/json" \
+          -d '{"actionId":"IPTV"}'
+      env:
+        OLIVETIN_URL: ${{ secrets.OLIVETIN_URL }}
+
+    - name: Trigger OliveTin Action ITV
       if: env.HAS_CHANGES == 'true'
       run: |
         curl -k -X POST "${{ secrets.OLIVETIN_URL }}" \
