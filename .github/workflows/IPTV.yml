@@ -53,7 +53,7 @@ jobs:
       run: |
         curl -k -X POST "${{ secrets.OLIVETIN_URL }}/olivetin/StartActionAndWait" \
           -H "Content-Type: application/json" \
-          -d '{"actionId":"Gotify"
+          -d '{"actionId":"Gotify",
                "arguments":[
                   {"name":"TITLE","value":"🎉 towerstreet/IPTV-TVBOX"},
                   {"name":"MESSAGE","value":"```\n✅ IPTV.m3u\n✅ ITV.m3u\n```\n---\n$(date +'%F %A %r')"},
