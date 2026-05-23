@@ -47,3 +47,12 @@ jobs:
           git commit -m 'Update IPTV.m3u'
           git push origin main
         fi
+
+    - name: Trigger OliveTin Action
+      if: env.HAS_CHANGES == 'true'
+      run: |
+        curl -k -X POST "${{ secrets.OLIVETIN_URL }}" \
+          -H "Content-Type: application/json" \
+          -d '{"actionId":"ITV"}'
+      env:
+        OLIVETIN_URL: ${{ secrets.OLIVETIN_URL }}
