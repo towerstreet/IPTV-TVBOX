@@ -1,19 +1,19 @@
 #EXTM3U
 
 #📺抖音直播
-#EXTINF:-1 tvg-name="央视网" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视网
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视网
 http://192.168.31.150:7878/douyin/rid/870887192950
-#EXTINF:-1 tvg-name="央视网新闻" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视网新闻
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视网新闻
 http://192.168.31.150:7878/douyin/rid/339638082961
-#EXTINF:-1 tvg-name="小央视频" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",小央视频
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",小央视频
 http://192.168.31.150:7878/douyin/rid/547977714661
-#EXTINF:-1 tvg-name="央视快看" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视快看
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视快看
 http://192.168.31.150:7878/douyin/rid/127453393722
-#EXTINF:-1 tvg-name="央视财经" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2 财经" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",CCTV-2 财经
 http://192.168.31.150:7878/douyin/rid/296728101980
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4 中文国际" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",CCTV-4 中文国际
 http://192.168.31.150:7878/douyin/rid/166806983360
-#EXTINF:-1 tvg-name="央视电影" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",央视电影
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6 电影" tvg-logo="https://gitee.com/towerstreet/TV-LOGO/raw/main/Logo/抖音.png" group-title="🎞️抖音直播",CCTV-6 电影
 http://192.168.31.150:7878/douyin/rid/208823316033
 
 #🎞️网络直播
